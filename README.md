@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o Clínico 30 hrs — Estación Central
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html
+- **Commit:** `c37b35a0bc5dd6c6906e22f5fad9a3771da3f9cc`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** enfermero clínico, jornada parcial, procedimientos, centro médico, Estación Central
+
 ## 2026-08-25 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html

@@ -88,13 +88,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-19 — Enfermera/o Clínico 30 hrs — Estación Central
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos
 - **Renta:** a convenir
 - **Encaje:** Medio-alto — jornada parcial en centro médico; procedimientos y registro clínico del base calzan bien.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `c37b35a0bc5dd6c6906e22f5fad9a3771da3f9cc`
 
 ## OF-20260825-20 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
 
