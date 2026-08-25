@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
+
+- **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia
+- **Commit:** `911b710621b3fda8577611dac677ff0a43661568`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pre-admisión, evaluación prequirúrgica, exámenes, urgencias, Providencia
+
 ## 2026-08-25 — Enfermera/o Clínico 30 hrs — Estación Central
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html

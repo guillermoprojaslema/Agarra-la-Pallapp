@@ -99,13 +99,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-20 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (contrato directo + casino)
 - **Encaje:** Medio — evaluación prequirúrgica y manejo de exámenes; deseable urgencias/intensivo.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `911b710621b3fda8577611dac677ff0a43661568`
 
 ## OF-20260825-21 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
 
