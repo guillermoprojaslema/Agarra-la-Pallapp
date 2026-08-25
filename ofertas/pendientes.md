@@ -55,13 +55,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-16 — Enfermeros/as (reemplazo) — Maipú
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.150.000 bruta
 - **Encaje:** Medio-alto — reemplazo en centro de atención; match APS y procedimientos del base. **Vence hoy (25-08).**
 - **Detectada:** 2026-08-25
+- **Commit CV:** `164c681ae2c4bdd7715e1e91eb3d97fd7c5397b5`
 
 ## OF-20260825-17 — Enfermero/a — Gestión de Pacientes (Providencia)
 

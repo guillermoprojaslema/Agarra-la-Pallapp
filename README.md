@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermeros/as (reemplazo) — Maipú
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
+- **Commit:** `164c681ae2c4bdd7715e1e91eb3d97fd7c5397b5`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** APS, reemplazo, centro de atención, procedimientos, Maipú
+
 ## 2026-08-25 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3860116
