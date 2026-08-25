@@ -88,7 +88,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-09 — Enfermera para toma de muestra — Puente Alto
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-para-toma-de-muestra-en-puente-alto-429D441A16AE028261373E686DCF3405
 - **Comuna / zona:** Puente Alto, RM
 - **Fuente:** Computrabajo / Centro Clínico Salud Plus
