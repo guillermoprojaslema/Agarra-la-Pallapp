@@ -1,6 +1,7 @@
 # Secretos y credenciales
 .github/credentials.txt
 .cursor/job_credentials/
+.cursor/correo_destino/credentials
 **/.env
 **/.env.*
 **/credentials.txt
@@ -16,6 +17,9 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+
+# Reportes generados (recuperables desde git)
+reportes/
 
 # Sistema
 .DS_Store
