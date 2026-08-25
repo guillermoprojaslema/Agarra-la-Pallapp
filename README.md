@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Clínico / Atención domiciliaria RM
+
+- **URL:** https://clinicalwork.cl/jobs/enfermeria
+- **Commit:** `9b752a55cc48fe3b3cc7fea6677258b71c18ad50`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, enfermero clínico, pacientes postrados, curaciones, procedimientos
+
 ## 2026-08-25 — Enfermera/o Volante part time RM — toma de muestras
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-part-time-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-74C59F581E12A89361373E686DCF3405
