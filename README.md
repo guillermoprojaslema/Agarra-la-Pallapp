@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o MQ 4to turno — Peñalolén
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-mq-4to-turno-penalolen-1400000-en-santiago-penalolen-7822B4722A50A3DA61373E686DCF3405
+- **Commit:** `3134d19f82719c6ea12034a1d375758183a7ee48`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico-quirúrgico, procedimientos clínicos, curaciones, 4to turno, continuidad de cuidados
+
 ## 2026-08-25 — Enfermera(o) Urgencia 4to turno — Peñalolén
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1480000-institucion-de-salud-penalolen-en-santiago-penalolen-A7FAAF884F563BAC61373E686DCF3405
