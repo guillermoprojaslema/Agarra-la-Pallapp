@@ -1,5 +1,5 @@
 ---
-description: Adaptar el CV a cada oferta y registrar URL + hash en README.md
+description: Adaptar el CV a cada oferta desde CV_Base.docx; registrar URL + hash en README
 alwaysApply: true
 ---
 
@@ -7,29 +7,37 @@ alwaysApply: true
 
 Cuando el usuario compartá una **nueva oferta** (URL, texto o PDF), aplicar **todo** este flujo sin esperar pedidos parciales.
 
-## 1. Adaptar el CV
+## Fuente de verdad (obligatorio)
+
+- El **CV base** es `CV_Base.docx` en la raíz del proyecto.
+- **Toda** adaptación ad-hoc a una oferta parte de ese archivo: hechos, cargos, fechas, formación y competencias acreditadas.
+- **No modificar** `CV_Base.docx` con lenguaje específico de una vacante; ese archivo permanece como plantilla maestra.
+- **No inventar** experiencia que no figure en `CV_Base.docx` (salvo que el usuario la confirme explícitamente).
+
+## 1. Adaptar el CV a la oferta
 
 1. **Leer la oferta** completa (funciones, requisitos, keywords).
-2. Priorizar **Harvard:** `CV_Axel_Pfingsten_Arpe.tex` → PDF. Otros estilos solo si lo pide.
-3. **Título / encabezado** alineado al cargo.
-4. **Perfil (≤ 4 oraciones)** con lenguaje de la oferta + **5 keywords ATS**.
-5. **Bullets afines:** `verbo + qué hiciste + resultado medible` (menos de 20 palabras).
-6. **No inventar** experiencia no acreditada.
+2. **Leer `CV_Base.docx`** y usarlo como base del contenido.
+3. Generar/actualizar la versión de postulación prioritaria: **Harvard** `CV_Axel_Pfingsten_Arpe.tex` → `CV_Axel_Pfingsten_Arpe.pdf`. Otros estilos solo si el usuario lo pide.
+4. **Título / encabezado** alineado al cargo.
+5. **Perfil (≤ 4 oraciones)** con lenguaje de la oferta + **5 keywords ATS**, sin contradecir el base.
+6. **Bullets afines:** `verbo + qué hiciste + resultado medible` (menos de 20 palabras), reescribiendo solo lo que ya existe en el base.
 7. **Compilar** el Harvard (`pdflatex CV_Axel_Pfingsten_Arpe.tex`).
 
 ## 2. Commit + README.md (obligatorio)
 
 Tras adaptar y compilar:
 
-1. **Commit** de los cambios del CV (mensaje breve: cargo + empleador/comuna si se conoce).
+1. **Commit** de los cambios de la versión adaptada (no del base, salvo que el usuario pida actualizar el base).
 2. Obtener el hash: `git rev-parse HEAD`.
-3. **Crear o modificar `README.md`** en la raíz del proyecto. Agregar una entrada nueva **arriba** del historial con al menos:
+3. **Crear o modificar `README.md`**. Entrada nueva **arriba** del historial con:
    - Fecha
    - Cargo / título de la oferta
-   - **URL de la publicación** (la que envió el usuario; si solo pegó texto, indicar «sin URL»)
-   - **Hash del commit** (completo o corto de 7+ caracteres) que contiene la versión del CV para esa oferta
-4. **Segundo commit** solo del `README.md` (o incluir el README en un follow-up inmediato tras conocer el hash).
-5. Si el remoto está configurado y el usuario no lo prohíbe, **push** a `origin`.
+   - **URL de la publicación** (o «sin URL»)
+   - **Hash del commit** de esa versión adaptada
+   - Nota de que el contenido parte de `CV_Base.docx`
+4. **Segundo commit** del `README.md` tras conocer el hash.
+5. **Push** a `origin` si el remoto está configurado y el usuario no lo prohíbe.
 
 ### Formato de entrada en README.md
 
@@ -38,17 +46,17 @@ Tras adaptar y compilar:
 
 - **URL:** https://...
 - **Commit:** `abc1234`
+- **Base:** `CV_Base.docx`
 - **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
 - **Keywords ATS:** palabra1, palabra2, palabra3, palabra4, palabra5
 ```
 
-Mantener un título de proyecto corto al inicio del README y un historial cronológico inverso (más reciente primero).
-
 ## 3. Respuesta al usuario
 
-En **español**: resumen nuevo, keywords ATS, bullets tocados, URL registrada y hash del commit.
+En **español**: resumen nuevo, keywords ATS, bullets tocados, URL y hash del commit.
 
 ## Fuera de alcance
 
 - No subir secretos (`.github/credentials.txt`).
-- No reescribir todo el historial laboral: solo perfil + bullets de mayor match.
+- No reescribir todo el historial: solo perfil + bullets de mayor match.
+- No sobrescribir `CV_Base.docx` con textos tailor-made de una sola oferta.
