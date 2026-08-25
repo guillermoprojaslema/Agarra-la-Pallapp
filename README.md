@@ -22,9 +22,9 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 ## 2026-08-25 — Enfermera Paine (Home Medical Clinic)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-paine-en-paine-0E51164543D755AC61373E686DCF3405
-- **Commit:** 
-- **Base:** 
-- **PDF:** 
+- **Commit:** `b2b0fe683ec1d16a4f7297f848ba883f008a7d29`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
 - **Keywords ATS:** visitas domiciliarias, atención domiciliaria, cuidados de enfermería, pacientes postrados, procedimientos clínicos
 
 ## 2026-08-25 — Enfermeras/os Volantes — atención domiciliaria / RM (Medical Home)

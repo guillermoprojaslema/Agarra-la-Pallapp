@@ -29,7 +29,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Renta:** ~$1.237.000
 - **Encaje:** Medio-alto — clínica domiciliaria / atención en terreno; perfil EU con procedimientos.
 - **Detectada:** 2026-08-25
-- **Commit CV:** 
+- **Commit CV:** `b2b0fe683ec1d16a4f7297f848ba883f008a7d29`
 
 ## OF-20260825-04 — Enfermera(o) Urgencia 4to turno — $1.480.000 líquido
 
