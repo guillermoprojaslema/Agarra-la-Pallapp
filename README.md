@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermeros/as (reemplazo) — Las Condes
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963
+- **Commit:** `dd42f83705885d500d21d650c2ce96bf65793b7b`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** enfermero reemplazo, centro de salud, APS, procedimientos clínicos, Región Metropolitana
+
 ## 2026-08-25 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html

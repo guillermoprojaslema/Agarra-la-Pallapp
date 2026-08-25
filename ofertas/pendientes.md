@@ -33,13 +33,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-14 — Enfermeros/as (reemplazo) — Las Condes
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.150.000 bruta
 - **Encaje:** Medio — reemplazo en centro de salud; experiencia APS/SAR del base encaja en atención ambulatoria.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `dd42f83705885d500d21d650c2ce96bf65793b7b`
 
 ## OF-20260825-15 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
 
