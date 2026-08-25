@@ -33,7 +33,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-04 — Enfermera(o) Urgencia 4to turno — $1.480.000 líquido
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1480000-institucion-de-salud-penalolen-en-santiago-penalolen-A7FAAF884F563BAC61373E686DCF3405
 - **Comuna / zona:** Peñalolén, RM
 - **Fuente:** Computrabajo / Grupo Medical
