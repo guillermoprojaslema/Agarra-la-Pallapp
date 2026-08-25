@@ -8,6 +8,11 @@ La fuente de verdad del contenido es **`CV_Base.docx`**.
 Cada postulación parte de ese archivo y genera una versión ad-hoc (prioridad: Harvard `CV_Axel_Pfingsten_Arpe.tex` / `.pdf`).  
 `CV_Base.docx` no se sobrescribe con el lenguaje de una oferta puntual.
 
+### Flujos
+
+1. **Buscar ofertas** → se listan y guardan en [`ofertas/pendientes.md`](ofertas/pendientes.md).
+2. **Postular** (ej. «postula a OF-…») → se adapta el CV, se registra en este README y, con confirmación, se postula con el navegador.
+
 Cada entrada del historial registra la **URL del aviso** y el **hash del commit** de esa versión adaptada.
 
 ---

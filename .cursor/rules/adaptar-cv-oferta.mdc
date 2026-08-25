@@ -5,7 +5,7 @@ alwaysApply: true
 
 # Adaptar CV a ofertas laborales
 
-Cuando el usuario compartá una **nueva oferta** (URL, texto o PDF), aplicar **todo** este flujo sin esperar pedidos parciales.
+Cuando el usuario compartá una **nueva oferta** (URL, texto o PDF) **o** el Flujo 2 (`postular-oferta`) dispare una adaptación desde `ofertas/pendientes.md`, aplicar **todo** este flujo sin esperar pedidos parciales.
 
 ## Fuente de verdad (obligatorio)
 
