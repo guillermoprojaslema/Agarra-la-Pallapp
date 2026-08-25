@@ -44,7 +44,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-05 — Enfermera/o MQ 4to turno — $1.400.000
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-mq-4to-turno-penalolen-1400000-en-santiago-penalolen-7822B4722A50A3DA61373E686DCF3405
 - **Comuna / zona:** Peñalolén, RM
 - **Fuente:** Computrabajo
