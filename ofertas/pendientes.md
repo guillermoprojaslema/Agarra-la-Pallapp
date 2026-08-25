@@ -22,13 +22,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-13 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html
 - **Comuna / zona:** Ñuñoa / RM
 - **Fuente:** Laborum / Servicios Clínicos Domiciliarios San Juan de Dios
 - **Renta:** $1.300.000–$1.400.000 bruta/mes
 - **Encaje:** Alto — ruta HOSDOM; base acredita domicilio, procedimientos y continuidad. Piden vehículo, licencia y ≥2 años exp.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `eb91e53c3e6c3772b72d30552a1eb0827b80f91c`
 
 ## OF-20260825-14 — Enfermeros/as (reemplazo) — Las Condes
 

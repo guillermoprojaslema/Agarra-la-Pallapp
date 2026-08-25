@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html
+- **Commit:** `eb91e53c3e6c3772b72d30552a1eb0827b80f91c`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, enfermera clínica de ruta, atención domiciliaria, IAAS, procedimientos especializados
+
 ## 2026-08-25 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-de-ruta-hospitalizacion-domiciliaria-en-santiago-nunoa-0EA9D4607A2A1BEB61373E686DCF3405
