@@ -77,7 +77,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-08 — Enfermera(o) Clínica(o) — Puente Alto (22 h)
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-22-horas-en-puente-alto-D32D8317FF42245E61373E686DCF3405
 - **Comuna / zona:** Puente Alto, RM
 - **Fuente:** Computrabajo / Centro de Salud
