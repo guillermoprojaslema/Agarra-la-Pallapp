@@ -1,0 +1,137 @@
+% AltaCV — pdflatex CV_Axel_altacv.tex
+\documentclass[10pt,a4paper,withhyper]{altacv}
+
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+\usepackage{paracol}
+\usepackage[spanish]{babel}
+
+\usepackage[rm]{roboto}
+\usepackage[defaultsans]{lato}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{555555}
+\definecolor{AccentBlue}{HTML}{005293}
+\colorlet{name}{black}
+\colorlet{tagline}{AccentBlue}
+\colorlet{heading}{AccentBlue}
+\colorlet{headingrule}{AccentBlue}
+\colorlet{subheading}{AccentBlue}
+\colorlet{accent}{AccentBlue}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\namefont}{\Huge\bfseries}
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\locationname}{Ubicación}
+\renewcommand{\datename}{Fecha}
+
+\newcommand{\maps}[2]{\href{https://www.google.com/maps/search/?api=1\&query=#1}{#2}}
+
+\begin{document}
+\name{Axel Pfingsten Arpe}
+\tagline{Enfermero Profesional --- Disponibilidad inmediata}
+
+\personalinfo{%
+  \email{axel.pfingsten@gmail.com}
+  \phone{+56 9 4203 5552}
+  \printinfo{\faLinkedin}{Axel Pfingsten}[https://www.linkedin.com/in/axel-pfingsten-arpe-43781a209]
+  \location{San Joaquín, Región Metropolitana, Chile}
+}
+
+\makecvheader
+
+\columnratio{0.62}
+\begin{paracol}{2}
+
+\cvsection{Experiencia}
+
+\cvevent{Enfermero de Sector}{\maps{CESFAM+La+Florida+Av.+La+Florida+6015,+La+Florida,+Santiago}{CESFAM La Florida}}{Nov 2025 -- Ene 2026}{La Florida, RM}
+\begin{itemize}
+\item Atención preventiva APS (EMPA/EMPAM) y pie diabético.
+\item Registro clínico institucional y continuidad del cuidado.
+\end{itemize}
+
+\divider
+
+\cvevent{Enfermero de Sector}{\maps{CESFAM+Bellavista+Pudeto+7100,+La+Florida,+Santiago}{CESFAM Bellavista}}{Ago 2024 -- Nov 2025}{La Florida, RM}
+\begin{itemize}
+\item Niño sano, EEDP, TEPSI, lactancia; NANEAS y ECICEP.
+\item Postrados, insulinoterapia, HTA y EMPA/EMPAM.
+\end{itemize}
+
+\divider
+
+\cvevent{Enfermero Pacientes Postrados}{\maps{CESFAM+N5+Union+Latinoamericana+98,+Santiago+Centro}{CESFAM N\textdegree5}}{May 2024 -- Ago 2024}{Santiago Centro, RM}
+\begin{itemize}
+\item Atención domiciliaria, curaciones avanzadas y vacunas.
+\end{itemize}
+
+\divider
+
+\cvevent{Enfermero de Sector}{\maps{CESFAM+Dr.+Fernando+Maffioletti+Av.+Central+301,+La+Florida,+Santiago}{CESFAM Maffioletti}}{Ene 2022 -- Dic 2023}{La Florida, RM}
+\begin{itemize}
+\item COVID-19, respiratorias, SAC, PSCV y controles APS.
+\end{itemize}
+
+\divider
+
+\cvevent{Enfermero Área Box}{\maps{CESFAM+Santa+Amalia+202,+La+Florida,+Santiago}{CESFAM Santa Amalia}}{Nov 2021 -- Dic 2021}{La Florida, RM}
+\begin{itemize}
+\item PSCV, niño sano, EMPA/EMPAM y seguimiento COVID-19.
+\end{itemize}
+
+\divider
+
+\cvevent{Enfermero de Apoyo APS}{\maps{CESFAM+Los+Quillayes+Julio+Cesar+10905,+La+Florida,+Santiago}{CESFAM Los Quillayes}}{Abr 2021 -- Oct 2021}{La Florida, RM}
+\begin{itemize}
+\item Vacunatorio, SAR, campañas COVID-19/VPH y trazabilidad.
+\end{itemize}
+
+\switchcolumn
+
+\cvsection{Perfil}
+Enfermero titulado con experiencia en APS, programas ministeriales, SAR y atención domiciliaria. Especializado en salud infantil, PSCV, EMPA/EMPAM, NANEAS, ECICEP y pacientes postrados.
+
+\cvsection{Competencias}
+\cvtag{APS}
+\cvtag{PSCV}
+\cvtag{EMPA/EMPAM}
+\cvtag{Niño sano}
+\cvtag{NANEAS}
+\cvtag{ECICEP}
+\cvtag{Pie diabético}
+\cvtag{Insulinoterapia}
+\cvtag{Curaciones}
+\cvtag{RAYEN}
+\cvtag{SIGGES}
+\cvtag{PNI}
+\cvtag{IAAS}
+
+\cvsection{Formación}
+\cvevent{Enfermería}{Universidad Central de Chile}{Enero 2021}{}
+
+\medskip
+\textbf{AGCS Asesorías y Capacitación}
+\begin{itemize}
+\item Diplomado Calidad y Gestión en Salud (320 h)
+\item IAAS (80 h); RCP y DEA (30 h)
+\item PNI (60 h); TEA (80 h)
+\end{itemize}
+
+\cvsection{Referencias}
+{\footnotesize
+\textbf{G.\ Cavallo Barría}\\ Directora CESFAM Maffioletti\\
+\href{mailto:Gcavallob@gmail.com}{Gcavallob@gmail.com}\\[4pt]
+\textbf{C.\ Silva Orellana}\\ Director CESFAM Los Quillayes\\
+\href{mailto:caso.klgo@gmail.com}{caso.klgo@gmail.com}\\[4pt]
+\textbf{S.\ Acuña Vielma}\\ Enc.\ infantil CESFAM Maffioletti\\
+\href{mailto:silvia.avielma@gmail.com}{silvia.avielma@gmail.com}\\[4pt]
+\textbf{M.\ Barja Aguilera}\\ Jefa sector CESFAM Bellavista\\
+\href{mailto:valle.bv@comudef.cl}{valle.bv@comudef.cl}\\[4pt]
+\textbf{C.\ Esquivel Rozas}\\ Subdirectora CESFAM La Florida\\
+\href{mailto:subdireccioncslf@comudef.cl}{subdireccioncslf@comudef.cl}
+}
+
+\end{paracol}
+\end{document}
