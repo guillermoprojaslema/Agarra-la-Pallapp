@@ -66,13 +66,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-17 — Enfermero/a — Gestión de Pacientes (Providencia)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
 - **Renta:** a convenir (176 h/mes ref.)
 - **Encaje:** Medio — rol clínico-administrativo hospitalario; base aporta APS, procedimientos y registro clínico.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `099310e200f15976280ded27cf03e1cb098d9b9a`
 
 ## OF-20260825-18 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
 

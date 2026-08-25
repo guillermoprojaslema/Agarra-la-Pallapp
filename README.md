@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero/a — Gestión de Pacientes (Providencia)
+
+- **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html
+- **Commit:** `099310e200f15976280ded27cf03e1cb098d9b9a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** gestión de pacientes, enfermería hospitalaria, registro clínico, APS, Providencia
+
 ## 2026-08-25 — Enfermeros/as (reemplazo) — Maipú
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
