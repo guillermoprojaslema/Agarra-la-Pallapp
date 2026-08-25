@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermeras/os Volantes — atención domiciliaria / RM (Medical Home)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-02E157BF9FC9490B61373E686DCF3405
+- **Commit:** `15c36c1908896847460bb6d8d590b5af29053442`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, hospitalización domiciliaria, enfermero volante, dispositivos invasivos, continuidad de cuidados
+
 ## 2026-08-25 — Enfermera/o Hospitalización Domiciliaria (HOSDOM), Peñalolén
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-hospitalizacion-domiciliaria-renta-liquida-1300000-penalolen-en-santiago-penalolen-69DB87DCEC4EB8F761373E686DCF3405
