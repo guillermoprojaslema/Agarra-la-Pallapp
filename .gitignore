@@ -1,0 +1,23 @@
+# Secretos y credenciales
+.github/credentials.txt
+**/.env
+**/.env.*
+**/credentials.txt
+**/secrets.*
+
+# Artefactos LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*~
