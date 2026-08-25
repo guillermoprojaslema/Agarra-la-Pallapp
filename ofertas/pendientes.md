@@ -9,6 +9,119 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
+
+- **Estado:** lista_para_postular
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-de-ruta-hospitalizacion-domiciliaria-en-santiago-nunoa-0EA9D4607A2A1BEB61373E686DCF3405
+- **Comuna / zona:** Ñuñoa / RM (ruta domiciliaria)
+- **Fuente:** Computrabajo / Sirak Ltda
+- **Renta:** a confirmar en aviso
+- **Encaje:** Alto — hospitalización domiciliaria pediátrica/adulta; CV_Base trae postrados, domicilio, curaciones y procedimientos.
+- **Detectada:** 2026-08-25
+- **Commit CV:** `52869264014b726149ec0252ad257c9a29240462`
+
+## OF-20260825-13 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html
+- **Comuna / zona:** Ñuñoa / RM
+- **Fuente:** Laborum / Servicios Clínicos Domiciliarios San Juan de Dios
+- **Renta:** $1.300.000–$1.400.000 bruta/mes
+- **Encaje:** Alto — ruta HOSDOM; base acredita domicilio, procedimientos y continuidad. Piden vehículo, licencia y ≥2 años exp.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-14 — Enfermeros/as (reemplazo) — Las Condes
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.150.000 bruta
+- **Encaje:** Medio — reemplazo en centro de salud; experiencia APS/SAR del base encaja en atención ambulatoria.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-15 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/3860116
+- **Comuna / zona:** Pudahuel, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.150.000
+- **Encaje:** Medio — CV_Base trae SAR/COVID/SAC; piden experiencia en urgencias (confirmar años).
+- **Detectada:** 2026-08-25
+
+## OF-20260825-16 — Enfermeros/as (reemplazo) — Maipú
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
+- **Comuna / zona:** Maipú, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.150.000 bruta
+- **Encaje:** Medio-alto — reemplazo en centro de atención; match APS y procedimientos del base. **Vence hoy (25-08).**
+- **Detectada:** 2026-08-25
+
+## OF-20260825-17 — Enfermero/a — Gestión de Pacientes (Providencia)
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Laborum / ECR Salud
+- **Renta:** a convenir (176 h/mes ref.)
+- **Encaje:** Medio — rol clínico-administrativo hospitalario; base aporta APS, procedimientos y registro clínico.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-18 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html
+- **Comuna / zona:** Las Condes (Manquehue), RM
+- **Fuente:** Laborum / IntegraMédica (Bupa)
+- **Renta:** a convenir
+- **Encaje:** Medio-alto — procedimientos ambulatorios y supervisión de box; RCP avanzado excluyente.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-19 — Enfermera/o Clínico 30 hrs — Estación Central
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Laborum / Red centros médicos
+- **Renta:** a convenir
+- **Encaje:** Medio-alto — jornada parcial en centro médico; procedimientos y registro clínico del base calzan bien.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-20 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (contrato directo + casino)
+- **Encaje:** Medio — evaluación prequirúrgica y manejo de exámenes; deseable urgencias/intensivo.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-21 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085
+- **Comuna / zona:** Cerro Navia, RM
+- **Fuente:** ChileTrabajos / Municipalidad de Cerro Navia
+- **Renta:** escala APS municipal (44 h)
+- **Encaje:** Medio-alto — APS municipal, visitas domiciliarias e infantil; experiencia CESFAM del base encaja.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-22 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
+- **Comuna / zona:** Quilicura, RM
+- **Fuente:** ChileTrabajos / GO LTDA (Mutual)
+- **Renta:** $1.070.000 (part-time L–V 9:30–18:00)
+- **Encaje:** Medio — reemplazo en mutual; procedimientos y atención ambulatoria del base aplican.
+- **Detectada:** 2026-08-25
+
+---
+
 ## OF-20260825-02 — Enfermeras/os Volantes — atención domiciliaria / RM (Medical Home)
 
 - **Estado:** postulada

@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-de-ruta-hospitalizacion-domiciliaria-en-santiago-nunoa-0EA9D4607A2A1BEB61373E686DCF3405
+- **Commit:** `52869264014b726149ec0252ad257c9a29240462`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, enfermera de ruta, atención domiciliaria, procedimientos clínicos, Región Metropolitana
+
 ## 2026-08-25 — Enfermera(o) Clínico / Atención domiciliaria RM
 
 - **URL:** https://clinicalwork.cl/jobs/enfermeria
