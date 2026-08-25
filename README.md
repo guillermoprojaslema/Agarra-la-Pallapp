@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Clínica(o) — Puente Alto 22 h
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-22-horas-en-puente-alto-D32D8317FF42245E61373E686DCF3405
+- **Commit:** `8280c46facb9d1f2de5089d5eb73da2237e3197a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** enfermero clínico, atención ambulatoria, procedimientos, EMPA, PSCV
+
 ## 2026-08-25 — Enfermero/a UTM Volante RM
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-volante-rm-en-santiago-providencia-830E107C0ED4435C61373E686DCF3405
