@@ -22,13 +22,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-03 — Enfermera Paine (Home Medical Clinic)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-paine-en-paine-0E51164543D755AC61373E686DCF3405
 - **Comuna / zona:** Paine, RM
 - **Fuente:** Computrabajo / Home Medical Clinic
 - **Renta:** ~$1.237.000
 - **Encaje:** Medio-alto — clínica domiciliaria / atención en terreno; perfil EU con procedimientos.
 - **Detectada:** 2026-08-25
+- **Commit CV:** 
 
 ## OF-20260825-04 — Enfermera(o) Urgencia 4to turno — $1.480.000 líquido
 
