@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085
+- **Commit:** `89b9158f32c690b55950d0ae37e12461d4e90b86`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** PRAPS, APS municipal, visitas domiciliarias, desarrollo infantil, Cerro Navia
+
 ## 2026-08-25 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
 
 - **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia

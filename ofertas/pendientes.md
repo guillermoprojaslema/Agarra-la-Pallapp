@@ -110,13 +110,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-21 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085
 - **Comuna / zona:** Cerro Navia, RM
 - **Fuente:** ChileTrabajos / Municipalidad de Cerro Navia
 - **Renta:** escala APS municipal (44 h)
 - **Encaje:** Medio-alto — APS municipal, visitas domiciliarias e infantil; experiencia CESFAM del base encaja.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `89b9158f32c690b55950d0ae37e12461d4e90b86`
 
 ## OF-20260825-22 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
 
