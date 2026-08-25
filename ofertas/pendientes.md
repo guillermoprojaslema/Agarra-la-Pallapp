@@ -110,7 +110,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-11 — Enfermera(o) Clínico / Atención domiciliaria / RM (ClinicalWork → Indeed)
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://clinicalwork.cl/jobs/enfermeria
 - **Comuna / zona:** RM
 - **Fuente:** ClinicalWork / Home Medical Clinic (Indeed)
