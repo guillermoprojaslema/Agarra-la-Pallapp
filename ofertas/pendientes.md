@@ -11,17 +11,18 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-02 — Enfermeras/os Volantes — atención domiciliaria / RM (Medical Home)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-02E157BF9FC9490B61373E686DCF3405
 - **Comuna / zona:** Recoleta / RM (movilidad entre comunas)
 - **Fuente:** Computrabajo / Clínica Medical Home
 - **Renta:** a convenir
 - **Encaje:** Alto — domiciliaria/HOSDOM; CV_Base tiene postrados, domicilio, Foley y curaciones. Pedirán TQT/GTT/VM (confirmar si las tienes).
 - **Detectada:** 2026-08-25
+- **Commit CV:** `15c36c1908896847460bb6d8d590b5af29053442`
 
 ## OF-20260825-03 — Enfermera Paine (Home Medical Clinic)
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-paine-en-paine-0E51164543D755AC61373E686DCF3405
 - **Comuna / zona:** Paine, RM
 - **Fuente:** Computrabajo / Home Medical Clinic
