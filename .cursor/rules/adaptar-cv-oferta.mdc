@@ -1,0 +1,54 @@
+---
+description: Adaptar el CV a cada oferta y registrar URL + hash en README.md
+alwaysApply: true
+---
+
+# Adaptar CV a ofertas laborales
+
+Cuando el usuario compartá una **nueva oferta** (URL, texto o PDF), aplicar **todo** este flujo sin esperar pedidos parciales.
+
+## 1. Adaptar el CV
+
+1. **Leer la oferta** completa (funciones, requisitos, keywords).
+2. Priorizar **Harvard:** `CV_Axel_Pfingsten_Arpe.tex` → PDF. Otros estilos solo si lo pide.
+3. **Título / encabezado** alineado al cargo.
+4. **Perfil (≤ 4 oraciones)** con lenguaje de la oferta + **5 keywords ATS**.
+5. **Bullets afines:** `verbo + qué hiciste + resultado medible` (menos de 20 palabras).
+6. **No inventar** experiencia no acreditada.
+7. **Compilar** el Harvard (`pdflatex CV_Axel_Pfingsten_Arpe.tex`).
+
+## 2. Commit + README.md (obligatorio)
+
+Tras adaptar y compilar:
+
+1. **Commit** de los cambios del CV (mensaje breve: cargo + empleador/comuna si se conoce).
+2. Obtener el hash: `git rev-parse HEAD`.
+3. **Crear o modificar `README.md`** en la raíz del proyecto. Agregar una entrada nueva **arriba** del historial con al menos:
+   - Fecha
+   - Cargo / título de la oferta
+   - **URL de la publicación** (la que envió el usuario; si solo pegó texto, indicar «sin URL»)
+   - **Hash del commit** (completo o corto de 7+ caracteres) que contiene la versión del CV para esa oferta
+4. **Segundo commit** solo del `README.md` (o incluir el README en un follow-up inmediato tras conocer el hash).
+5. Si el remoto está configurado y el usuario no lo prohíbe, **push** a `origin`.
+
+### Formato de entrada en README.md
+
+```markdown
+## YYYY-MM-DD — Cargo de la oferta
+
+- **URL:** https://...
+- **Commit:** `abc1234`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** palabra1, palabra2, palabra3, palabra4, palabra5
+```
+
+Mantener un título de proyecto corto al inicio del README y un historial cronológico inverso (más reciente primero).
+
+## 3. Respuesta al usuario
+
+En **español**: resumen nuevo, keywords ATS, bullets tocados, URL registrada y hash del commit.
+
+## Fuera de alcance
+
+- No subir secretos (`.github/credentials.txt`).
+- No reescribir todo el historial laboral: solo perfil + bullets de mayor match.
