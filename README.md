@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
+- **Commit:** `deec590b3c26d883ea810c242b28edd964da6d6e`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** reemplazo, mutual, procedimientos ambulatorios, enfermero universitario, Quilicura
+
 ## 2026-08-25 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085

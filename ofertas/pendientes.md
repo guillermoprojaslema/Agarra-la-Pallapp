@@ -121,13 +121,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-22 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** ChileTrabajos / GO LTDA (Mutual)
 - **Renta:** $1.070.000 (part-time L–V 9:30–18:00)
 - **Encaje:** Medio — reemplazo en mutual; procedimientos y atención ambulatoria del base aplican.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `deec590b3c26d883ea810c242b28edd964da6d6e`
 
 ---
 
