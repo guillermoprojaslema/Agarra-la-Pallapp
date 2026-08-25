@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o Volante part time RM — toma de muestras
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-part-time-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-74C59F581E12A89361373E686DCF3405
+- **Commit:** `e221631ef1dab604cdcbe441123a6078338fe556`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** volante part time, toma de muestras, PCR, antígeno, Región Metropolitana
+
 ## 2026-08-25 — Enfermera para toma de muestra — Puente Alto
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-para-toma-de-muestra-en-puente-alto-429D441A16AE028261373E686DCF3405
