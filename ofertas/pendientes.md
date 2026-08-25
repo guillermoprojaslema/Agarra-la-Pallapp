@@ -99,7 +99,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-10 — Enfermera/o Volante part time RM (toma de muestras)
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-part-time-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-74C59F581E12A89361373E686DCF3405
 - **Comuna / zona:** Las Condes / RM
 - **Fuente:** Computrabajo / XinerLink
