@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera para toma de muestra — Puente Alto
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-para-toma-de-muestra-en-puente-alto-429D441A16AE028261373E686DCF3405
+- **Commit:** `c4a0aa566be4d31e564a2446f1be9df6314ccffb`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestra, antígeno, PCR, bioseguridad, procedimientos
+
 ## 2026-08-25 — Enfermera(o) Clínica(o) — Puente Alto 22 h
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-22-horas-en-puente-alto-D32D8317FF42245E61373E686DCF3405
