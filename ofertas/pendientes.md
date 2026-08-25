@@ -66,13 +66,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-07 — Enfermero/a UTM Volante, RM
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-volante-rm-en-santiago-providencia-830E107C0ED4435C61373E686DCF3405
 - **Comuna / zona:** Providencia / RM
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** no confiable en listado (revisar aviso)
 - **Encaje:** Medio — unidad de toma de muestras / volante; experiencia de muestras en base.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `2b3c906e2b78999ff6214a1f6d797f239527703f`
 
 ## OF-20260825-08 — Enfermera(o) Clínica(o) — Puente Alto (22 h)
 

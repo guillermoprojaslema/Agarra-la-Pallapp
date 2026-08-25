@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero/a UTM Volante RM
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-volante-rm-en-santiago-providencia-830E107C0ED4435C61373E686DCF3405
+- **Commit:** `2b3c906e2b78999ff6214a1f6d797f239527703f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTM, toma de muestras, volante, procedimientos, RAYEN
+
 ## 2026-08-25 — Enfermera/o Volante RM — toma de muestras
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-E96A8FF1B76C4A8C61373E686DCF3405
