@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Urgencia 4to turno — Peñalolén
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1480000-institucion-de-salud-penalolen-en-santiago-penalolen-A7FAAF884F563BAC61373E686DCF3405
+- **Commit:** `f96d62910acd9a09de7f0c49ca7053fc2a240067`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencia, SAR, SAC, 4to turno, procedimientos clínicos
+
 ## 2026-08-25 — Enfermera Paine (Home Medical Clinic)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-paine-en-paine-0E51164543D755AC61373E686DCF3405
