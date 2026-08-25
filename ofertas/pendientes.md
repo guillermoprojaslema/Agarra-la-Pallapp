@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
 
-- **Estado:** lista_para_postular
+- **Estado:** cerrada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-de-ruta-hospitalizacion-domiciliaria-en-santiago-nunoa-0EA9D4607A2A1BEB61373E686DCF3405
 - **Comuna / zona:** Ñuñoa / RM (ruta domiciliaria)
 - **Fuente:** Computrabajo / Sirak Ltda
@@ -19,10 +19,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — hospitalización domiciliaria pediátrica/adulta; CV_Base trae postrados, domicilio, curaciones y procedimientos.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `52869264014b726149ec0252ad257c9a29240462`
+- **Nota postulación:** 2026-08-25 — aviso ya no disponible en Computrabajo (oferta cerrada).
 
 ## OF-20260825-13 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html
 - **Comuna / zona:** Ñuñoa / RM
 - **Fuente:** Laborum / Servicios Clínicos Domiciliarios San Juan de Dios
@@ -30,10 +31,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — ruta HOSDOM; base acredita domicilio, procedimientos y continuidad. Piden vehículo, licencia y ≥2 años exp.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `eb91e53c3e6c3772b72d30552a1eb0827b80f91c`
+- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
 
 ## OF-20260825-14 — Enfermeros/as (reemplazo) — Las Condes
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -41,10 +43,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — reemplazo en centro de salud; experiencia APS/SAR del base encaja en atención ambulatoria.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `dd42f83705885d500d21d650c2ce96bf65793b7b`
+- **Nota postulación:** 2026-08-25 — ChileTrabajos sin cuenta válida; XinerLink también acepta CV por correo a yohanna.gonzalez@xinerlink.cl.
 
 ## OF-20260825-15 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/3860116
 - **Comuna / zona:** Pudahuel, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -52,10 +55,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — CV_Base trae SAR/COVID/SAC; piden experiencia en urgencias (confirmar años).
 - **Detectada:** 2026-08-25
 - **Commit CV:** `d2c84e7ab33e0539a586968f153c89cd160f30ac`
+- **Nota postulación:** 2026-08-25 — ChileTrabajos sin cuenta válida; postulación alternativa por email a yohanna.gonzalez@xinerlink.cl.
 
 ## OF-20260825-16 — Enfermeros/as (reemplazo) — Maipú
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -63,10 +67,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — reemplazo en centro de atención; match APS y procedimientos del base. **Vence hoy (25-08).**
 - **Detectada:** 2026-08-25
 - **Commit CV:** `164c681ae2c4bdd7715e1e91eb3d97fd7c5397b5`
+- **Nota postulación:** 2026-08-25 — vencía hoy; ChileTrabajos sin cuenta + email XinerLink pendiente.
 
 ## OF-20260825-17 — Enfermero/a — Gestión de Pacientes (Providencia)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
@@ -74,10 +79,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — rol clínico-administrativo hospitalario; base aporta APS, procedimientos y registro clínico.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `099310e200f15976280ded27cf03e1cb098d9b9a`
+- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
 
 ## OF-20260825-18 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html
 - **Comuna / zona:** Las Condes (Manquehue), RM
 - **Fuente:** Laborum / IntegraMédica (Bupa)
@@ -85,10 +91,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — procedimientos ambulatorios y supervisión de box; RCP avanzado excluyente.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `2113b03f006b3d6ad5d71d874cee3083e36d1a8d`
+- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
 
 ## OF-20260825-19 — Enfermera/o Clínico 30 hrs — Estación Central
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos
@@ -96,10 +103,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — jornada parcial en centro médico; procedimientos y registro clínico del base calzan bien.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `c37b35a0bc5dd6c6906e22f5fad9a3771da3f9cc`
+- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
 
 ## OF-20260825-20 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -107,10 +115,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — evaluación prequirúrgica y manejo de exámenes; deseable urgencias/intensivo.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `911b710621b3fda8577611dac677ff0a43661568`
+- **Fecha postulación:** 2026-08-25
 
 ## OF-20260825-21 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085
 - **Comuna / zona:** Cerro Navia, RM
 - **Fuente:** ChileTrabajos / Municipalidad de Cerro Navia
@@ -118,10 +127,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — APS municipal, visitas domiciliarias e infantil; experiencia CESFAM del base encaja.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `89b9158f32c690b55950d0ae37e12461d4e90b86`
+- **Nota postulación:** 2026-08-25 — ChileTrabajos: credenciales axel.pfingsten@gmail.com rechazadas; requiere cuenta o registro.
 
 ## OF-20260825-22 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** ChileTrabajos / GO LTDA (Mutual)
@@ -129,6 +139,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — reemplazo en mutual; procedimientos y atención ambulatoria del base aplican.
 - **Detectada:** 2026-08-25
 - **Commit CV:** `deec590b3c26d883ea810c242b28edd964da6d6e`
+- **Nota postulación:** 2026-08-25 — ChileTrabajos: credenciales axel.pfingsten@gmail.com rechazadas; requiere cuenta o registro.
 
 ---
 
