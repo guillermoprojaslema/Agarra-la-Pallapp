@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html
+- **Commit:** `2113b03f006b3d6ad5d71d874cee3083e36d1a8d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** enfermero clínico, procedimientos ambulatorios, centro médico, RCP avanzado, Las Condes
+
 ## 2026-08-25 — Enfermero/a — Gestión de Pacientes (Providencia)
 
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html

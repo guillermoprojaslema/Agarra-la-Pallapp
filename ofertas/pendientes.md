@@ -77,13 +77,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-18 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html
 - **Comuna / zona:** Las Condes (Manquehue), RM
 - **Fuente:** Laborum / IntegraMédica (Bupa)
 - **Renta:** a convenir
 - **Encaje:** Medio-alto — procedimientos ambulatorios y supervisión de box; RCP avanzado excluyente.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `2113b03f006b3d6ad5d71d874cee3083e36d1a8d`
 
 ## OF-20260825-19 — Enfermera/o Clínico 30 hrs — Estación Central
 
