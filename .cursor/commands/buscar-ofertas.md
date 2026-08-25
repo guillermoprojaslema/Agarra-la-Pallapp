@@ -16,7 +16,15 @@ Cuando el usuario pida **buscar ofertas**, **encontrar vacantes**, **listar trab
 
 ## Pasos
 
-1. Buscar en Computrabajo, Mipleo, Empleos Públicos, portales municipales/CESFAM, Ancora/UC Christus, etc.
+1. Buscar en estos portales (priorizar volumen en salud / APS; recorrer varios, no solo uno):
+   - **Generales Chile:** Computrabajo, Laborum, Indeed Chile, Trabajando.com, ChileTrabajos, Jooble, Blackboardjob, Mipleo, OpciónEmpleo, Yapo Empleos, ChileAtiende (avisos laborales), Trovit Empleo, Careerjet, SimplyHired (agregadores)
+   - **Salud especializados:** ClinicalWork, portales/avisos de hospitalización domiciliaria (Medical Home, Home Medical Clinic, TeveuCI, etc. cuando publiquen), XinerLink / consultoras de staffing clínico
+   - **Público / APS:** Empleos Públicos (Servicio Civil), Bolsa Nacional de Empleo (BNE), OMIL comunales, portales de corporaciones municipales de salud / CESFAM / CECOSF / SAR, sitios de Servicios de Salud Metropolitanos (Norte, Sur, Oriente, Occidente, Central), Hospitales de la red pública (concursos vigentes / Empleos Públicos)
+   - **Redes clínicas privadas:** Ancora UC / UC CHRISTUS (Pandapé), Clínica Alemana, Clínica Las Condes, Red Salud UC CHRISTUS, Clínica Santa María, Clínica Dávila / Vespucio, Clínica Indisa, Bupa / Integramédica, Clínica Bupa Santiago, RedSalud, Clínica Bicentenario / Tabancura / Avansalud (cuando tengan “trabaja con nosotros”)
+   - **Mutuales / seguros / ISL:** ACHS, Mutual de Seguridad, Instituto de Seguridad Laboral (ISL), Isapres (Banmédica, Colmena, Consalud, Cruz Blanca, Nueva Masvida, Vida Tres) — secciones de empleo o Computrabajo/Laborum corporativo
+   - **Universidades / docencia clínica (si aparece enfermería APS):** portales de RR.HH. UC, U. de Chile, Usach, U. Central, UNAB, UDD, USS, UBO, etc.
+   - **Redes y comunidades:** LinkedIn (empleos + posts #enfermería #APS #CESFAM), Facebook grupos de empleo salud Chile, Instagram de corporaciones municipales de salud
+   - **Agencias / outsourcing salud:** Seniority, Workforce/EST, Progestion, consultoras que publiquen EU/TENS en RM
 2. Verificar vigencia (fecha, “hace X horas/días”, plazo de postulación).
 3. Presentar al usuario un **listado numerado** (cargo, comuna, renta si hay, por qué encaja, URL).
 4. **Guardar/actualizar** `ofertas/pendientes.md` con las ofertas nuevas (sin duplicar la misma URL).
@@ -30,7 +38,7 @@ Cuando el usuario pida **buscar ofertas**, **encontrar vacantes**, **listar trab
 - **Estado:** pendiente
 - **URL:** https://...
 - **Comuna / zona:** ...
-- **Fuente:** Computrabajo | Empleos Públicos | ...
+- **Fuente:** Computrabajo | Laborum | Indeed | Trabajando | ChileTrabajos | ClinicalWork | Empleos Públicos | BNE | LinkedIn | Municipal/CESFAM | Ancora/UC | Clínica/Mutual | Agencia | …
 - **Renta:** ... (si aparece)
 - **Encaje:** 1–2 líneas vs CV_Base
 - **Detectada:** YYYY-MM-DD

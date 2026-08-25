@@ -1,5 +1,6 @@
 # Secretos y credenciales
 .github/credentials.txt
+.cursor/job_credentials/
 **/.env
 **/.env.*
 **/credentials.txt
