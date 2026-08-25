@@ -66,7 +66,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-07 — Enfermero/a UTM Volante, RM
 
-- **Estado:** pendiente
+- **Estado:** en_adaptacion
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-volante-rm-en-santiago-providencia-830E107C0ED4435C61373E686DCF3405
 - **Comuna / zona:** Providencia / RM
 - **Fuente:** Computrabajo / XinerLink
