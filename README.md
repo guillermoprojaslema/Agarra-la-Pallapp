@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o Volante RM — toma de muestras
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-E96A8FF1B76C4A8C61373E686DCF3405
+- **Commit:** `6851af855e8cb12189c431913f30cdb31a610a41`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, enfermero volante, antígeno, PCR, Región Metropolitana
+
 ## 2026-08-25 — Enfermera/o MQ 4to turno — Peñalolén
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-mq-4to-turno-penalolen-1400000-en-santiago-penalolen-7822B4722A50A3DA61373E686DCF3405

@@ -55,13 +55,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-06 — Enfermera/o Volante RM (toma de muestras)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-E96A8FF1B76C4A8C61373E686DCF3405
 - **Comuna / zona:** Las Condes / RM
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** ~$1.100.000
 - **Encaje:** Medio — base acredita toma de muestras, antígeno/PCR y movilidad APS.
 - **Detectada:** 2026-08-25
+- **Commit CV:** `6851af855e8cb12189c431913f30cdb31a610a41`
 
 ## OF-20260825-07 — Enfermero/a UTM Volante, RM
 
