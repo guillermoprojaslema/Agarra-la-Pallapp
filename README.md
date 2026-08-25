@@ -19,6 +19,14 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3860116
+- **Commit:** `d2c84e7ab33e0539a586968f153c89cd160f30ac`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, reemplazo, SAR, estabilización, procedimientos clínicos
+
 ## 2026-08-25 — Enfermeros/as (reemplazo) — Las Condes
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963

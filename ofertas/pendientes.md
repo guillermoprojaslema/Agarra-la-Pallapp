@@ -44,13 +44,14 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-15 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/3860116
 - **Comuna / zona:** Pudahuel, RM
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.150.000
 - **Encaje:** Medio — CV_Base trae SAR/COVID/SAC; piden experiencia en urgencias (confirmar años).
 - **Detectada:** 2026-08-25
+- **Commit CV:** `d2c84e7ab33e0539a586968f153c89cd160f30ac`
 
 ## OF-20260825-16 — Enfermeros/as (reemplazo) — Maipú
 
