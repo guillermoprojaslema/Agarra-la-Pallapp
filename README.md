@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera a domicilio — Novufy (Las Condes)
+
+- **URL:** https://www.linkedin.com/jobs/view/4454634602/
+- **Commit:** `d0ed9212ebbee907edb4dd266c26278c50bd182a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, toma de muestras, inyectables, procedimientos, autonomía
+
+
 ## 2026-08-26 — Enfermera/o Clínico — Estación Central (jornada completa)
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
