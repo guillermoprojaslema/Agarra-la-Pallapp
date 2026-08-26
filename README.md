@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera/o Clínico — Estación Central (jornada completa)
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
+- **Commit:** `f7864ef95fd20695d67a87893929dd5bd7e76c72`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** centro médico, procedimientos, box, RCP, Estación Central
+
+
 ## 2026-08-26 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
 
 - **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
