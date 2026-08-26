@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
+
+- **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
+- **Commit:** `84758058f1db6015859b507353607f30dbd30e37`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, procedimientos, IAAS, honorarios, Clínica Cordillera
+
+
 ## 2026-08-26 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
 
 - **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
