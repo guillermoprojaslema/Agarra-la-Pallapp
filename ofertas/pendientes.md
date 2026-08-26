@@ -33,12 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-33 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-centro-medico-santa-lucia-licencia-medica-en-santiago-centro-EE6ACFC2AD7A5ACA61373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Santa Lucía), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (42 h; L–V; reemplazo licencia)
 - **Encaje:** Medio — clínico ambulatorio/pabellón; procedimientos y registro del base aplican; piden foco quirúrgico.
+- **Commit CV:** `51cc81ccb2088997705909ab720e34231fc8fd45`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-34 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
