@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-residencia-clinica-santiago-centro-en-santiago-centro-95A51E723E52D02261373E686DCF3405
+- **Commit:** `12c1a7c779eaf7135daa67f1d9037817a5dc03d1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** seguimiento clínico, residencia, procedimientos, continuidad del cuidado, supervisión TENS
+
+
 ## 2026-08-25 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
