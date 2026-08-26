@@ -132,12 +132,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-12 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (4° turno modificado día)
 - **Encaje:** Medio-bajo — mismo perfil perioperatorio que OF-11, modalidad volante.
+- **Commit CV:** `d9d77b40603b2ebd9072343497fbddb972163a85`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-13 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
