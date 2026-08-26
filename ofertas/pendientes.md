@@ -88,12 +88,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-38 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Computrabajo
 - **Renta:** a convenir (42 h)
 - **Encaje:** Medio — jefatura de residencia (postrados/continuidad del base); pide liderazgo de equipo, no solo clínico de sector.
+- **Commit CV:** `91ceb7e58369088b78d26b3034d7631cd78b0e3b`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
