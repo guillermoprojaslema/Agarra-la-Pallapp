@@ -55,12 +55,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
 - **Comuna / zona:** Puente Alto (oficina central), RM
 - **Fuente:** Laborum / Confidencial (operaciones domiciliaria)
 - **Renta:** a convenir (L–V 08:30–17:30)
 - **Encaje:** Medio — rol más de coordinación/turnos que clínico; útil si interesa gestión domiciliaria (pide 1 año gestión + atención al cliente).
+- **Commit CV:** `d9c53b2f62ad945067a540a472def3fa442618b0`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
