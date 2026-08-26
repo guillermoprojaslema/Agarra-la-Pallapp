@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
+
+- **URL:** https://www.linkedin.com/jobs/view/4457394974/
+- **Commit:** `6e6147daa3f16d21dc91bc9e5322e8cdffdcb9fd`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** IAAS, vigilancia, bioseguridad, calidad, epidemiología
+
+
 ## 2026-08-26 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
 
 - **URL:** https://www.linkedin.com/jobs/view/4454764634/
