@@ -89,7 +89,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-37 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** cerrada
 - **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -97,10 +97,11 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — hospitalización MQ; curaciones, dispositivos y continuidad del base encajan; piden 1–2 años MQ/UCI + IAAS 80 h y ACLS.
 - **Commit CV:** `7ae25e2c02a0e502a370616fa44ce802e5904de8`
 - **Detectada:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Trabajando.com — oferta dejó de recibir postulantes el 22/08/2026. Hay aviso similar abierto en RedSalud Providencia.
 
 ## OF-20260825-38 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Computrabajo
@@ -108,6 +109,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — jefatura de residencia (postrados/continuidad del base); pide liderazgo de equipo, no solo clínico de sector.
 - **Commit CV:** `91ceb7e58369088b78d26b3034d7631cd78b0e3b`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente» (se declaró sin cargo formal de jefe; coordinación APS).
 
 ## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
 
