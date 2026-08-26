@@ -110,12 +110,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-10 — Enfermero(a) Centro médico / Calidad — La Florida ($1.200.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermero-a-centro-medico-en-santiago-la-florida-50F88B6A81F07B9061373E686DCF3405
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Computrabajo
 - **Renta:** $1.200.000 líquido (diurno; 44 h)
 - **Encaje:** Medio — calidad/IAAS/acreditación; Diplomado de Calidad y Gestión del base encaja; piden 2 años en el área.
+- **Commit CV:** `c208f2123be92325ce9fd6c151ab8337682853d9`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-11 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
