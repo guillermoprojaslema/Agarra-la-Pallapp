@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
+
+- **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
+- **Commit:** `1e5577677e54cf006b88c0a1f69134fba1d77fde`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** enfermero asistencial, procedimientos, UTM, seguimiento GES, RedSalud
+
+
 ## 2026-08-25 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
