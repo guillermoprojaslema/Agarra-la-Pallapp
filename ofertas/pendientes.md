@@ -22,12 +22,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-24 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-quilicura-en-santiago-quilicura-23E51FBF1C7167E161373E686DCF3405
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** $1.150.000 bruto + $75.000 asignaciones (L–V 10:00–18:30)
 - **Encaje:** Medio-alto — atención directa y supervisión de procedimientos; jornada diurna estable; match APS/procedimientos del base.
+- **Commit CV:** `c1169148c57d92617a363dc980d88b0a6572ebd3`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
