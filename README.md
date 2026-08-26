@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-central-esterilizacion-4-turno-penalolen-en-santiago-providencia-E85A942AC50D94CE61373E686DCF3405
+- **Commit:** `9968d1c712b505da831ed1df46dcb67a49e3107c`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** IAAS, esterilización, bioseguridad, calidad, 4to turno
+
+
 ## 2026-08-25 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-cardiologia-reemplazo-licencia-medica-en-santiago-centro-39E5C12EC9F7F78361373E686DCF3405
