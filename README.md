@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
+
+- **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
+- **Commit:** `d9d77b40603b2ebd9072343497fbddb972163a85`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, volante, perioperatorio, IAAS, RedSalud
+
+
 ## 2026-08-26 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
 
 - **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
