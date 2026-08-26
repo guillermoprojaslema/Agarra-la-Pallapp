@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
+
+- **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
+- **Commit:** `7ae25e2c02a0e502a370616fa44ce802e5904de8`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico quirúrgico, hospitalización, curaciones, IAAS, RedSalud
+
+
 ## 2026-08-25 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-quirurgico-en-san-bernardo-99744BF9EE1A5D1961373E686DCF3405
