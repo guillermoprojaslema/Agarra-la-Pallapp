@@ -77,12 +77,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
 - **Comuna / zona:** Independencia (Mall Barrio Independencia), RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (jornada completa; turnos diurnos)
 - **Encaje:** Medio-alto — procedimientos, UTM, seguimiento GES y supervisión; match ambulatorio del base. Plazo abierto (~32 días).
+- **Commit CV:** `1e5577677e54cf006b88c0a1f69134fba1d77fde`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-30 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
