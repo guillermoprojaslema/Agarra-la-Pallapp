@@ -165,12 +165,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-15 — Enfermera/o Clínico — Estación Central (jornada completa)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos (IntegraMédica)
 - **Renta:** a convenir (full-time; box/procedimientos)
 - **Encaje:** Medio-alto — procedimientos y box ambulatorio; match APS del base. Pide RCP avanzado. Aviso finalizado el 17-08 (≤14 días; gracia de plazo). Distinto de OF-19 (30 h).
+- **Commit CV:** `f7864ef95fd20695d67a87893929dd5bd7e76c72`
 - **Detectada:** 2026-08-26
 
 ## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
