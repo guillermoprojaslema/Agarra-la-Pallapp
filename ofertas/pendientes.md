@@ -22,12 +22,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-17 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.linkedin.com/jobs/view/4459020923/
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** LinkedIn / Seniors Salud
 - **Renta:** $1.802.998 haberes (bruto $1.602.998 + $200.000 asignaciones); 4° turno
 - **Encaje:** Medio — piden ≥12 meses MQ (el base es APS/SAR). Curso IAAS y RCP del base sí aplican. Cierre de antecedentes 31-08.
+- **Commit CV:** `93f2b5a37c59495d042ad6b1c004541c59210676`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-18 — Docente Enfermero MAIS — APS (Gran Santiago)
