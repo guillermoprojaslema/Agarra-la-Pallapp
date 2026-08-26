@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-cardiologia-reemplazo-licencia-medica-en-santiago-centro-39E5C12EC9F7F78361373E686DCF3405
+- **Commit:** `8178f1cee753c065138c7e8682ab3b5d0f94cddd`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** cardiología, PSCV, HTA, seguimiento clínico, UC CHRISTUS
+
+
 ## 2026-08-25 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-centro-medico-santa-lucia-licencia-medica-en-santiago-centro-EE6ACFC2AD7A5ACA61373E686DCF3405
