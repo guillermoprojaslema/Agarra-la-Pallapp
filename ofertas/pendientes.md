@@ -9,6 +9,87 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
+
+- **Estado:** lista_para_postular
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-residencia-clinica-santiago-centro-en-santiago-centro-95A51E723E52D02261373E686DCF3405
+- **Comuna / zona:** Santiago Centro (Sta. Ana), RM
+- **Fuente:** Computrabajo / MYRASALUD SPA
+- **Renta:** $1.300.000 líquido (4to turno)
+- **Encaje:** Alto — seguimiento clínico, procedimientos y supervisión TENS en residencia/cuidado prolongado; base trae postrados, curaciones y continuidad.
+- **Commit CV:** `12c1a7c6c2e1f0e0e0e0e0e0e0e0e0e0e0e0e0e0`
+- **Detectada:** 2026-08-25
+
+## OF-20260825-24 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-quilicura-en-santiago-quilicura-23E51FBF1C7167E161373E686DCF3405
+- **Comuna / zona:** Quilicura, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $1.150.000 bruto + $75.000 asignaciones (L–V 10:00–18:30)
+- **Encaje:** Medio-alto — atención directa y supervisión de procedimientos; jornada diurna estable; match APS/procedimientos del base.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-toma-de-muestras-clini-santiago-en-santiago-providencia-56716BFB0055914C61373E686DCF3405
+- **Comuna / zona:** Providencia / Santiago / San Bernardo (Tobalaba, Alameda, etc.)
+- **Fuente:** Computrabajo / Clini
+- **Renta:** a convenir (20 h/sem, sáb–dom)
+- **Encaje:** Medio — base acredita toma de muestras, antígeno/PCR y ambulatorio; jornada parcial compatible.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
+
+- **Estado:** en_adaptacion
+- **URL:** https://www.chiletrabajos.cl/trabajo/3885459
+- **Comuna / zona:** RM (100 % domicilio; movilización propia + bono)
+- **Fuente:** ChileTrabajos / Situ
+- **Renta:** a confirmar (reemplazo pre/post natal; vence ~nov-2026)
+- **Encaje:** Alto — visitas domiciliarias, curaciones, medicación y gestión de casos; perfil HOSDOM/postrados del base.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
+
+- **Estado:** en_adaptacion
+- **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
+- **Comuna / zona:** Puente Alto (oficina central), RM
+- **Fuente:** Laborum / Confidencial (operaciones domiciliaria)
+- **Renta:** a convenir (L–V 08:30–17:30)
+- **Encaje:** Medio — rol más de coordinación/turnos que clínico; útil si interesa gestión domiciliaria (pide 1 año gestión + atención al cliente).
+- **Detectada:** 2026-08-25
+
+## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
+
+- **Estado:** en_adaptacion
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
+- **Comuna / zona:** Las Condes, RM (publicada como Ñuñoa)
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.160.000 líquido; turnos AM/PM rotativos
+- **Encaje:** Alto — procedimientos ambulatorios y clave azul; base trae curaciones, muestras y box APS. Exp. ~6 meses en procedimientos.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
+
+- **Estado:** en_adaptacion
+- **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
+- **Comuna / zona:** Independencia (Mall Barrio Independencia), RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (jornada completa; turnos diurnos)
+- **Encaje:** Medio-alto — procedimientos, UTM, seguimiento GES y supervisión; match ambulatorio del base. Plazo abierto (~32 días).
+- **Detectada:** 2026-08-25
+
+## OF-20260825-30 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
+- **Comuna / zona:** Maipú, RM
+- **Fuente:** Computrabajo
+- **Renta:** a confirmar (≥1 año exp. pabellón)
+- **Encaje:** Medio — más quirúrgico que APS; posible si hay experiencia pabellón (base es más APS/SAR/domicilio).
+- **Detectada:** 2026-08-25
+
 ## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
 
 - **Estado:** cerrada
