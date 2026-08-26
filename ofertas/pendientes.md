@@ -9,6 +9,67 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260826-16 — Enfermera a domicilio — Novufy (Las Condes)
+
+- **Estado:** lista_para_postular
+- **URL:** https://www.linkedin.com/jobs/view/4454634602/
+- **Comuna / zona:** Las Condes, RM (traslado a distintos domicilios)
+- **Fuente:** LinkedIn / Novufy
+- **Renta:** no publicada (jornada completa; turnos 9:00–19:30 o 12:00–21:30; vehículo propio excluyente)
+- **Encaje:** Alto — procedimientos en domicilio (toma de muestras, sueroterapia, inyectables); coincide con APS/HOSDOM del base. Publicado hace 1 día.
+- **Commit CV:** `d0ed9212ebbee907edb4dd266c26278c50bd182a`
+- **Detectada:** 2026-08-26
+
+## OF-20260826-17 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
+
+- **Estado:** pendiente
+- **URL:** https://www.linkedin.com/jobs/view/4459020923/
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** LinkedIn / Seniors Salud
+- **Renta:** $1.802.998 haberes (bruto $1.602.998 + $200.000 asignaciones); 4° turno
+- **Encaje:** Medio — piden ≥12 meses MQ (el base es APS/SAR). Curso IAAS y RCP del base sí aplican. Cierre de antecedentes 31-08.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-18 — Docente Enfermero MAIS — APS (Gran Santiago)
+
+- **Estado:** pendiente
+- **URL:** https://www.linkedin.com/jobs/view/4458116846/
+- **Comuna / zona:** Gran Santiago, RM
+- **Fuente:** LinkedIn / Corporación D
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Alto — MAIS, APS, promoción/prevención y planes de cuidado; el base acredita CESFAM y programas ministeriales. Publicado hace 2 días.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-19 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
+
+- **Estado:** pendiente
+- **URL:** https://www.linkedin.com/jobs/view/4454764634/
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** LinkedIn / FUCYT (ACHS Salud)
+- **Renta:** no publicada (reemplazo vacaciones)
+- **Encaje:** Medio-alto — rol clínico hospitalario ACHS; SAR/SAC y procedimientos del base ayudan. Publicado hace 1 semana.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-20 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
+
+- **Estado:** pendiente
+- **URL:** https://www.linkedin.com/jobs/view/4457394974/
+- **Comuna / zona:** Lo Barnechea, RM
+- **Fuente:** LinkedIn / Clínica MEDS
+- **Renta:** a convenir (mismo aviso que OF-06 en ChileTrabajos, portal bloqueado)
+- **Encaje:** Medio — pide cargo IAAS/epidemiología; el base trae curso IAAS 80 h y diplomado de calidad, no el cargo de epidemiólogo. Publicado hace 4 días.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-21 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
+
+- **Estado:** pendiente
+- **URL:** https://www.linkedin.com/jobs/view/4453355510/
+- **Comuna / zona:** Gran Santiago, RM
+- **Fuente:** LinkedIn / Clínica Oftalmológica Pasteur
+- **Renta:** no publicada
+- **Encaje:** Medio-bajo — pabellón y procedimientos oftalmológicos; IAAS y box del base aplican, sin pabellón acreditado. Publicado hace 1 semana.
+- **Detectada:** 2026-08-26
+
 ## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
 
 - **Estado:** bloqueada
