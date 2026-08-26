@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
+- **Commit:** `91ceb7e58369088b78d26b3034d7631cd78b0e3b`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** residencia, pacientes postrados, coordinación de equipo, continuidad, Las Condes
+
+
 ## 2026-08-25 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
 
 - **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
