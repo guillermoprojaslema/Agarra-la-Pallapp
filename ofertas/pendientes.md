@@ -66,12 +66,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-06 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/3886098
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** ChileTrabajos / Clínica MEDS
 - **Renta:** a convenir (42 h diurno; casino; buses)
 - **Encaje:** Medio — pide ≥2 años en IAAS (el base trae curso IAAS 80 h, no el cargo de epidemiólogo).
+- **Commit CV:** `1ae4acb7f35756c7373797b9ea7b32e1d3f4288d`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-07 — Jefatura Central de Esterilización — Enfermera (Providencia)
