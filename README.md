@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-programacion-quirurgica-pabellon-clinica-san-carlos-en-santiago-las-condes-00072CFB674F515761373E686DCF3405
+- **Commit:** `d82b246cd93d104f4f6c4771c34688771f61215d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** programación quirúrgica, pabellón, continuidad del cuidado, IAAS, UC CHRISTUS
+
+
 ## 2026-08-25 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-coordinadora-unidad-toma-de-muestras-marcoleta-en-santiago-centro-07240B94ED023DE861373E686DCF3405
