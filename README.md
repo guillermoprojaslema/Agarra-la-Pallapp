@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
+- **Commit:** `d9c53b2f62ad945067a540a472def3fa442618b0`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** coordinación, atención domiciliaria, gestión de turnos, continuidad, Puente Alto
+
+
 ## 2026-08-25 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3885459
