@@ -55,12 +55,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-20 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.linkedin.com/jobs/view/4457394974/
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** LinkedIn / Clínica MEDS
 - **Renta:** a convenir (mismo aviso que OF-06 en ChileTrabajos, portal bloqueado)
 - **Encaje:** Medio — pide cargo IAAS/epidemiología; el base trae curso IAAS 80 h y diplomado de calidad, no el cargo de epidemiólogo. Publicado hace 4 días.
+- **Commit CV:** `6e6147daa3f16d21dc91bc9e5322e8cdffdcb9fd`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-21 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
