@@ -9,6 +9,157 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
+
+- **Estado:** lista_para_postular
+- **URL:** https://www.laborum.cl/empleos/enfermero-a-clinico-care-partners-1118410334.html
+- **Comuna / zona:** Las Condes, RM (visitas a domicilio, adultos mayores)
+- **Fuente:** Laborum / Care Partners
+- **Renta:** $750.000–$1.100.000
+- **Encaje:** Alto — monitoreo preventivo, signos vitales y seguimiento en domicilio; perfil HOSDOM/postrados del base.
+- **Commit CV:** `46cf64d5c81b26673e83c4444ae8b726841c3775`
+- **Detectada:** 2026-08-26
+
+## OF-20260826-02 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (4° turno 08:00–20:00; casino; contrato directo)
+- **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan; piden 1 año MQ (el base es más APS/SAR). Plazo abierto (~6 días).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-03 — Enfermera(o) GES — Hospital del Salvador
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
+- **Comuna / zona:** Providencia (Hospital del Salvador), RM
+- **Fuente:** Laborum / Fundación Aníbal Ariztía
+- **Renta:** acorde al mercado (código del trabajo)
+- **Encaje:** Medio-alto — SIGGES, derivación APS-secundaria y seguimiento; base acredita SIGGES y APS. Aviso finalizado el 19-08 (≤14 días; gracia de plazo).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-04 — Enfermero/a Unidad GES — Providencia (ECR Salud)
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Laborum / ECR Salud
+- **Renta:** a convenir (176 h/mes; temporal; 4 vacantes)
+- **Encaje:** Medio — gestión GES/administrativa más que box; útil si interesa red hospitalaria pública.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-05 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/3887680
+- **Comuna / zona:** Santiago, RM
+- **Fuente:** ChileTrabajos / Saapa
+- **Renta:** a convenir (jornada completa; casino; uniforme)
+- **Encaje:** Medio — coordinación, toma de muestras y procedimientos de protocolo; no piden experiencia previa en investigación.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-06 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
+
+- **Estado:** pendiente
+- **URL:** https://www.chiletrabajos.cl/trabajo/3886098
+- **Comuna / zona:** Lo Barnechea, RM
+- **Fuente:** ChileTrabajos / Clínica MEDS
+- **Renta:** a convenir (42 h diurno; casino; buses)
+- **Encaje:** Medio — pide ≥2 años en IAAS (el base trae curso IAAS 80 h, no el cargo de epidemiólogo).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-07 — Jefatura Central de Esterilización — Enfermera (Providencia)
+
+- **Estado:** pendiente
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Computrabajo
+- **Renta:** a convenir (44 h; aviso ~$1.400.000 en listados)
+- **Encaje:** Medio-bajo — jefatura de central; IAAS/calidad del base aplican, no hay cargo de jefe acreditado.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-08 — Enfermero/a Urgencias 4° turno — Providencia ($1.600.000)
+
+- **Estado:** pendiente
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.600.000 (4° turno; 44 h)
+- **Encaje:** Medio — pide ≥1 año urgencias; base trae SAC/SAR y RCP/IAAS.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-09 — Enfermero/a Continuidad cuidados medios — Providencia ($1.400.000)
+
+- **Estado:** pendiente
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-continuidad-cuidados-medios-1400000-diurno-providencia-en-santiago-providencia-ED0C435846DCF8EC61373E686DCF3405
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.400.000 (diurno L–V)
+- **Encaje:** Medio-bajo — pide ≥3 años MQ y liderazgo de equipos + ACLS; el base es APS/SAR.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-10 — Enfermero(a) Centro médico / Calidad — La Florida ($1.200.000)
+
+- **Estado:** pendiente
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermero-a-centro-medico-en-santiago-la-florida-50F88B6A81F07B9061373E686DCF3405
+- **Comuna / zona:** La Florida, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.200.000 líquido (diurno; 44 h)
+- **Encaje:** Medio — calidad/IAAS/acreditación; Diplomado de Calidad y Gestión del base encaja; piden 2 años en el área.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-11 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (4° turno 08:00–20:00; casino; estacionamiento)
+- **Encaje:** Medio-bajo — pide ≥1 año pabellón/preoperatorio (base es APS/procedimientos).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-12 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (4° turno modificado día)
+- **Encaje:** Medio-bajo — mismo perfil perioperatorio que OF-11, modalidad volante.
+- **Detectada:** 2026-08-26
+
+## OF-20260826-13 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
+- **Comuna / zona:** Las Condes (Av. Alejandro Fleming), RM
+- **Fuente:** Laborum / Nueva Clínica Cordillera
+- **Renta:** a convenir (honorarios; 4° turno modificado Largo-Largo)
+- **Encaje:** Medio-bajo — pide ≥6 meses pabellón (excluyente). Aviso finalizado el 17-08 (≤14 días; gracia de plazo).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-14 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
+
+- **Estado:** pendiente
+- **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Trabajando / Clínica Alemana
+- **Renta:** a convenir (4° turno diurno; plazo fijo)
+- **Encaje:** Medio-bajo — pide ~2 años pabellón quirúrgico; plazo aún abierto (~31 días).
+- **Detectada:** 2026-08-26
+
+## OF-20260826-15 — Enfermera/o Clínico — Estación Central (jornada completa)
+
+- **Estado:** pendiente
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Laborum / Red centros médicos (IntegraMédica)
+- **Renta:** a convenir (full-time; box/procedimientos)
+- **Encaje:** Medio-alto — procedimientos y box ambulatorio; match APS del base. Pide RCP avanzado. Aviso finalizado el 17-08 (≤14 días; gracia de plazo). Distinto de OF-19 (30 h).
+- **Detectada:** 2026-08-26
+
 ## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
 
 - **Estado:** postulada
