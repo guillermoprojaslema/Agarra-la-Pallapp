@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-quilicura-en-santiago-quilicura-23E51FBF1C7167E161373E686DCF3405
+- **Commit:** `c1169148c57d92617a363dc980d88b0a6572ebd3`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención directa, reemplazo, supervisión de procedimientos, enfermero universitario, Quilicura
+
+
 ## 2026-08-25 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-residencia-clinica-santiago-centro-en-santiago-centro-95A51E723E52D02261373E686DCF3405
