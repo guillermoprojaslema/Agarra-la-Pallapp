@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Urgencias 4° turno — Providencia
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
+- **Commit:** `a9b284738c72228a0e9edf2138c5a07e97a84fc9`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, SAC, SAR, RCP, 4to turno
+
+
 ## 2026-08-26 — Jefatura Central de Esterilización — Enfermera (Providencia)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
