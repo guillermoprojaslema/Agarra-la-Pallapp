@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3886098
+- **Commit:** `1ae4acb7f35756c7373797b9ea7b32e1d3f4288d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** IAAS, calidad, vigilancia, bioseguridad, Clínica MEDS
+
+
 ## 2026-08-26 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3887680
