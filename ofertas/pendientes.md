@@ -63,7 +63,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-35 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-central-esterilizacion-4-turno-penalolen-en-santiago-providencia-E85A942AC50D94CE61373E686DCF3405
 - **Comuna / zona:** Peñalolén (aviso Providencia), RM
 - **Fuente:** Computrabajo / Grupo Medical
@@ -71,6 +71,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pide ≥1 año en central de esterilización (IAAS/RCP sí coinciden con el base).
 - **Commit CV:** `9968d1c712b505da831ed1df46dcb67a49e3107c`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente» (sin preguntas extra).
 
 ## OF-20260825-36 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
 
