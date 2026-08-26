@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
+
+- **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
+- **Commit:** `8628c5940739a7aa9b1ebcea30cfebbec40c6294`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, cirugía, seguridad del paciente, IAAS, Clínica Alemana
+
+
 ## 2026-08-26 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
 
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
