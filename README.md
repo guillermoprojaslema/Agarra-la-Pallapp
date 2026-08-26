@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Jefatura Central de Esterilización — Enfermera (Providencia)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
+- **Commit:** `b41278d841d576ca195f67ca09a8d57fa229745a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** esterilización, IAAS, calidad, liderazgo, acreditación
+
+
 ## 2026-08-26 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3886098
