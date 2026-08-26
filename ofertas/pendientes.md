@@ -22,12 +22,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-02 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (4° turno 08:00–20:00; casino; contrato directo)
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan; piden 1 año MQ (el base es más APS/SAR). Plazo abierto (~6 días).
+- **Commit CV:** `4630abe539a83b960e265203088ca469ef982dec`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-03 — Enfermera(o) GES — Hospital del Salvador
