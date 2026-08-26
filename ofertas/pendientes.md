@@ -44,12 +44,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-19 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.linkedin.com/jobs/view/4454764634/
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** LinkedIn / FUCYT (ACHS Salud)
 - **Renta:** no publicada (reemplazo vacaciones)
 - **Encaje:** Medio-alto — rol clínico hospitalario ACHS; SAR/SAC y procedimientos del base ayudan. Publicado hace 1 semana.
+- **Commit CV:** `3c7f6a58fbf2ba6c520d2897743a9026e687da38`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-20 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
