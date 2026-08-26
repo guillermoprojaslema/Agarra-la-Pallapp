@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
+
+- **URL:** https://www.linkedin.com/jobs/view/4454764634/
+- **Commit:** `3c7f6a58fbf2ba6c520d2897743a9026e687da38`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización, procedimientos, IAAS, RCP, reemplazo
+
+
 ## 2026-08-26 — Docente Enfermero MAIS — APS (Gran Santiago)
 
 - **URL:** https://www.linkedin.com/jobs/view/4458116846/
