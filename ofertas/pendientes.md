@@ -76,7 +76,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-36 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-quirurgico-en-san-bernardo-99744BF9EE1A5D1961373E686DCF3405
 - **Comuna / zona:** San Bernardo, RM (cerca de metro)
 - **Fuente:** Computrabajo
@@ -84,6 +84,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — más quirúrgico que APS; posible si hay interés en pabellón (base es APS/SAR/domicilio).
 - **Commit CV:** `ed2282221c5bc0acf4a5e2ae889b5201cedaadab`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente» (sin preguntas extra).
 
 ## OF-20260825-37 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
 
