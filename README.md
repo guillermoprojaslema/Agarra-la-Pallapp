@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-coordinadora-unidad-toma-de-muestras-marcoleta-en-santiago-centro-07240B94ED023DE861373E686DCF3405
+- **Commit:** `4c2ee493ea9a79dcaf2a1f16cb15e322b49ad21d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, UTM, coordinación clínica, bioseguridad, UC CHRISTUS
+
+
 ## 2026-08-25 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
