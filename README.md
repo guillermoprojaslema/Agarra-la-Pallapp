@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
+
+- **URL:** https://www.laborum.cl/empleos/enfermero-a-clinico-care-partners-1118410334.html
+- **Commit:** `46cf64d5c81b26673e83c4444ae8b726841c3775`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, adulto mayor, signos vitales, seguimiento, Care Partners
+
+
 ## 2026-08-25 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
