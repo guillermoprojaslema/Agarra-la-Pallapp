@@ -53,7 +53,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
 
-- **Estado:** bloqueada
+- **Estado:** postulada
 - **URL:** https://www.chiletrabajos.cl/trabajo/3885459
 - **Comuna / zona:** RM (100 % domicilio; movilización propia + bono)
 - **Fuente:** ChileTrabajos / Situ
@@ -61,7 +61,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — visitas domiciliarias, curaciones, medicación y gestión de casos; perfil HOSDOM/postrados del base.
 - **Commit CV:** `c05617129d0b1a82031d89974a020f9c9f65968f`
 - **Detectada:** 2026-08-25
-- **Nota postulación:** 2026-08-25 — ChileTrabajos sin sesión: solo «Crear cuenta / Ingresa»; no hay credenciales válidas en job_credentials.
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Postulación por correo a contacto@situ.care con CV PDF (ChileTrabajos sin cuenta; formulario HubSpot en iframe no automatizable). Reply-To axel.pfingsten@gmail.com.
 
 
 ## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
@@ -74,12 +75,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — rol más de coordinación/turnos que clínico; útil si interesa gestión domiciliaria (pide 1 año gestión + atención al cliente).
 - **Commit CV:** `d9c53b2f62ad945067a540a472def3fa442618b0`
 - **Detectada:** 2026-08-25
-- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
+- **Nota postulación:** 2026-08-25 — Laborum 2FA no operativo (confirmado por usuario); se omite reintento.
 
 
 ## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
 
-- **Estado:** bloqueada
+- **Estado:** postulada
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
 - **Comuna / zona:** Las Condes, RM (publicada como Ñuñoa)
 - **Fuente:** ChileTrabajos / XinerLink
@@ -87,7 +88,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos ambulatorios y clave azul; base trae curaciones, muestras y box APS. Exp. ~6 meses en procedimientos.
 - **Commit CV:** `80eaa4b26a4e0ad6532b0d2b7ef075ecfe34a0db`
 - **Detectada:** 2026-08-25
-- **Nota postulación:** 2026-08-25 — ChileTrabajos sin sesión/cuenta; aviso XinerLink (alternativa histórica: email yohanna.gonzalez@xinerlink.cl).
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Postulación por correo a yohanna.gonzalez@xinerlink.cl con CV PDF (alternativa XinerLink; ChileTrabajos sin cuenta). Reply-To axel.pfingsten@gmail.com.
 
 
 ## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
