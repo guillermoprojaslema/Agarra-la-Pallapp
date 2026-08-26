@@ -66,12 +66,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
 - **Comuna / zona:** Las Condes, RM (publicada como Ñuñoa)
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.160.000 líquido; turnos AM/PM rotativos
 - **Encaje:** Alto — procedimientos ambulatorios y clave azul; base trae curaciones, muestras y box APS. Exp. ~6 meses en procedimientos.
+- **Commit CV:** `80eaa4b26a4e0ad6532b0d2b7ef075ecfe34a0db`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
