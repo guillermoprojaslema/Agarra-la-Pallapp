@@ -66,12 +66,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-21 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.linkedin.com/jobs/view/4453355510/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Clínica Oftalmológica Pasteur
 - **Renta:** no publicada
 - **Encaje:** Medio-bajo — pabellón y procedimientos oftalmológicos; IAAS y box del base aplican, sin pabellón acreditado. Publicado hace 1 semana.
+- **Commit CV:** `a6b8a490cca1aa0a5cddbb6bda6f1c42ecbd3fac`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
