@@ -121,12 +121,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-11 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (4° turno 08:00–20:00; casino; estacionamiento)
 - **Encaje:** Medio-bajo — pide ≥1 año pabellón/preoperatorio (base es APS/procedimientos).
+- **Commit CV:** `29d0e3747580d7d78e45c399498882d97d8d4574`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-12 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
