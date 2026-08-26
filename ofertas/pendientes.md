@@ -77,12 +77,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-37 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** a convenir (4° turno 08:00–20:00; casino; contrato directo)
 - **Encaje:** Medio — hospitalización MQ; curaciones, dispositivos y continuidad del base encajan; piden 1–2 años MQ/UCI + IAAS 80 h y ACLS.
+- **Commit CV:** `7ae25e2c02a0e502a370616fa44ce802e5904de8`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-38 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
