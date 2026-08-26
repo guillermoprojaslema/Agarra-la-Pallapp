@@ -77,12 +77,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-07 — Jefatura Central de Esterilización — Enfermera (Providencia)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
 - **Renta:** a convenir (44 h; aviso ~$1.400.000 en listados)
 - **Encaje:** Medio-bajo — jefatura de central; IAAS/calidad del base aplican, no hay cargo de jefe acreditado.
+- **Commit CV:** `b41278d841d576ca195f67ca09a8d57fa229745a`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-08 — Enfermero/a Urgencias 4° turno — Providencia ($1.600.000)
