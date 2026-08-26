@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-residencia-clinica-santiago-centro-en-santiago-centro-95A51E723E52D02261373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Sta. Ana), RM
 - **Fuente:** Computrabajo / MYRASALUD SPA
@@ -19,10 +19,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — seguimiento clínico, procedimientos y supervisión TENS en residencia/cuidado prolongado; base trae postrados, curaciones y continuidad.
 - **Commit CV:** `12c1a7c779eaf7135daa67f1d9037817a5dc03d1`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — enviada con preguntas (comuna/contacto/4to turno).
+
 
 ## OF-20260825-24 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-quilicura-en-santiago-quilicura-23E51FBF1C7167E161373E686DCF3405
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** Computrabajo / XinerLink
@@ -30,10 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — atención directa y supervisión de procedimientos; jornada diurna estable; match APS/procedimientos del base.
 - **Commit CV:** `c1169148c57d92617a363dc980d88b0a6572ebd3`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente».
+
 
 ## OF-20260825-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-toma-de-muestras-clini-santiago-en-santiago-providencia-56716BFB0055914C61373E686DCF3405
 - **Comuna / zona:** Providencia / Santiago / San Bernardo (Tobalaba, Alameda, etc.)
 - **Fuente:** Computrabajo / Clini
@@ -41,10 +47,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — base acredita toma de muestras, antígeno/PCR y ambulatorio; jornada parcial compatible.
 - **Commit CV:** `717a049b1052e7d4c8f29052f5fb3d4d481effac`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente» (Clini FDS).
+
 
 ## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/3885459
 - **Comuna / zona:** RM (100 % domicilio; movilización propia + bono)
 - **Fuente:** ChileTrabajos / Situ
@@ -52,10 +61,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — visitas domiciliarias, curaciones, medicación y gestión de casos; perfil HOSDOM/postrados del base.
 - **Commit CV:** `c05617129d0b1a82031d89974a020f9c9f65968f`
 - **Detectada:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — ChileTrabajos sin sesión: solo «Crear cuenta / Ingresa»; no hay credenciales válidas en job_credentials.
+
 
 ## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
 - **Comuna / zona:** Puente Alto (oficina central), RM
 - **Fuente:** Laborum / Confidencial (operaciones domiciliaria)
@@ -63,10 +74,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — rol más de coordinación/turnos que clínico; útil si interesa gestión domiciliaria (pide 1 año gestión + atención al cliente).
 - **Commit CV:** `d9c53b2f62ad945067a540a472def3fa442618b0`
 - **Detectada:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Laborum exige código 2FA enviado a axel.pfingsten@gmail.com.
+
 
 ## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
 - **Comuna / zona:** Las Condes, RM (publicada como Ñuñoa)
 - **Fuente:** ChileTrabajos / XinerLink
@@ -74,10 +87,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos ambulatorios y clave azul; base trae curaciones, muestras y box APS. Exp. ~6 meses en procedimientos.
 - **Commit CV:** `80eaa4b26a4e0ad6532b0d2b7ef075ecfe34a0db`
 - **Detectada:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — ChileTrabajos sin sesión/cuenta; aviso XinerLink (alternativa histórica: email yohanna.gonzalez@xinerlink.cl).
+
 
 ## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
 - **Comuna / zona:** Independencia (Mall Barrio Independencia), RM
 - **Fuente:** Trabajando / RedSalud
@@ -85,10 +100,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — procedimientos, UTM, seguimiento GES y supervisión; match ambulatorio del base. Plazo abierto (~32 días).
 - **Commit CV:** `1e5577677e54cf006b88c0a1f69134fba1d77fde`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Trabajando.com — «¡Has postulado al empleo!».
+
 
 ## OF-20260825-30 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** Computrabajo
@@ -96,6 +114,9 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — más quirúrgico que APS; posible si hay experiencia pabellón (base es más APS/SAR/domicilio).
 - **Commit CV:** `51ff709ad1eae2d860c2de6c10c86fb9344095b1`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — enviada; se declaró sin 3 años pabellón (respuesta honesta).
+
 
 ## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
 
