@@ -9,6 +9,17 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260826-22 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
+
+- **Estado:** lista_para_postular
+- **URL:** https://www.linkedin.com/jobs/view/4456084153/
+- **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
+- **Fuente:** LinkedIn / UC CHRISTUS
+- **Renta:** no publicada (4° turno; casino, movilización, convenio de salud UC)
+- **Encaje:** Medio-bajo — piden UTI/intermedio, ventilación mecánica y drogas vasoactivas (el base es APS/SAR). IAAS y procedimientos del base sí aplican. Publicado hace 5 días.
+- **Commit CV:** `cf1ad1dd92d2a101a1d0bbcaff121d4493975974`
+- **Detectada:** 2026-08-26
+
 ## OF-20260826-16 — Enfermera a domicilio — Novufy (Las Condes)
 
 - **Estado:** lista_para_postular
