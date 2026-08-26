@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
+
+- **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
+- **Commit:** `4630abe539a83b960e265203088ca469ef982dec`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico quirúrgico, hospitalización, IAAS, RCP, RedSalud Providencia
+
+
 ## 2026-08-26 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
 
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-clinico-care-partners-1118410334.html
