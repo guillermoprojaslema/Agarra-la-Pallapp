@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3885459
+- **Commit:** `c05617129d0b1a82031d89974a020f9c9f65968f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, gestión de casos, curaciones, continuidad del cuidado, Situ
+
+
 ## 2026-08-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-toma-de-muestras-clini-santiago-en-santiago-providencia-56716BFB0055914C61373E686DCF3405
