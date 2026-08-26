@@ -44,12 +44,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-04 — Enfermero/a Unidad GES — Providencia (ECR Salud)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
 - **Renta:** a convenir (176 h/mes; temporal; 4 vacantes)
 - **Encaje:** Medio — gestión GES/administrativa más que box; útil si interesa red hospitalaria pública.
+- **Commit CV:** `56c02c73267120e858f002a4307494f3c53d7e97`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-05 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
