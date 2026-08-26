@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-clinico-care-partners-1118410334.html
 - **Comuna / zona:** Las Condes, RM (visitas a domicilio, adultos mayores)
 - **Fuente:** Laborum / Care Partners
@@ -19,10 +19,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — monitoreo preventivo, signos vitales y seguimiento en domicilio; perfil HOSDOM/postrados del base.
 - **Commit CV:** `46cf64d5c81b26673e83c4444ae8b726841c3775`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Laborum bloqueada: 2FA al correo de Axel (Gmail MCP no es esa cuenta) y SSO LinkedIn pide reto en la app.
 
 ## OF-20260826-02 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -30,10 +32,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan; piden 1 año MQ (el base es más APS/SAR). Plazo abierto (~6 días).
 - **Commit CV:** `4630abe539a83b960e265203088ca469ef982dec`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Trabajando.com — «¡Has postulado al empleo!». Honestas: sin exp. hospitalaria MQ; IAAS 80 h + RCP/DEA; 4° turno sí; renta $1.400.000; MQ menos de 1 año.
 
 ## OF-20260826-03 — Enfermera(o) GES — Hospital del Salvador
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
 - **Comuna / zona:** Providencia (Hospital del Salvador), RM
 - **Fuente:** Laborum / Fundación Aníbal Ariztía
@@ -41,10 +45,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — SIGGES, derivación APS-secundaria y seguimiento; base acredita SIGGES y APS. Aviso finalizado el 19-08 (≤14 días; gracia de plazo).
 - **Commit CV:** `8c7685ae3641dc4a8a9e00177a74760826a11f09`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Laborum bloqueada (2FA / reto LinkedIn). Aviso finalizado 19-08, aún en gracia ≤14 días.
 
 ## OF-20260826-04 — Enfermero/a Unidad GES — Providencia (ECR Salud)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
@@ -52,10 +58,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — gestión GES/administrativa más que box; útil si interesa red hospitalaria pública.
 - **Commit CV:** `56c02c73267120e858f002a4307494f3c53d7e97`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Laborum bloqueada: 2FA al correo de Axel y SSO LinkedIn con reto en la app.
 
 ## OF-20260826-05 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/3887680
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** ChileTrabajos / Saapa
@@ -63,10 +71,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — coordinación, toma de muestras y procedimientos de protocolo; no piden experiencia previa en investigación.
 - **Commit CV:** `74021738c802c4f70e217cdebf2a551bb3787f0a`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — ChileTrabajos bloqueada: sin cuenta válida (login falló; no hay correo de la empresa en el aviso).
 
 ## OF-20260826-06 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.chiletrabajos.cl/trabajo/3886098
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** ChileTrabajos / Clínica MEDS
@@ -74,10 +84,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — pide ≥2 años en IAAS (el base trae curso IAAS 80 h, no el cargo de epidemiólogo).
 - **Commit CV:** `1ae4acb7f35756c7373797b9ea7b32e1d3f4288d`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — ChileTrabajos bloqueada: login falló y el aviso no publica correo; solo postulación por portal.
 
 ## OF-20260826-07 — Jefatura Central de Esterilización — Enfermera (Providencia)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -85,10 +97,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — jefatura de central; IAAS/calidad del base aplican, no hay cargo de jefe acreditado.
 - **Commit CV:** `b41278d841d576ca195f67ca09a8d57fa229745a`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Computrabajo — «Te postulaste correctamente». Honestas: sin jefatura de Central; IAAS 80 h; renta $1.400.000; título ene-2021 U. Central.
 
 ## OF-20260826-08 — Enfermero/a Urgencias 4° turno — Providencia ($1.600.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** cerrada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -96,10 +110,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — pide ≥1 año urgencias; base trae SAC/SAR y RCP/IAAS.
 - **Commit CV:** `a9b284738c72228a0e9edf2138c5a07e97a84fc9`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Computrabajo — aviso retirado («Esta oferta ya no está disponible»); sin canal de correo.
 
 ## OF-20260826-09 — Enfermero/a Continuidad cuidados medios — Providencia ($1.400.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** cerrada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-continuidad-cuidados-medios-1400000-diurno-providencia-en-santiago-providencia-ED0C435846DCF8EC61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -107,10 +123,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pide ≥3 años MQ y liderazgo de equipos + ACLS; el base es APS/SAR.
 - **Commit CV:** `33262b611a4baa37a4045470445cd53e71d20a7b`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Computrabajo — aviso retirado («Esta oferta ya no está disponible»); sin canal de correo.
 
 ## OF-20260826-10 — Enfermero(a) Centro médico / Calidad — La Florida ($1.200.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** cerrada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermero-a-centro-medico-en-santiago-la-florida-50F88B6A81F07B9061373E686DCF3405
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Computrabajo
@@ -118,10 +136,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — calidad/IAAS/acreditación; Diplomado de Calidad y Gestión del base encaja; piden 2 años en el área.
 - **Commit CV:** `c208f2123be92325ce9fd6c151ab8337682853d9`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Computrabajo — aviso retirado («Esta oferta ya no está disponible»); sin canal de correo.
 
 ## OF-20260826-11 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -129,10 +149,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pide ≥1 año pabellón/preoperatorio (base es APS/procedimientos).
 - **Commit CV:** `29d0e3747580d7d78e45c399498882d97d8d4574`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Trabajando.com — «Has postulado». Honestas: SIS sí; sin pabellón; renta $1.400.000; 4° turno sí.
 
 ## OF-20260826-12 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -140,10 +162,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — mismo perfil perioperatorio que OF-11, modalidad volante.
 - **Commit CV:** `d9d77b40603b2ebd9072343497fbddb972163a85`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Trabajando.com — «Has postulado». Honestas: sin pabellón; sin anestesia; 4° turno modificado sí.
 
 ## OF-20260826-13 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
 - **Comuna / zona:** Las Condes (Av. Alejandro Fleming), RM
 - **Fuente:** Laborum / Nueva Clínica Cordillera
@@ -151,10 +175,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pide ≥6 meses pabellón (excluyente). Aviso finalizado el 17-08 (≤14 días; gracia de plazo).
 - **Commit CV:** `84758058f1db6015859b507353607f30dbd30e37`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Laborum bloqueada (2FA / reto LinkedIn). Aviso finalizado 17-08, aún en gracia ≤14 días.
 
 ## OF-20260826-14 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / Clínica Alemana
@@ -162,10 +188,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pide ~2 años pabellón quirúrgico; plazo aún abierto (~31 días).
 - **Commit CV:** `8628c5940739a7aa9b1ebcea30cfebbec40c6294`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Trabajando.com — «Has postulado al empleo!». Honestas: renta $1.400.000; sin 2 años pabellón; Hepatitis B sí; acuerdo a reemplazo de licencia médica prolongada.
 
 ## OF-20260826-15 — Enfermera/o Clínico — Estación Central (jornada completa)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos (IntegraMédica)
@@ -173,6 +201,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — procedimientos y box ambulatorio; match APS del base. Pide RCP avanzado. Aviso finalizado el 17-08 (≤14 días; gracia de plazo). Distinto de OF-19 (30 h).
 - **Commit CV:** `f7864ef95fd20695d67a87893929dd5bd7e76c72`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-26
+- **Nota postulación:** 2026-08-26 — Laborum bloqueada (2FA / reto LinkedIn). Aviso finalizado 17-08, aún en gracia ≤14 días.
 
 ## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
 
