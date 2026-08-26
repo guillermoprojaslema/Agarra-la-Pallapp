@@ -33,12 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-toma-de-muestras-clini-santiago-en-santiago-providencia-56716BFB0055914C61373E686DCF3405
 - **Comuna / zona:** Providencia / Santiago / San Bernardo (Tobalaba, Alameda, etc.)
 - **Fuente:** Computrabajo / Clini
 - **Renta:** a convenir (20 h/sem, sáb–dom)
 - **Encaje:** Medio — base acredita toma de muestras, antígeno/PCR y ambulatorio; jornada parcial compatible.
+- **Commit CV:** `717a049b1052e7d4c8f29052f5fb3d4d481effac`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
