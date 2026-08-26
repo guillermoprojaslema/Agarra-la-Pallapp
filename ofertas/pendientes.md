@@ -99,12 +99,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-09 — Enfermero/a Continuidad cuidados medios — Providencia ($1.400.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-continuidad-cuidados-medios-1400000-diurno-providencia-en-santiago-providencia-ED0C435846DCF8EC61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
 - **Renta:** $1.400.000 (diurno L–V)
 - **Encaje:** Medio-bajo — pide ≥3 años MQ y liderazgo de equipos + ACLS; el base es APS/SAR.
+- **Commit CV:** `33262b611a4baa37a4045470445cd53e71d20a7b`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-10 — Enfermero(a) Centro médico / Calidad — La Florida ($1.200.000)
