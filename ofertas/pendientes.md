@@ -22,12 +22,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-32 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-programacion-quirurgica-pabellon-clinica-san-carlos-en-santiago-las-condes-00072CFB674F515761373E686DCF3405
 - **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** $1.300.000 (jornada diurna 42 h; publicada hoy)
 - **Encaje:** Medio — más gestión de pabellón que APS; útil si interesa red UC CHRISTUS y continuidad de cuidados.
+- **Commit CV:** `d82b246cd93d104f4f6c4771c34688771f61215d`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-33 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
