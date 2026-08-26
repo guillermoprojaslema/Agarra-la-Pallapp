@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
+
+- **URL:** https://www.linkedin.com/jobs/view/4456084153/
+- **Commit:** `cf1ad1dd92d2a101a1d0bbcaff121d4493975974`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTI, intermedio, procedimientos, IAAS, 4to turno
+
+
 ## 2026-08-26 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
 
 - **URL:** https://www.linkedin.com/jobs/view/4453355510/
