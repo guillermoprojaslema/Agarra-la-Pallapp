@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
+- **Commit:** `51ff709ad1eae2d860c2de6c10c86fb9344095b1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** reemplazo, SAR, procedimientos, IAAS, Maipú
+
+
 ## 2026-08-25 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
 
 - **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
