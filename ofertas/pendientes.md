@@ -88,12 +88,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-30 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** Computrabajo
 - **Renta:** a confirmar (≥1 año exp. pabellón)
 - **Encaje:** Medio — más quirúrgico que APS; posible si hay experiencia pabellón (base es más APS/SAR/domicilio).
+- **Commit CV:** `51ff709ad1eae2d860c2de6c10c86fb9344095b1`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
