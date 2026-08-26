@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Unidad GES — Providencia (ECR Salud)
+
+- **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
+- **Commit:** `56c02c73267120e858f002a4307494f3c53d7e97`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** GES, SIGGES, gestión clínica, registro, Providencia
+
+
 ## 2026-08-26 — Enfermera(o) GES — Hospital del Salvador
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
