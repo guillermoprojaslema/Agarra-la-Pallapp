@@ -55,12 +55,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-05 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/3887680
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** ChileTrabajos / Saapa
 - **Renta:** a convenir (jornada completa; casino; uniforme)
 - **Encaje:** Medio — coordinación, toma de muestras y procedimientos de protocolo; no piden experiencia previa en investigación.
+- **Commit CV:** `74021738c802c4f70e217cdebf2a551bb3787f0a`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-06 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
