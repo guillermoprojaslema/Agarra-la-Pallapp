@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
+
+- **URL:** https://www.linkedin.com/jobs/view/4459020923/
+- **Commit:** `93f2b5a37c59495d042ad6b1c004541c59210676`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico quirúrgico, hospitalización, IAAS, RCP, 4to turno
+
+
 ## 2026-08-26 — Enfermera a domicilio — Novufy (Las Condes)
 
 - **URL:** https://www.linkedin.com/jobs/view/4454634602/
