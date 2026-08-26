@@ -88,12 +88,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-08 — Enfermero/a Urgencias 4° turno — Providencia ($1.600.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
 - **Renta:** $1.600.000 (4° turno; 44 h)
 - **Encaje:** Medio — pide ≥1 año urgencias; base trae SAC/SAR y RCP/IAAS.
+- **Commit CV:** `a9b284738c72228a0e9edf2138c5a07e97a84fc9`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-09 — Enfermero/a Continuidad cuidados medios — Providencia ($1.400.000)
