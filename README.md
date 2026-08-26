@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
+
+- **URL:** https://www.linkedin.com/jobs/view/4453355510/
+- **Commit:** `a6b8a490cca1aa0a5cddbb6bda6f1c42ecbd3fac`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, procedimientos, IAAS, calidad, seguridad del paciente
+
+
 ## 2026-08-26 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
 
 - **URL:** https://www.linkedin.com/jobs/view/4457394974/
