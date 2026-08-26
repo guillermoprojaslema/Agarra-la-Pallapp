@@ -44,12 +44,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-34 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-cardiologia-reemplazo-licencia-medica-en-santiago-centro-39E5C12EC9F7F78361373E686DCF3405
 - **Comuna / zona:** Santiago Centro, RM
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (42 h; reemplazo LM extendida)
 - **Encaje:** Medio — rol clínico hospitalario; PSCV/HTA del base ayudan, pero no es APS/SAR.
+- **Commit CV:** `8178f1cee753c065138c7e8682ab3b5d0f94cddd`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-35 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
