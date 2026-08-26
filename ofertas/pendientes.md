@@ -154,12 +154,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-14 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / Clínica Alemana
 - **Renta:** a convenir (4° turno diurno; plazo fijo)
 - **Encaje:** Medio-bajo — pide ~2 años pabellón quirúrgico; plazo aún abierto (~31 días).
+- **Commit CV:** `8628c5940739a7aa9b1ebcea30cfebbec40c6294`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-15 — Enfermera/o Clínico — Estación Central (jornada completa)
