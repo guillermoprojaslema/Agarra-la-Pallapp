@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Continuidad cuidados medios — Providencia
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-continuidad-cuidados-medios-1400000-diurno-providencia-en-santiago-providencia-ED0C435846DCF8EC61373E686DCF3405
+- **Commit:** `33262b611a4baa37a4045470445cd53e71d20a7b`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** continuidad, cuidados medios, IAAS, coordinación, Providencia
+
+
 ## 2026-08-26 — Enfermero/a Urgencias 4° turno — Providencia
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
