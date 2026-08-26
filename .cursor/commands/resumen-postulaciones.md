@@ -40,7 +40,7 @@ python3 scripts/resumen_postulaciones.py --export-pdfs --email --stdout
 - `CV_Axel_Pfingsten_Arpe.pdf`
 - **Hash completo** del commit CV
 - Título y perfil adaptados (desde el `.tex` en ese commit)
-- Enlaces GitHub al PDF/commit si `origin` está configurado
+- Enlace público de descarga del PDF (`raw.githubusercontent.com`) y al commit si `origin` está configurado. El repo es público para que quien reciba el resumen no necesite login.
 
 ## No hacer
 

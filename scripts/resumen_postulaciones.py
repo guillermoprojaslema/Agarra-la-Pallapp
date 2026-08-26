@@ -62,6 +62,15 @@ def git_remote_web_base() -> str | None:
     return url
 
 
+def github_raw_cv_url(web_base: str, commit: str) -> str | None:
+    """URL pública que descarga el PDF (sin login si el repo es público)."""
+    m = re.search(r"github\.com/([^/]+)/([^/]+)/?$", web_base.rstrip("/"))
+    if not m:
+        return None
+    owner, repo = m.group(1), m.group(2)
+    return f"https://raw.githubusercontent.com/{owner}/{repo}/{commit}/{PDF_NAME}"
+
+
 def resolve_full_commit(commit: str) -> str:
     try:
         return subprocess.check_output(
@@ -240,9 +249,13 @@ def build_markdown(
         lines.append(f"- **Título CV:** {title}")
         lines.append(f"- **Perfil adaptado:** {profile}")
         if web_base:
-            lines.append(
-                f"- **Ver CV en GitHub:** {web_base}/blob/{o.commit}/{PDF_NAME}"
-            )
+            raw = github_raw_cv_url(web_base, o.commit)
+            if raw:
+                lines.append(f"- **Descargar CV (PDF):** {raw}")
+            else:
+                lines.append(
+                    f"- **Ver CV en GitHub:** {web_base}/blob/{o.commit}/{PDF_NAME}"
+                )
             lines.append(f"- **Commit en GitHub:** {web_base}/commit/{o.commit}")
         if export_dir:
             dest = export_dir / f"{o.of_id}.pdf"
@@ -262,9 +275,11 @@ def build_html(ofertas: list[OfertaPostulada], *, web_base: str | None) -> str:
         cv_link = ""
         commit_link = ""
         if web_base:
+            raw = github_raw_cv_url(web_base, o.commit)
+            cv_href = raw or f"{web_base}/blob/{o.commit}/{PDF_NAME}"
             cv_link = (
-                f'<p><strong>Ver CV:</strong> '
-                f'<a href="{web_base}/blob/{o.commit}/{PDF_NAME}">{PDF_NAME}</a></p>'
+                f'<p><strong>Descargar CV:</strong> '
+                f'<a href="{html.escape(cv_href)}">{PDF_NAME}</a></p>'
             )
             commit_link = (
                 f'<p><strong>Commit GitHub:</strong> '
