@@ -143,12 +143,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-13 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
 - **Comuna / zona:** Las Condes (Av. Alejandro Fleming), RM
 - **Fuente:** Laborum / Nueva Clínica Cordillera
 - **Renta:** a convenir (honorarios; 4° turno modificado Largo-Largo)
 - **Encaje:** Medio-bajo — pide ≥6 meses pabellón (excluyente). Aviso finalizado el 17-08 (≤14 días; gracia de plazo).
+- **Commit CV:** `84758058f1db6015859b507353607f30dbd30e37`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-14 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
