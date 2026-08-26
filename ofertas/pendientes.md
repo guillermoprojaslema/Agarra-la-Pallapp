@@ -17,7 +17,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Fuente:** Computrabajo / MYRASALUD SPA
 - **Renta:** $1.300.000 líquido (4to turno)
 - **Encaje:** Alto — seguimiento clínico, procedimientos y supervisión TENS en residencia/cuidado prolongado; base trae postrados, curaciones y continuidad.
-- **Commit CV:** `12c1a7c6c2e1f0e0e0e0e0e0e0e0e0e0e0e0e0e0`
+- **Commit CV:** `12c1a7c779eaf7135daa67f1d9037817a5dc03d1`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-24 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
