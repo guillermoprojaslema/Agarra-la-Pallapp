@@ -33,12 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-18 — Docente Enfermero MAIS — APS (Gran Santiago)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.linkedin.com/jobs/view/4458116846/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Corporación D
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Alto — MAIS, APS, promoción/prevención y planes de cuidado; el base acredita CESFAM y programas ministeriales. Publicado hace 2 días.
+- **Commit CV:** `b2e9f0a42bbaf0d485c83e991d026702740545b5`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-19 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
