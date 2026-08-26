@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-quirurgico-en-san-bernardo-99744BF9EE1A5D1961373E686DCF3405
+- **Commit:** `ed2282221c5bc0acf4a5e2ae889b5201cedaadab`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, cirugía ambulatoria, procedimientos, IAAS, San Bernardo
+
+
 ## 2026-08-25 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-central-esterilizacion-4-turno-penalolen-en-santiago-providencia-E85A942AC50D94CE61373E686DCF3405
