@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-coordinadora-unidad-toma-de-muestras-marcoleta-en-santiago-centro-07240B94ED023DE861373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Marcoleta), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
@@ -19,6 +19,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — coordinación de toma de muestras y flujo ambulatorio; base acredita UTM, antígeno/PCR y procedimientos APS.
 - **Commit CV:** `4c2ee493ea9a79dcaf2a1f16cb15e322b49ad21d`
 - **Detectada:** 2026-08-25
+- **Fecha postulación:** 2026-08-25
+- **Nota postulación:** 2026-08-25 — Computrabajo — «Te postulaste correctamente» (preguntas comuna/formación/calidad/liderazgo).
 
 ## OF-20260825-32 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
 
