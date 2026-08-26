@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3887680
+- **Commit:** `74021738c802c4f70e217cdebf2a551bb3787f0a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** estudios clínicos, toma de muestras, protocolos, coordinación, registro
+
+
 ## 2026-08-26 — Enfermero/a Unidad GES — Providencia (ECR Salud)
 
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
