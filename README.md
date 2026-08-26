@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
+
+- **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
+- **Commit:** `29d0e3747580d7d78e45c399498882d97d8d4574`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, perioperatorio, IAAS, procedimientos, RedSalud
+
+
 ## 2026-08-26 — Enfermero(a) Centro médico / Calidad — La Florida
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermero-a-centro-medico-en-santiago-la-florida-50F88B6A81F07B9061373E686DCF3405
