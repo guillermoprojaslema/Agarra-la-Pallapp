@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
+- **Commit:** `80eaa4b26a4e0ad6532b0d2b7ef075ecfe34a0db`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos ambulatorios, clave azul, centro médico, supervisión clínica, Las Condes
+
+
 ## 2026-08-25 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
