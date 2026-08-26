@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Docente Enfermero MAIS — APS (Gran Santiago)
+
+- **URL:** https://www.linkedin.com/jobs/view/4458116846/
+- **Commit:** `b2e9f0a42bbaf0d485c83e991d026702740545b5`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** MAIS, APS, promoción, planes de cuidado, interdisciplinario
+
+
 ## 2026-08-26 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
 
 - **URL:** https://www.linkedin.com/jobs/view/4459020923/
