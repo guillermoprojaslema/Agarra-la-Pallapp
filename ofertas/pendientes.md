@@ -33,12 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260826-03 — Enfermera(o) GES — Hospital del Salvador
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
 - **Comuna / zona:** Providencia (Hospital del Salvador), RM
 - **Fuente:** Laborum / Fundación Aníbal Ariztía
 - **Renta:** acorde al mercado (código del trabajo)
 - **Encaje:** Medio-alto — SIGGES, derivación APS-secundaria y seguimiento; base acredita SIGGES y APS. Aviso finalizado el 19-08 (≤14 días; gracia de plazo).
+- **Commit CV:** `8c7685ae3641dc4a8a9e00177a74760826a11f09`
 - **Detectada:** 2026-08-26
 
 ## OF-20260826-04 — Enfermero/a Unidad GES — Providencia (ECR Salud)
