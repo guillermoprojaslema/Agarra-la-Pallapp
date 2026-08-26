@@ -44,12 +44,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://www.chiletrabajos.cl/trabajo/3885459
 - **Comuna / zona:** RM (100 % domicilio; movilización propia + bono)
 - **Fuente:** ChileTrabajos / Situ
 - **Renta:** a confirmar (reemplazo pre/post natal; vence ~nov-2026)
 - **Encaje:** Alto — visitas domiciliarias, curaciones, medicación y gestión de casos; perfil HOSDOM/postrados del base.
+- **Commit CV:** `c05617129d0b1a82031d89974a020f9c9f65968f`
 - **Detectada:** 2026-08-25
 
 ## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
