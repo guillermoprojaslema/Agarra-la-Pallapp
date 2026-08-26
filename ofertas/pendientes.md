@@ -9,6 +9,87 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
+
+- **Estado:** lista_para_postular
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-coordinadora-unidad-toma-de-muestras-marcoleta-en-santiago-centro-07240B94ED023DE861373E686DCF3405
+- **Comuna / zona:** Santiago Centro (Marcoleta), RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** $1.300.000 (42 h; L–S presencial)
+- **Encaje:** Alto — coordinación de toma de muestras y flujo ambulatorio; base acredita UTM, antígeno/PCR y procedimientos APS.
+- **Commit CV:** `4c2ee493ea9a79dcaf2a1f16cb15e322b49ad21d`
+- **Detectada:** 2026-08-25
+
+## OF-20260825-32 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-programacion-quirurgica-pabellon-clinica-san-carlos-en-santiago-las-condes-00072CFB674F515761373E686DCF3405
+- **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** $1.300.000 (jornada diurna 42 h; publicada hoy)
+- **Encaje:** Medio — más gestión de pabellón que APS; útil si interesa red UC CHRISTUS y continuidad de cuidados.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-33 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-centro-medico-santa-lucia-licencia-medica-en-santiago-centro-EE6ACFC2AD7A5ACA61373E686DCF3405
+- **Comuna / zona:** Santiago Centro (Santa Lucía), RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (42 h; L–V; reemplazo licencia)
+- **Encaje:** Medio — clínico ambulatorio/pabellón; procedimientos y registro del base aplican; piden foco quirúrgico.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-34 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-cardiologia-reemplazo-licencia-medica-en-santiago-centro-39E5C12EC9F7F78361373E686DCF3405
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (42 h; reemplazo LM extendida)
+- **Encaje:** Medio — rol clínico hospitalario; PSCV/HTA del base ayudan, pero no es APS/SAR.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-35 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-central-esterilizacion-4-turno-penalolen-en-santiago-providencia-E85A942AC50D94CE61373E686DCF3405
+- **Comuna / zona:** Peñalolén (aviso Providencia), RM
+- **Fuente:** Computrabajo / Grupo Medical
+- **Renta:** $1.400.000 (4° turno)
+- **Encaje:** Medio-bajo — pide ≥1 año en central de esterilización (IAAS/RCP sí coinciden con el base).
+- **Detectada:** 2026-08-25
+
+## OF-20260825-36 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-quirurgico-en-san-bernardo-99744BF9EE1A5D1961373E686DCF3405
+- **Comuna / zona:** San Bernardo, RM (cerca de metro)
+- **Fuente:** Computrabajo
+- **Renta:** ~$1.040.000 (42 h; ≥2 años pabellón/CMA)
+- **Encaje:** Medio-bajo — más quirúrgico que APS; posible si hay interés en pabellón (base es APS/SAR/domicilio).
+- **Detectada:** 2026-08-25
+
+## OF-20260825-37 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
+
+- **Estado:** en_adaptacion
+- **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** a convenir (4° turno 08:00–20:00; casino; contrato directo)
+- **Encaje:** Medio — hospitalización MQ; curaciones, dispositivos y continuidad del base encajan; piden 1–2 años MQ/UCI + IAAS 80 h y ACLS.
+- **Detectada:** 2026-08-25
+
+## OF-20260825-38 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** Computrabajo
+- **Renta:** a convenir (42 h)
+- **Encaje:** Medio — jefatura de residencia (postrados/continuidad del base); pide liderazgo de equipo, no solo clínico de sector.
+- **Detectada:** 2026-08-25
+
 ## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
 
 - **Estado:** postulada
