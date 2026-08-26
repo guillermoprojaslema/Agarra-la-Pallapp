@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-25 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-centro-medico-santa-lucia-licencia-medica-en-santiago-centro-EE6ACFC2AD7A5ACA61373E686DCF3405
+- **Commit:** `51cc81ccb2088997705909ab720e34231fc8fd45`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, procedimientos, IAAS, reemplazo, UC CHRISTUS
+
+
 ## 2026-08-25 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-programacion-quirurgica-pabellon-clinica-san-carlos-en-santiago-las-condes-00072CFB674F515761373E686DCF3405
