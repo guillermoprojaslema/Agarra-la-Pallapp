@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-26 — Enfermera(o) GES — Hospital del Salvador
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
+- **Commit:** `8c7685ae3641dc4a8a9e00177a74760826a11f09`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** GES, SIGGES, derivación, APS, Hospital Salvador
+
+
 ## 2026-08-26 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
 
 - **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
