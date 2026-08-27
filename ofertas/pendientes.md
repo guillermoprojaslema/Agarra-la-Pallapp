@@ -55,12 +55,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-05 — Enfermera atención domiciliaria (ventilados) — MEDIC HOME (Santiago)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / MEDIC HOME
 - **Renta:** «buena rentabilidad» + contrato fijo (monto no publicado)
 - **Encaje:** Medio-alto — domiciliaria y SIS; piden experiencia con pacientes ventilados (el base no acredita VM). Publicado 23-08; vigencia hasta 13-09.
+- **Commit CV:** `f34f933f06632ca97a4e0cdca2c440ee780e1c3d`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-06 — Enfermera a domicilio — toma de muestras (People Management / Providencia)
