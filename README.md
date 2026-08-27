@@ -1,6 +1,6 @@
 # CV — Axel Pfingsten Arpe
 
-Repo: https://github.com/guillermoprojaslema/CV-Axel-Pfingsten
+Repo: https://github.com/guillermoprojaslema/Agarra-la-Pallapp
 
 ## CV base
 
