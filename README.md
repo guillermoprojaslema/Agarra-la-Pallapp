@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera educadora / inducción HOSDOM — Medical Home
+
+- **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
+- **Commit:** `6602fc7ae7441babd1abf90be0163cf6a90d1e45`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** capacitación, domiciliaria, inducción, calidad, HOSDOM
+
+
 ## 2026-08-27 — Enfermera volante — atención domiciliaria (Step Therapy)
 
 - **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
