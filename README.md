@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente
+
+- **URL:** https://www.kitempleo.cl/empleo/102066883/enfermera-santiago-metropolitan-area
+- **Commit:** `c2146e3306640e29e30915703a2389329f107405`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** salud mental, infanto-juvenil, 4to turno, registros clínicos, medicamentos
+
+
 ## 2026-08-26 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
 
 - **URL:** https://www.linkedin.com/jobs/view/4456084153/
