@@ -88,12 +88,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-08 — Enfermero(a) clínico — toma de muestras y procedimientos (Instituto Nacional de Geriatría)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
 - **Comuna / zona:** Santiago, RM (ING)
 - **Fuente:** Kit Empleo / Instituto Nacional de Geriatría
 - **Renta:** $1.647.619 bruto (grado 14 EUS, contrata)
 - **Encaje:** Alto — procedimientos, muestras y continuidad geriátrica; el base trae UTM, curaciones y postrados. Publicado 20-08; vigencia hasta 10-09.
+- **Commit CV:** `4022a6342e463619d3876a4cf997551527e5da71`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-09 — Enfermero(a) Curaciones — Centro Médico Clínica Dávila Recoleta
