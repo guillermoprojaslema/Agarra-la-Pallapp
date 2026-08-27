@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera unidad adultos salud mental — Clínica Esfera
+
+- **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
+- **Commit:** `ba368b9471a3f9fd7346baeca647277548d101cd`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** salud mental, 4to turno, registros, medicamentos, equipo
+
+
 ## 2026-08-27 — Enfermero(a) Curaciones — Clínica Dávila Recoleta
 
 - **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
