@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera/o MQ hospitalizados — Estación Central (XinerLink)
+
+- **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
+- **Commit:** `a87fbf00d749286807acca124ab6aa9b66c0318f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** MQ, hospitalización, IAAS, RCP, 4to turno
+
+
 ## 2026-08-27 — Enfermera unidad adultos salud mental — Clínica Esfera
 
 - **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
