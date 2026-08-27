@@ -66,12 +66,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-06 — Enfermera a domicilio — toma de muestras (People Management / Providencia)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
 - **Comuna / zona:** Providencia + domicilios RM
 - **Fuente:** Kit Empleo / People Management
 - **Renta:** no publicada (part-time lun–sáb; piden vehículo propio y ≥2 años)
 - **Encaje:** Alto — toma de muestras a domicilio; el base acredita UTM, antígeno/PCR y movilidad APS. Publicado 22-08; vigencia hasta 12-09.
+- **Commit CV:** `048304b40aee9e10c3125a32d4c7d970f861d1dc`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-07 — Enfermero(a) Pediatría MQ — campaña invierno Independencia ($1.300.000)
