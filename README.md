@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermero(a) clínico procedimientos — Instituto Nacional de Geriatría
+
+- **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
+- **Commit:** `4022a6342e463619d3876a4cf997551527e5da71`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, toma de muestras, geriatría, curaciones, IAAS
+
+
 ## 2026-08-27 — Enfermero(a) Pediatría MQ — Independencia
 
 - **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
