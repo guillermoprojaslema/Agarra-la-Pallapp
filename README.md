@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera atención domiciliaria — MEDIC HOME (Santiago)
+
+- **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
+- **Commit:** `f34f933f06632ca97a4e0cdca2c440ee780e1c3d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** domiciliaria, SIS, curaciones, continuidad, IAAS
+
+
 ## 2026-08-27 — Enfermera educadora / inducción HOSDOM — Medical Home
 
 - **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
