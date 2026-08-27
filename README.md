@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermero(a) Curaciones — Clínica Dávila Recoleta
+
+- **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
+- **Commit:** `efd771012a27af6a51860300c1dc3df15683ba4a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** curaciones, heridas, ambulatorio, bioseguridad, IAAS
+
+
 ## 2026-08-27 — Enfermero(a) clínico procedimientos — Instituto Nacional de Geriatría
 
 - **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
