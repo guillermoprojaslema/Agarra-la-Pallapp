@@ -11,7 +11,7 @@ Cuando el usuario pida **buscar ofertas**, **encontrar vacantes**, **listar trab
 
 - Perfil: enfermero APS / domiciliaria / SAR / procedimientos, según `CV_Base.docx`.
 - Región: **Región Metropolitana (RM), Chile**.
-- Solo ofertas **aún disponibles** (publicadas recientemente / con postulación abierta).
+- Ofertas **aún disponibles** o con plazo vencido de **como máximo 2 semanas** (los reclutadores a veces siguen recibiendo). Más de 14 días de cierre: no agregar.
 - No hace falta match 100 %; sí ad-hoc al cargo.
 
 ## Pasos
@@ -25,7 +25,7 @@ Cuando el usuario pida **buscar ofertas**, **encontrar vacantes**, **listar trab
    - **Universidades / docencia clínica (si aparece enfermería APS):** portales de RR.HH. UC, U. de Chile, Usach, U. Central, UNAB, UDD, USS, UBO, etc.
    - **Redes y comunidades:** LinkedIn (empleos + posts #enfermería #APS #CESFAM), Facebook grupos de empleo salud Chile, Instagram de corporaciones municipales de salud
    - **Agencias / outsourcing salud:** Seniority, Workforce/EST, Progestion, consultoras que publiquen EU/TENS en RM
-2. Verificar vigencia (fecha, “hace X horas/días”, plazo de postulación).
+2. Verificar vigencia (fecha, “hace X horas/días”, plazo de postulación). Si el plazo ya pasó pero **≤ 14 días**, **igual incluirla** (regla `plazo-postulacion`).
 3. Presentar al usuario un **listado numerado** (cargo, comuna, renta si hay, por qué encaja, URL).
 4. **Guardar/actualizar** `ofertas/pendientes.md` con las ofertas nuevas (sin duplicar la misma URL).
 5. Estado inicial de cada ítem: `pendiente`.
