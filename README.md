@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
+
+- **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
+- **Commit:** `c65557c12efdbaf4fc0d53154ea615343a78e3cc`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencia, SAR, triage, RCP, estabilización
+
+
 ## 2026-08-27 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente
 
 - **URL:** https://www.kitempleo.cl/empleo/102066883/enfermera-santiago-metropolitan-area
