@@ -9,6 +9,117 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
+
+- **Estado:** lista_para_postular
+- **URL:** https://www.kitempleo.cl/empleo/102066883/enfermera-santiago-metropolitan-area
+- **Comuna / zona:** RM (Clínica Oriente, unidad infanto-juvenil)
+- **Fuente:** Kit Empleo / Clínica Oriente
+- **Renta:** no publicada (4° turno)
+- **Encaje:** Medio-bajo — hospitalización de salud mental infanto-juvenil; el base es APS/SAR. Cuidados, fármacos y registros sí aplican. Publicado 27-08; vigencia hasta 17-09.
+- **Commit CV:** `c2146e3306640e29e30915703a2389329f107405`
+- **Detectada:** 2026-08-27
+
+## OF-20260827-02 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
+- **Comuna / zona:** La Florida, RM
+- **Fuente:** Kit Empleo / Clínica Dávila (también aparece como Vespucio)
+- **Renta:** no publicada
+- **Encaje:** Medio — urgencia, triage y estabilización; SAR/SAC y RCP del base ayudan. Publicado 27-08; vigencia hasta 17-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-03 — Enfermera volante — atención domiciliaria (Step Therapy)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
+- **Comuna / zona:** Santiago / RM (asignaciones según demanda; el aviso menciona red nacional)
+- **Fuente:** Kit Empleo / Step Therapy
+- **Renta:** no publicada (sin jornada fija)
+- **Encaje:** Alto — volante de atención domiciliaria; HOSDOM, postrados y procedimientos del base. Publicado 25-08; vigencia hasta 15-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-04 — Enfermera educadora / inducción — Hospitalización domiciliaria (Medical Home)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
+- **Comuna / zona:** Santiago, RM
+- **Fuente:** Kit Empleo / Clínica Medical Home
+- **Renta:** no publicada
+- **Encaje:** Medio — el base acredita HOSDOM; el cargo es capacitación e inducción del equipo, no ruta clínica. Distinto de OF-20260825-02 (volantes ya postulada). Publicado 24-08; vigencia hasta 14-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-05 — Enfermera atención domiciliaria (ventilados) — MEDIC HOME (Santiago)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
+- **Comuna / zona:** Santiago, RM
+- **Fuente:** Kit Empleo / MEDIC HOME
+- **Renta:** «buena rentabilidad» + contrato fijo (monto no publicado)
+- **Encaje:** Medio-alto — domiciliaria y SIS; piden experiencia con pacientes ventilados (el base no acredita VM). Publicado 23-08; vigencia hasta 13-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-06 — Enfermera a domicilio — toma de muestras (People Management / Providencia)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
+- **Comuna / zona:** Providencia + domicilios RM
+- **Fuente:** Kit Empleo / People Management
+- **Renta:** no publicada (part-time lun–sáb; piden vehículo propio y ≥2 años)
+- **Encaje:** Alto — toma de muestras a domicilio; el base acredita UTM, antígeno/PCR y movilidad APS. Publicado 22-08; vigencia hasta 12-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-07 — Enfermero(a) Pediatría MQ — campaña invierno Independencia ($1.300.000)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
+- **Comuna / zona:** Independencia, RM
+- **Fuente:** Kit Empleo
+- **Renta:** $1.300.000 líquido (4° turno o diurno)
+- **Encaje:** Medio-bajo — MQ pediátrico; piden 1 año urgencia pediátrica, IAAS y RCP pediátrico (excluyente). El base trae IAAS/RCP adultos y APS. Publicado 21-08; vigencia hasta 11-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-08 — Enfermero(a) clínico — toma de muestras y procedimientos (Instituto Nacional de Geriatría)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
+- **Comuna / zona:** Santiago, RM (ING)
+- **Fuente:** Kit Empleo / Instituto Nacional de Geriatría
+- **Renta:** $1.647.619 bruto (grado 14 EUS, contrata)
+- **Encaje:** Alto — procedimientos, muestras y continuidad geriátrica; el base trae UTM, curaciones y postrados. Publicado 20-08; vigencia hasta 10-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-09 — Enfermero(a) Curaciones — Centro Médico Clínica Dávila Recoleta
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
+- **Comuna / zona:** Recoleta, RM
+- **Fuente:** Kit Empleo / Clínica Dávila
+- **Renta:** no publicada (jornada completa, turnos diurnos rotativos)
+- **Encaje:** Medio — curaciones ambulatorias del base; piden diplomado en heridas y manejo avanzado (excluyente). Publicado 19-08; vigencia hasta 09-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-10 — Enfermera unidad adultos — salud mental (Clínica Esfera, Lo Barnechea)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
+- **Comuna / zona:** Lo Barnechea, RM
+- **Fuente:** Kit Empleo / Clínica Esfera Psiquiátrica
+- **Renta:** no publicada (4° turno)
+- **Encaje:** Bajo-medio — piden ≥2 años de experiencia clínica en salud mental (excluyente); el base es APS/SAR. Publicado 16-08; vigencia hasta 06-09.
+- **Detectada:** 2026-08-27
+
+## OF-20260827-11 — Enfermera/o MQ hospitalizados — reemplazo Estación Central (XinerLink)
+
+- **Estado:** pendiente
+- **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Kit Empleo / XinerLink
+- **Renta:** $1.042.000 líquido (4° turno; ≥6 meses MQ)
+- **Encaje:** Medio — hospitalización MQ; IAAS del base aplica. Distinto de OF-20260826-15 (clínico ambulatorio). Publicado 14-08; vigencia hasta 04-09.
+- **Detectada:** 2026-08-27
+
 ## OF-20260826-22 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
 
 - **Estado:** lista_para_postular
