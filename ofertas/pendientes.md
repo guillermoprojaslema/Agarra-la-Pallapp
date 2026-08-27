@@ -110,12 +110,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-10 — Enfermera unidad adultos — salud mental (Clínica Esfera, Lo Barnechea)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** Kit Empleo / Clínica Esfera Psiquiátrica
 - **Renta:** no publicada (4° turno)
 - **Encaje:** Bajo-medio — piden ≥2 años de experiencia clínica en salud mental (excluyente); el base es APS/SAR. Publicado 16-08; vigencia hasta 06-09.
+- **Commit CV:** `ba368b9471a3f9fd7346baeca647277548d101cd`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-11 — Enfermera/o MQ hospitalizados — reemplazo Estación Central (XinerLink)
