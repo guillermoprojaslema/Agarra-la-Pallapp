@@ -24,20 +24,16 @@ Cuando el usuario compartá una **nueva oferta** (URL, texto o PDF) **o** el Flu
 6. **Bullets afines:** `verbo + qué hiciste + resultado medible` (menos de 20 palabras), reescribiendo solo lo que ya existe en el base.
 7. **Compilar** el Harvard (`pdflatex CV_Axel_Pfingsten_Arpe.tex`).
 
-## 2. Commit + README.md (obligatorio)
+## 2. Commits + README.md (obligatorio)
 
-Tras adaptar y compilar:
+Tras adaptar y compilar, aplicar la regla `commits-adaptacion` (3 commits + push; atajo `scripts/_commit_adaptacion.sh`):
 
-1. **Commit** de los cambios de la versión adaptada (no del base, salvo que el usuario pida actualizar el base).
-2. Obtener el hash: `git rev-parse HEAD`.
-3. **Crear o modificar `README.md`**. Entrada nueva **arriba** del historial con:
-   - Fecha
-   - Cargo / título de la oferta
-   - **URL de la publicación** (o «sin URL»)
-   - **Hash del commit** de esa versión adaptada
-   - Nota de que el contenido parte de `CV_Base.docx`
-4. **Segundo commit** del `README.md` tras conocer el hash.
-5. **Push** a `origin` si el remoto está configurado y el usuario no lo prohíbe.
+1. **Commit del CV** adaptado (`.tex` + `.pdf`; no el base, salvo pedido explícito).
+2. Hash: `git rev-parse HEAD`.
+3. **README.md**: entrada nueva **arriba** del historial (más reciente primero) con fecha, cargo, URL, hash, base y keywords.
+4. **Segundo commit** del `README.md`.
+5. **Tercer commit** de `ofertas/pendientes.md` (`lista_para_postular` + `Commit CV`).
+6. **Push** a `origin` (credenciales según `git-credentials`).
 
 ### Formato de entrada en README.md
 
