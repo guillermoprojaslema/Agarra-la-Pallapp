@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera a domicilio — toma de muestras (Providencia)
+
+- **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
+- **Commit:** `048304b40aee9e10c3125a32d4c7d970f861d1dc`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, domicilio, UTM, PCR, movilidad
+
+
 ## 2026-08-27 — Enfermera atención domiciliaria — MEDIC HOME (Santiago)
 
 - **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
