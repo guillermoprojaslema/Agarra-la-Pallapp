@@ -99,12 +99,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-09 — Enfermero(a) Curaciones — Centro Médico Clínica Dávila Recoleta
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
 - **Comuna / zona:** Recoleta, RM
 - **Fuente:** Kit Empleo / Clínica Dávila
 - **Renta:** no publicada (jornada completa, turnos diurnos rotativos)
 - **Encaje:** Medio — curaciones ambulatorias del base; piden diplomado en heridas y manejo avanzado (excluyente). Publicado 19-08; vigencia hasta 09-09.
+- **Commit CV:** `efd771012a27af6a51860300c1dc3df15683ba4a`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-10 — Enfermera unidad adultos — salud mental (Clínica Esfera, Lo Barnechea)
