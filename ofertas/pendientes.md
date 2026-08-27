@@ -77,12 +77,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-07 — Enfermero(a) Pediatría MQ — campaña invierno Independencia ($1.300.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
 - **Comuna / zona:** Independencia, RM
 - **Fuente:** Kit Empleo
 - **Renta:** $1.300.000 líquido (4° turno o diurno)
 - **Encaje:** Medio-bajo — MQ pediátrico; piden 1 año urgencia pediátrica, IAAS y RCP pediátrico (excluyente). El base trae IAAS/RCP adultos y APS. Publicado 21-08; vigencia hasta 11-09.
+- **Commit CV:** `36b15393b504e5635517b9b756cf1ad5629904de`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-08 — Enfermero(a) clínico — toma de muestras y procedimientos (Instituto Nacional de Geriatría)
