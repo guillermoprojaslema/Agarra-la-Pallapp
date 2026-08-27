@@ -44,12 +44,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-04 — Enfermera educadora / inducción — Hospitalización domiciliaria (Medical Home)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / Clínica Medical Home
 - **Renta:** no publicada
 - **Encaje:** Medio — el base acredita HOSDOM; el cargo es capacitación e inducción del equipo, no ruta clínica. Distinto de OF-20260825-02 (volantes ya postulada). Publicado 24-08; vigencia hasta 14-09.
+- **Commit CV:** `6602fc7ae7441babd1abf90be0163cf6a90d1e45`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-05 — Enfermera atención domiciliaria (ventilados) — MEDIC HOME (Santiago)
