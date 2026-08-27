@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermera volante — atención domiciliaria (Step Therapy)
+
+- **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
+- **Commit:** `d9ad403ee0a88e846b3bc5147c75dd2ff35a0dfe`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** domiciliaria, volante, curaciones, toma de muestras, HOSDOM
+
+
 ## 2026-08-27 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
 
 - **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
