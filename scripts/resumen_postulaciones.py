@@ -110,7 +110,14 @@ def parse_postuladas() -> list[OfertaPostulada]:
             )
         )
 
-    out.sort(key=lambda o: (o.fecha, o.of_id))
+    # Más reciente primero; sin fecha al final.
+    out.sort(
+        key=lambda o: (
+            o.fecha if o.fecha and o.fecha != "sin fecha" else "0000-00-00",
+            o.of_id,
+        ),
+        reverse=True,
+    )
     return out
 
 
@@ -229,6 +236,8 @@ def build_markdown(
         "",
         f"Total: **{len(ofertas)}** oferta(s) con estado `postulada` en `ofertas/pendientes.md`.",
         "",
+        "Orden: de la postulación **más reciente** a la **más antigua**.",
+        "",
         "Cada entrada incluye la URL del aviso, el CV Harvard postulado y el **hash completo** del commit.",
         "",
     ]
@@ -330,7 +339,7 @@ def build_html(ofertas: list[OfertaPostulada], *, web_base: str | None) -> str:
 </head>
 <body>
   <h1>Resumen de postulaciones enviadas — {today}</h1>
-  <p class="meta">Total: <strong>{len(ofertas)}</strong> postulación(es) registradas como enviadas.</p>
+  <p class="meta">Total: <strong>{len(ofertas)}</strong> postulación(es) registradas como enviadas. Orden: de la más reciente a la más antigua.</p>
   {body}
 </body>
 </html>

@@ -34,6 +34,10 @@ python3 scripts/resumen_postulaciones.py --export-pdfs --email --stdout
 
 5. Responder al usuario en **español**: rutas generadas, cantidad de postulaciones, confirmación de envío (origen → destino).
 
+## Orden de las publicaciones
+
+Listar **de la postulación más reciente a la más antigua** (fecha descendente; el mismo día, ID `OF-…` más alto primero; sin fecha al final). No usar el orden de `pendientes.md`.
+
 ## Contenido mínimo por oferta
 
 - URL de la postulación
