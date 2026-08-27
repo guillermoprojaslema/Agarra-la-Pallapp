@@ -33,12 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-03 — Enfermera volante — atención domiciliaria (Step Therapy)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago / RM (asignaciones según demanda; el aviso menciona red nacional)
 - **Fuente:** Kit Empleo / Step Therapy
 - **Renta:** no publicada (sin jornada fija)
 - **Encaje:** Alto — volante de atención domiciliaria; HOSDOM, postrados y procedimientos del base. Publicado 25-08; vigencia hasta 15-09.
+- **Commit CV:** `d9ad403ee0a88e846b3bc5147c75dd2ff35a0dfe`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-04 — Enfermera educadora / inducción — Hospitalización domiciliaria (Medical Home)
