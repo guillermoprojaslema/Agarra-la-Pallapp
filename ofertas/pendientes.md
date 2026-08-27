@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/102066883/enfermera-santiago-metropolitan-area
 - **Comuna / zona:** RM (Clínica Oriente, unidad infanto-juvenil)
 - **Fuente:** Kit Empleo / Clínica Oriente
@@ -19,10 +19,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — hospitalización de salud mental infanto-juvenil; el base es APS/SAR. Cuidados, fármacos y registros sí aplican. Publicado 27-08; vigencia hasta 17-09.
 - **Commit CV:** `c2146e3306640e29e30915703a2389329f107405`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-02 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Kit Empleo / Clínica Dávila (también aparece como Vespucio)
@@ -30,10 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — urgencia, triage y estabilización; SAR/SAC y RCP del base ayudan. Publicado 27-08; vigencia hasta 17-09.
 - **Commit CV:** `c65557c12efdbaf4fc0d53154ea615343a78e3cc`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-03 — Enfermera volante — atención domiciliaria (Step Therapy)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago / RM (asignaciones según demanda; el aviso menciona red nacional)
 - **Fuente:** Kit Empleo / Step Therapy
@@ -41,10 +47,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — volante de atención domiciliaria; HOSDOM, postrados y procedimientos del base. Publicado 25-08; vigencia hasta 15-09.
 - **Commit CV:** `d9ad403ee0a88e846b3bc5147c75dd2ff35a0dfe`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-04 — Enfermera educadora / inducción — Hospitalización domiciliaria (Medical Home)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / Clínica Medical Home
@@ -52,10 +61,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — el base acredita HOSDOM; el cargo es capacitación e inducción del equipo, no ruta clínica. Distinto de OF-20260825-02 (volantes ya postulada). Publicado 24-08; vigencia hasta 14-09.
 - **Commit CV:** `6602fc7ae7441babd1abf90be0163cf6a90d1e45`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-05 — Enfermera atención domiciliaria (ventilados) — MEDIC HOME (Santiago)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / MEDIC HOME
@@ -63,10 +75,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — domiciliaria y SIS; piden experiencia con pacientes ventilados (el base no acredita VM). Publicado 23-08; vigencia hasta 13-09.
 - **Commit CV:** `f34f933f06632ca97a4e0cdca2c440ee780e1c3d`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-06 — Enfermera a domicilio — toma de muestras (People Management / Providencia)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
 - **Comuna / zona:** Providencia + domicilios RM
 - **Fuente:** Kit Empleo / People Management
@@ -74,10 +89,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — toma de muestras a domicilio; el base acredita UTM, antígeno/PCR y movilidad APS. Publicado 22-08; vigencia hasta 12-09.
 - **Commit CV:** `048304b40aee9e10c3125a32d4c7d970f861d1dc`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-07 — Enfermero(a) Pediatría MQ — campaña invierno Independencia ($1.300.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
 - **Comuna / zona:** Independencia, RM
 - **Fuente:** Kit Empleo
@@ -85,10 +103,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — MQ pediátrico; piden 1 año urgencia pediátrica, IAAS y RCP pediátrico (excluyente). El base trae IAAS/RCP adultos y APS. Publicado 21-08; vigencia hasta 11-09.
 - **Commit CV:** `36b15393b504e5635517b9b756cf1ad5629904de`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-08 — Enfermero(a) clínico — toma de muestras y procedimientos (Instituto Nacional de Geriatría)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
 - **Comuna / zona:** Santiago, RM (ING)
 - **Fuente:** Kit Empleo / Instituto Nacional de Geriatría
@@ -96,10 +117,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos, muestras y continuidad geriátrica; el base trae UTM, curaciones y postrados. Publicado 20-08; vigencia hasta 10-09.
 - **Commit CV:** `4022a6342e463619d3876a4cf997551527e5da71`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-09 — Enfermero(a) Curaciones — Centro Médico Clínica Dávila Recoleta
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
 - **Comuna / zona:** Recoleta, RM
 - **Fuente:** Kit Empleo / Clínica Dávila
@@ -107,10 +131,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — curaciones ambulatorias del base; piden diplomado en heridas y manejo avanzado (excluyente). Publicado 19-08; vigencia hasta 09-09.
 - **Commit CV:** `efd771012a27af6a51860300c1dc3df15683ba4a`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-10 — Enfermera unidad adultos — salud mental (Clínica Esfera, Lo Barnechea)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** Kit Empleo / Clínica Esfera Psiquiátrica
@@ -118,10 +145,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Bajo-medio — piden ≥2 años de experiencia clínica en salud mental (excluyente); el base es APS/SAR. Publicado 16-08; vigencia hasta 06-09.
 - **Commit CV:** `ba368b9471a3f9fd7346baeca647277548d101cd`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260827-11 — Enfermera/o MQ hospitalizados — reemplazo Estación Central (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Kit Empleo / XinerLink
@@ -129,10 +159,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — hospitalización MQ; IAAS del base aplica. Distinto de OF-20260826-15 (clínico ambulatorio). Publicado 14-08; vigencia hasta 04-09.
 - **Commit CV:** `a87fbf00d749286807acca124ab6aa9b66c0318f`
 - **Detectada:** 2026-08-27
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Kit Empleo apply-online — redirect «?apply=success».
+
 
 ## OF-20260826-22 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.linkedin.com/jobs/view/4456084153/
 - **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
 - **Fuente:** LinkedIn / UC CHRISTUS
@@ -140,10 +173,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — piden UTI/intermedio, ventilación mecánica y drogas vasoactivas (el base es APS/SAR). IAAS y procedimientos del base sí aplican. Publicado hace 5 días.
 - **Commit CV:** `cf1ad1dd92d2a101a1d0bbcaff121d4493975974`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — LinkedIn Easy Apply — «Solicitud enviada». CV en LinkedIn 2021.docx (no se adjuntó el PDF Harvard). Honestas: renta $1.400.000; uniforme sí; 4° turno sí; Las Condes sí; 0 años UTI/intermedio.
+
 
 ## OF-20260826-16 — Enfermera a domicilio — Novufy (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.linkedin.com/jobs/view/4454634602/
 - **Comuna / zona:** Las Condes, RM (traslado a distintos domicilios)
 - **Fuente:** LinkedIn / Novufy
@@ -151,10 +187,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos en domicilio (toma de muestras, sueroterapia, inyectables); coincide con APS/HOSDOM del base. Publicado hace 1 día.
 - **Commit CV:** `d0ed9212ebbee907edb4dd266c26278c50bd182a`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — LinkedIn Easy Apply — «Solicitud enviada». CV LinkedIn 2021.docx. Honestas: vehículo no (no figura en el base); disponibilidad inmediata sí; renta $1.400.000. LinkedIn mostró aviso de anuncio y se continuó.
+
 
 ## OF-20260826-17 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.linkedin.com/jobs/view/4459020923/
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** LinkedIn / Seniors Salud
@@ -162,10 +201,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — piden ≥12 meses MQ (el base es APS/SAR). Curso IAAS y RCP del base sí aplican. Cierre de antecedentes 31-08.
 - **Commit CV:** `93f2b5a37c59495d042ad6b1c004541c59210676`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — LinkedIn Easy Apply cerrado («Ya no se aceptan solicitudes»). Postulación por correo a reclutamiento@seniorsalud.cl con CV PDF adaptado. Reply-To axel.pfingsten@gmail.com. Honestidad: se declaró trayectoria APS/SAR/domiciliaria, no 12 meses MQ hospitalario. Cierre de antecedentes 31-08.
+
 
 ## OF-20260826-18 — Docente Enfermero MAIS — APS (Gran Santiago)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.linkedin.com/jobs/view/4458116846/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Corporación D
@@ -173,10 +215,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — MAIS, APS, promoción/prevención y planes de cuidado; el base acredita CESFAM y programas ministeriales. Publicado hace 2 días.
 - **Commit CV:** `b2e9f0a42bbaf0d485c83e991d026702740545b5`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — LinkedIn redirige a ChileTrabajos #3887236. Portal exige cuenta; SSO LinkedIn volvió a pedir login y no hay correo en el aviso. Sin canal para enviar el CV.
+
 
 ## OF-20260826-19 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://www.linkedin.com/jobs/view/4454764634/
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** LinkedIn / FUCYT (ACHS Salud)
@@ -184,10 +229,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — rol clínico hospitalario ACHS; SAR/SAC y procedimientos del base ayudan. Publicado hace 1 semana.
 - **Commit CV:** `3c7f6a58fbf2ba6c520d2897743a9026e687da38`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — ACHS SuccessFactors (career19.sapsf.com) exige cuenta. No hay credenciales ACHS en job_credentials; crear cuenta enviaría verificación al Gmail de Axel (MCP Gmail no es esa cuenta). Aviso activo (reemplazo desde noviembre).
+
 
 ## OF-20260826-20 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.linkedin.com/jobs/view/4457394974/
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** LinkedIn / Clínica MEDS
@@ -195,10 +243,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — pide cargo IAAS/epidemiología; el base trae curso IAAS 80 h y diplomado de calidad, no el cargo de epidemiólogo. Publicado hace 4 días.
 - **Commit CV:** `6e6147daa3f16d21dc91bc9e5322e8cdffdcb9fd`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Trabajando.com 6115557 (mismo aviso MEDS IAAS que ChileTrabajos) — «¡Has postulado al empleo!». Honestas: curso IAAS 80 h y protocolos en APS/SAR, no 2 años de cargo epidemiológico hospitalario; disponibilidad diurno Lo Barnechea sí; renta $1.400.000 líquido.
+
 
 ## OF-20260826-21 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://www.linkedin.com/jobs/view/4453355510/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Clínica Oftalmológica Pasteur
@@ -206,6 +257,9 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — pabellón y procedimientos oftalmológicos; IAAS y box del base aplican, sin pabellón acreditado. Publicado hace 1 semana.
 - **Commit CV:** `a6b8a490cca1aa0a5cddbb6bda6f1c42ecbd3fac`
 - **Detectada:** 2026-08-26
+- **Fecha postulación:** 2026-08-27
+- **Nota postulación:** 2026-08-27 — Pasteur Trabajando.com (6112079) — «¡Has postulado al empleo!». Honestas: ~4 años APS/SAR/domicilio (no pabellón ni oftalmología); disponibilidad presencial Vitacura sí.
+
 
 ## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
 
