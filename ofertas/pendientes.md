@@ -22,12 +22,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-02 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Kit Empleo / Clínica Dávila (también aparece como Vespucio)
 - **Renta:** no publicada
 - **Encaje:** Medio — urgencia, triage y estabilización; SAR/SAC y RCP del base ayudan. Publicado 27-08; vigencia hasta 17-09.
+- **Commit CV:** `c65557c12efdbaf4fc0d53154ea615343a78e3cc`
 - **Detectada:** 2026-08-27
 
 ## OF-20260827-03 — Enfermera volante — atención domiciliaria (Step Therapy)
