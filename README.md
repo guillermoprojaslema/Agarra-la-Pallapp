@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-27 — Enfermero(a) Pediatría MQ — Independencia
+
+- **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
+- **Commit:** `36b15393b504e5635517b9b756cf1ad5629904de`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pediatría, MQ, IAAS, RCP, 4to turno
+
+
 ## 2026-08-27 — Enfermera a domicilio — toma de muestras (Providencia)
 
 - **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
