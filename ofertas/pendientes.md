@@ -121,12 +121,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260827-11 — Enfermera/o MQ hospitalizados — reemplazo Estación Central (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Kit Empleo / XinerLink
 - **Renta:** $1.042.000 líquido (4° turno; ≥6 meses MQ)
 - **Encaje:** Medio — hospitalización MQ; IAAS del base aplica. Distinto de OF-20260826-15 (clínico ambulatorio). Publicado 14-08; vigencia hasta 04-09.
+- **Commit CV:** `a87fbf00d749286807acca124ab6aa9b66c0318f`
 - **Detectada:** 2026-08-27
 
 ## OF-20260826-22 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
