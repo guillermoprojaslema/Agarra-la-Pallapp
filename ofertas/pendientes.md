@@ -209,12 +209,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-17 — Enfermero(a) UPC Adulto — RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio-bajo — UPC/intensivo adulto; el base es APS/SAR. IAAS y RCP/DEA sí coinciden. Publicado hoy (31-08).
+- **Commit CV:** `8d95b38dee095e1146866eeeb6b2b60721d66a9a`
 - **Detectada:** 2026-08-31
 
 
