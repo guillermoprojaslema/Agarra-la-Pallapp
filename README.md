@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
+- **Commit:** `ed29233e5c000f02c87d1c8e7df9f7eaf9148f9f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** jefatura, trainee, centros médicos, calidad, APS
+
+
 ## 2026-08-31 — Enfermero/a Pool Volante — RedSalud Vitacura
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
