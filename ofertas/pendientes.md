@@ -9,6 +9,171 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ---
 
+## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
+
+- **Estado:** en_adaptacion
+- **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
+- **Comuna / zona:** RM (ruta domiciliaria)
+- **Fuente:** Indeed / Clínica Medical Home
+- **Renta:** no publicada
+- **Encaje:** Alto — volante HOSDOM; el base acredita postrados, curaciones, Foley y muestras en domicilio. Mismo perfil que OF-20260825-02 (postulada en Computrabajo); canal Indeed vigente.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-02 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
+- **Comuna / zona:** Santiago / RM (centros médicos RedSalud)
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Alto — gestión poblacional y seguimiento de cartera; calza con sector APS, crónicos y continuidad del base (CESFAM / RAYEN).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-03 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
+- **Comuna / zona:** San Miguel, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Alto — box ambulatorio, procedimientos y protocolos; distinto de OF-20260825-29 (Independencia, ya postulada).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-04 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
+- **Comuna / zona:** RM (centros médicos; turnos L–S 18 h)
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Alto — asistencial ambulatorio part-time; SIS + 1 año deseable. Indexado como publicado hoy (31-08).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-05 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
+- **Comuna / zona:** Providencia (Pedro de Valdivia), RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada (40 h; L–S diurno rotativo)
+- **Encaje:** Alto — procedimientos y equipo de centro médico; SIS y ~1 año deseable. Aviso aún listado (publicado ~40 días).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-06 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
+- **Comuna / zona:** Las Condes (Parque Arauco), RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada (40 h; L–S diurno)
+- **Encaje:** Alto — procedimientos y exámenes de enfermería en centro médico; match APS/box del base.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-07 — Enfermera(o) CPA — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=c91e14da23a48e66
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Medio — unidad de procedimientos ambulatorios (CPA); curaciones y box del base aplican; pabellón no acreditado.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-08 — Enfermero(a) Navegador(a) — RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Medio — navegación/seguimiento de pacientes (más coordinación que box); continuidad y registro del base ayudan.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-09 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
+- **Comuna / zona:** Vitacura / Providencia, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Medio — hospitalización de corta estadía; IAAS/RCP y procedimientos del base aplican; no es APS.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-10 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=967715457ca3ede8
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada (L–S rotativo)
+- **Encaje:** Medio — endoscopía/procedimientos; IAAS 80 h y RCP del base son deseables; piden 6 meses endoscopía (no acreditado).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-11 — Enfermera(o) Pool Volante — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=94564ee5ce0eec1b
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada (4° turno 08:00–20:00; rota MQ/Urgencias/UCI/UTI)
+- **Encaje:** Medio-bajo — 1 año UTI/UCI excluyente; el base es APS/SAR. IAAS 80 h deseable sí coincide.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-12 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
+- **Comuna / zona:** RM (Santiago)
+- **Fuente:** Indeed / Clínica Medical Home
+- **Renta:** no publicada
+- **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=b3dab9228e85c974
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada (reemplazo)
+- **Encaje:** Medio — pide rol IAAS/epidemiología; el base trae curso IAAS 80 h y diplomado de calidad, no el cargo de epidemiólogo. Distinto de OF-20260826-20 (MEDS, ya postulada).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-14 — Gestor GES/CAEC — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Indeed / RedSalud
+- **Renta:** no publicada
+- **Encaje:** Medio — gestión GES más que box; SIGGES y derivación APS-secundaria del base aplican. Distinto de OF-20260826-03/04 (Laborum, bloqueadas).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-15 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
+
+- **Estado:** pendiente
+- **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** Indeed / Clínica Universidad de los Andes
+- **Renta:** no publicada (titular; rol flexible entre unidades)
+- **Encaje:** Medio — volante hospitalario; IAAS y BLS deseables; experiencia hospitalaria deseable (el base es APS/SAR).
+- **Detectada:** 2026-08-31
+
+
 ## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
 
 - **Estado:** postulada
