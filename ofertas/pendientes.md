@@ -59,12 +59,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-05 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
 - **Comuna / zona:** Providencia (Pedro de Valdivia), RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada (40 h; L–S diurno rotativo)
 - **Encaje:** Alto — procedimientos y equipo de centro médico; SIS y ~1 año deseable. Aviso aún listado (publicado ~40 días).
+- **Commit CV:** `6b97a7e5b80ff11a4fd8e40d6b7f956fcc23d8b8`
 - **Detectada:** 2026-08-31
 
 
