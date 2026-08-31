@@ -71,12 +71,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-06 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
 - **Comuna / zona:** Las Condes (Parque Arauco), RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada (40 h; L–S diurno)
 - **Encaje:** Alto — procedimientos y exámenes de enfermería en centro médico; match APS/box del base.
+- **Commit CV:** `7adf05c8a81981a89b001f016eb5338cb0cd45cf`
 - **Detectada:** 2026-08-31
 
 
