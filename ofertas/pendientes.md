@@ -105,7 +105,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-08 — Enfermero(a) Navegador(a) — RedSalud Vitacura
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Indeed / RedSalud
@@ -113,7 +113,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — navegación/seguimiento de pacientes (más coordinación que box); continuidad y registro del base ayudan.
 - **Commit CV:** `98c6a1f454b5bcbd29f50331d3a271b948a66c1f`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6110569 — «¡Has postulado al empleo!». Honestas: SIS U. Central 2021; trayectoria APS/SAR; IAAS 80 h, RCP/DEA, diplomado calidad 320 h.
 
 ## OF-20260831-09 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
 
