@@ -233,12 +233,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-19 — Enfermero/a Esterilización — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6100049-enfemero-a-esterilizacion-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (por turnos)
 - **Encaje:** Medio-bajo — misma línea que OF-16, sede Providencia. IAAS del base aplica. Publicado hace 6 días.
+- **Commit CV:** `51ecfee12afc62f137404f7003b583a435a02bb9`
 - **Detectada:** 2026-08-31
 
 
