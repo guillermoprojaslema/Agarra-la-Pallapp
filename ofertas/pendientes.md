@@ -341,12 +341,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-28 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (por turnos)
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan. Distinto de OF-20260826-02 (MQ Providencia, ya postulada). Publicado hace 47 días.
+- **Commit CV:** `906ad10f16b0b3e3c8cf4504b2f4bb90f5fed462`
 - **Detectada:** 2026-08-31
 
 
