@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
+
+- **URL:** https://cl.indeed.com/viewjob?jk=b3dab9228e85c974
+- **Commit:** `d1f6a27f68d2481baa10dd71434b99fb2192920e`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** IAAS, calidad, epidemiología, protocolos, bioseguridad
+
+
 ## 2026-08-31 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
 
 - **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
