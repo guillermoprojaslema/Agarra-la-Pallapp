@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera(o) CPA — RedSalud Providencia
+
+- **URL:** https://cl.indeed.com/viewjob?jk=c91e14da23a48e66
+- **Commit:** `7c63f77d3b6f4ccd34395afda1d52a32fbe55d7c`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, CPA, ambulatorio, curaciones, IAAS
+
+
 ## 2026-08-31 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
 
 - **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
