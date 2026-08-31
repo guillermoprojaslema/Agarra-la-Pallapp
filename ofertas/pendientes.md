@@ -11,12 +11,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
-- **Estado:** en_adaptacion
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
 - **Comuna / zona:** RM (ruta domiciliaria)
 - **Fuente:** Indeed / Clínica Medical Home
 - **Renta:** no publicada
 - **Encaje:** Alto — volante HOSDOM; el base acredita postrados, curaciones, Foley y muestras en domicilio. Mismo perfil que OF-20260825-02 (postulada en Computrabajo); canal Indeed vigente.
+- **Commit CV:** `5bf04f4bfdc6d8139ae14168c81b89483d4a19bd`
 - **Detectada:** 2026-08-31
 
 
