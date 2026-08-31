@@ -165,7 +165,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
 - **Commit CV:** `97b3518d11e32862a1d8c628ee040372ef79d022`
 - **Detectada:** 2026-08-31
-
+- **Nota postulación:** 2026-08-31 — Indeed Easy Apply abierto (contacto + CV cuenta + preguntas honestas). Bloqueado por reCAPTCHA «No soy un robot»; falta clic Continuar y envío.
 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
@@ -195,7 +195,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-15 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Indeed / Clínica Universidad de los Andes
@@ -203,7 +203,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — volante hospitalario; IAAS y BLS deseables; experiencia hospitalaria deseable (el base es APS/SAR).
 - **Commit CV:** `5b6a6253a8cef18a8f9409ad2108d2cf84707890`
 - **Detectada:** 2026-08-31
-
+- **Nota postulación:** 2026-08-31 — Sin ficha postulable. Indeed solo listado genérico; no aparece «Unidad Apoyo Clínico» de Clínica U. de los Andes ni canal en Trabajando/RedSalud.
 
 ## OF-20260831-16 — Enfermero/a Esterilización — RedSalud Santiago
 
