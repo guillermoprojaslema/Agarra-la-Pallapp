@@ -107,12 +107,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-09 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
 - **Comuna / zona:** Vitacura / Providencia, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Medio — hospitalización de corta estadía; IAAS/RCP y procedimientos del base aplican; no es APS.
+- **Commit CV:** `c5c03fa39acb97bb934d5cbe29cec0953fcd2ed7`
 - **Detectada:** 2026-08-31
 
 
