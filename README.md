@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero(a) Navegador(a) — RedSalud Vitacura
+
+- **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
+- **Commit:** `98c6a1f454b5bcbd29f50331d3a271b948a66c1f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** navegación, seguimiento, continuidad, coordinación, registro
+
+
 ## 2026-08-31 — Enfermera(o) CPA — RedSalud Providencia
 
 - **URL:** https://cl.indeed.com/viewjob?jk=c91e14da23a48e66
