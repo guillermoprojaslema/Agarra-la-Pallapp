@@ -269,12 +269,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-22 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio-bajo — supervisión de central; IAAS/calidad del base ayudan, sin jefatura acreditada. Publicado hace 6 días.
+- **Commit CV:** `6efa30781de54f05dd0ea01d358e4a4b6585f48c`
 - **Detectada:** 2026-08-31
 
 
