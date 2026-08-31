@@ -179,12 +179,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-15 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Indeed / Clínica Universidad de los Andes
 - **Renta:** no publicada (titular; rol flexible entre unidades)
 - **Encaje:** Medio — volante hospitalario; IAAS y BLS deseables; experiencia hospitalaria deseable (el base es APS/SAR).
+- **Commit CV:** `5b6a6253a8cef18a8f9409ad2108d2cf84707890`
 - **Detectada:** 2026-08-31
 
 
