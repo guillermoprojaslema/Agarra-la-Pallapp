@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
+
+- **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
+- **Commit:** `ffbffa7772f612157f1b1db3345058a687a3051f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** asistencial, centro médico, procedimientos, SIS, protocolos
+
+
 ## 2026-08-31 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
 
 - **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
