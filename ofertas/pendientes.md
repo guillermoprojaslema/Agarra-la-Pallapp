@@ -23,12 +23,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-02 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
 - **Comuna / zona:** Santiago / RM (centros médicos RedSalud)
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Alto — gestión poblacional y seguimiento de cartera; calza con sector APS, crónicos y continuidad del base (CESFAM / RAYEN).
+- **Commit CV:** `f00aabacfa31fa317395003510aae0ac771a0101`
 - **Detectada:** 2026-08-31
 
 
