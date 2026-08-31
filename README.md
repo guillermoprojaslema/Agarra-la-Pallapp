@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a Pool Volante — RedSalud Vitacura
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
+- **Commit:** `dee52b952cb61904646dbaa25ccae0d3906e9f22`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** volante, 4to turno, IAAS, RCP, procedimientos
+
+
 ## 2026-08-31 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
