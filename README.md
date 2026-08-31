@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera(o) Pool Volante — RedSalud Providencia
+
+- **URL:** https://cl.indeed.com/viewjob?jk=94564ee5ce0eec1b
+- **Commit:** `35c4e627813da9462e693ef8c85cd6471e9f58be`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** 4to turno, IAAS, RCP, procedimientos, volante
+
+
 ## 2026-08-31 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
 
 - **URL:** https://cl.indeed.com/viewjob?jk=967715457ca3ede8
