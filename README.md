@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
+- **Commit:** `873cf5404cebaf9ccb348831ec40c94f734064de`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** calidad, gestión de riesgo, IAAS, protocolos, bioseguridad
+
+
 ## 2026-08-31 — Enfermera/o Gestor de Camas — RedSalud Santiago
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
