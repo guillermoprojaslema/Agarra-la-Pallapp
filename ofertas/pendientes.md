@@ -167,12 +167,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-14 — Gestor GES/CAEC — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Medio — gestión GES más que box; SIGGES y derivación APS-secundaria del base aplican. Distinto de OF-20260826-03/04 (Laborum, bloqueadas).
+- **Commit CV:** `a1b6fd1fa0e7bfe40ebd5250231c1e4cb22f0490`
 - **Detectada:** 2026-08-31
 
 
