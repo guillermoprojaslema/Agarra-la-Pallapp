@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero(a) UPC Adulto — RedSalud Vitacura
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
+- **Commit:** `8d95b38dee095e1146866eeeb6b2b60721d66a9a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UPC, continuidad, IAAS, RCP, procedimientos
+
+
 ## 2026-08-31 — Enfermero/a Esterilización — RedSalud Santiago
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6119579-enfemero-a-esterilizacion-redsalud-santiago
