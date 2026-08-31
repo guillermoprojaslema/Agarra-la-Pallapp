@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
+
+- **URL:** https://cl.indeed.com/viewjob?jk=967715457ca3ede8
+- **Commit:** `61f69b2425a745f726e631891a9df1a9caa325a7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, IAAS, RCP, ambulatorio, bioseguridad
+
+
 ## 2026-08-31 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
 
 - **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
