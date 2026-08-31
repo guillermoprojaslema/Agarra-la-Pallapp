@@ -118,7 +118,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-09 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
 - **Comuna / zona:** Vitacura / Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -126,7 +126,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — hospitalización de corta estadía; IAAS/RCP y procedimientos del base aplican; no es APS.
 - **Commit CV:** `c5c03fa39acb97bb934d5cbe29cec0953fcd2ed7`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6116193 — «¡Has postulado al empleo!». Honestas: sin MQ/cirugía acreditada; sin ACLS (sí IAAS 80 h + RCP/DEA en el perfil); Vitacura rotativo sí; renta $1.400.000; contacto actualizado.
 
 ## OF-20260831-10 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
 
