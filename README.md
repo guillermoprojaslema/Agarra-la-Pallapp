@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
+
+- **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
+- **Commit:** `6b97a7e5b80ff11a4fd8e40d6b7f956fcc23d8b8`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** asistencial, Providencia, procedimientos, SIS, centro médico
+
+
 ## 2026-08-31 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
 
 - **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
