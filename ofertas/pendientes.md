@@ -47,12 +47,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-04 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
 - **Comuna / zona:** RM (centros médicos; turnos L–S 18 h)
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Alto — asistencial ambulatorio part-time; SIS + 1 año deseable. Indexado como publicado hoy (31-08).
+- **Commit CV:** `62ab91cc0bcc39e7baefee382898e4db2c8f75ab`
 - **Detectada:** 2026-08-31
 
 
