@@ -281,12 +281,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-23 — Enfermera/o Gestor de Camas — RedSalud Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio — coordinación y continuidad más que box; registro y derivación del base ayudan. Publicado hace 14 días.
+- **Commit CV:** `f0b7793f01ed1da4f2ff84012fe4f088fb8ab12f`
 - **Detectada:** 2026-08-31
 
 
