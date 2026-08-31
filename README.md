@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
+
+- **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
+- **Commit:** `c5c03fa39acb97bb934d5cbe29cec0953fcd2ed7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización, continuidad, IAAS, RCP, procedimientos
+
+
 ## 2026-08-31 — Enfermero(a) Navegador(a) — RedSalud Vitacura
 
 - **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
