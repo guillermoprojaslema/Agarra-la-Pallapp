@@ -53,7 +53,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-04 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
 - **Comuna / zona:** RM (centros médicos; turnos L–S 18 h)
 - **Fuente:** Indeed / RedSalud
@@ -61,11 +61,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — asistencial ambulatorio part-time; SIS + 1 año deseable. Indexado como publicado hoy (31-08).
 - **Commit CV:** `62ab91cc0bcc39e7baefee382898e4db2c8f75ab`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Indeed solo listado; no hay ficha PT 18 h ni aviso equivalente en Trabajando RedSalud. Sin canal para enviar el CV.
 
 ## OF-20260831-05 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
 - **Comuna / zona:** Providencia (Pedro de Valdivia), RM
 - **Fuente:** Indeed / RedSalud
@@ -73,11 +74,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos y equipo de centro médico; SIS y ~1 año deseable. Aviso aún listado (publicado ~40 días).
 - **Commit CV:** `6b97a7e5b80ff11a4fd8e40d6b7f956fcc23d8b8`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Indeed sin botón de postular; no aparece en Trabajando RedSalud. Sin canal para enviar el CV.
 
 ## OF-20260831-06 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
 - **Comuna / zona:** Las Condes (Parque Arauco), RM
 - **Fuente:** Indeed / RedSalud
@@ -85,7 +87,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — procedimientos y exámenes de enfermería en centro médico; match APS/box del base.
 - **Commit CV:** `7adf05c8a81981a89b001f016eb5338cb0cd45cf`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Indeed solo listado (Arauco); no hay ficha en Trabajando RedSalud. Sin canal para enviar el CV.
 
 ## OF-20260831-07 — Enfermera(o) CPA — RedSalud Providencia
 
@@ -197,7 +200,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-16 — Enfermero/a Esterilización — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6119579-enfemero-a-esterilizacion-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -205,11 +208,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — central de esterilización; IAAS 80 h del base aplica; no hay cargo de central acreditado. Publicado hoy (31-08). Distinto de OF-20260825-35 (Peñalolén) y OF-20260826-07 (jefatura Computrabajo).
 - **Commit CV:** `b058c531466cfc84b49be057229c7fe3d8b8c8fb`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6119579 — «¡Has postulado al empleo!». Honestas: sin cargo en esterilización; IAAS 80 h; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-17 — Enfermero(a) UPC Adulto — RedSalud Vitacura
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -217,7 +221,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — UPC/intensivo adulto; el base es APS/SAR. IAAS y RCP/DEA sí coinciden. Publicado hoy (31-08).
 - **Commit CV:** `8d95b38dee095e1146866eeeb6b2b60721d66a9a`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6101969 — «¡Has postulado al empleo!». Honestas: 0 años UPC/UTI/UCI; IAAS 80 h + RCP/DEA + diplomado calidad; Vitacura sí; renta $1.400.000.
 
 ## OF-20260831-18 — Enfermera(o) UTI — RedSalud Santiago
 
