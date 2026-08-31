@@ -317,12 +317,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-26 — Enfermero/a Pool Volante — RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (por turnos)
 - **Encaje:** Medio-bajo — volante hospitalario; suele pedir UTI/UCI. Distinto de OF-20260831-11 (pool Providencia). Publicado hace 35 días.
+- **Commit CV:** `dee52b952cb61904646dbaa25ccae0d3906e9f22`
 - **Detectada:** 2026-08-31
 
 
