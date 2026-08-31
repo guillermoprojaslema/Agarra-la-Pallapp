@@ -329,12 +329,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-27 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
 - **Comuna / zona:** Santiago / RM (centros médicos)
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio — trainee de jefatura ambulatoria; más cerca del perfil APS/centro médico que las UCI. Publicado hace 39 días; aún abierto.
+- **Commit CV:** `ed29233e5c000f02c87d1c8e7df9f7eaf9148f9f`
 - **Detectada:** 2026-08-31
 
 
