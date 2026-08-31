@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Gestor GES/CAEC — RedSalud Providencia
+
+- **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
+- **Commit:** `a1b6fd1fa0e7bfe40ebd5250231c1e4cb22f0490`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** GES, SIGGES, CAEC, seguimiento, continuidad
+
+
 ## 2026-08-31 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
 - **URL:** https://cl.indeed.com/viewjob?jk=b3dab9228e85c974
