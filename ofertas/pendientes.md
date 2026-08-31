@@ -195,6 +195,172 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Detectada:** 2026-08-31
 
 
+## OF-20260831-16 — Enfermero/a Esterilización — RedSalud Santiago
+
+- **Estado:** lista_para_postular
+- **URL:** https://redsalud.trabajando.cl/trabajo/6119579-enfemero-a-esterilizacion-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio-bajo — central de esterilización; IAAS 80 h del base aplica; no hay cargo de central acreditado. Publicado hoy (31-08). Distinto de OF-20260825-35 (Peñalolén) y OF-20260826-07 (jefatura Computrabajo).
+- **Commit CV:** `b058c531466cfc84b49be057229c7fe3d8b8c8fb`
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-17 — Enfermero(a) UPC Adulto — RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio-bajo — UPC/intensivo adulto; el base es APS/SAR. IAAS y RCP/DEA sí coinciden. Publicado hoy (31-08).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-18 — Enfermera(o) UTI — RedSalud Santiago
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6108913-enfermera-o-uti-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio-bajo — cuidados intermedios; piden UTI/UCI (no acreditado). IAAS 80 h del base es deseable. Publicado hoy (31-08).
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-19 — Enfermero/a Esterilización — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6100049-enfemero-a-esterilizacion-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio-bajo — misma línea que OF-16, sede Providencia. IAAS del base aplica. Publicado hace 6 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-20 — Enfermero(a) Supervisor UPC — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6110837-enfermero-a-supervisor-upc-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Bajo-medio — jefatura de UPC; el base no acredita cargo de supervisor ni UPC. Publicado hace 6 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-21 — Enfermero(a) Intensivo UCI — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio-bajo — UCI; el base es APS/SAR. IAAS/RCP sí aplican. Publicado hace 6 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-22 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio-bajo — supervisión de central; IAAS/calidad del base ayudan, sin jefatura acreditada. Publicado hace 6 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-23 — Enfermera/o Gestor de Camas — RedSalud Santiago
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio — coordinación y continuidad más que box; registro y derivación del base ayudan. Publicado hace 14 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-24 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio-alto — diplomado de calidad 320 h e IAAS 80 h del base calzan con el cargo. Publicado hace 27 días; aviso aún abierto.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-25 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Bajo-medio — jefatura + unidad coronaria/cardiovascular; el base es APS/SAR. Publicado hace 35 días; aún listado.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-26 — Enfermero/a Pool Volante — RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio-bajo — volante hospitalario; suele pedir UTI/UCI. Distinto de OF-20260831-11 (pool Providencia). Publicado hace 35 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-27 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
+- **Comuna / zona:** Santiago / RM (centros médicos)
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (jornada completa)
+- **Encaje:** Medio — trainee de jefatura ambulatoria; más cerca del perfil APS/centro médico que las UCI. Publicado hace 39 días; aún abierto.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-28 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
+- **Comuna / zona:** Vitacura, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan. Distinto de OF-20260826-02 (MQ Providencia, ya postulada). Publicado hace 47 días.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-29 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
+- **Comuna / zona:** Santiago / Estación Central, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (por turnos)
+- **Encaje:** Medio-bajo — unidad coronaria; el base no acredita UCI/cardio. IAAS y RCP sí. Publicado hace 49 días; aún listado.
+- **Detectada:** 2026-08-31
+
+
+## OF-20260831-30 — Enfermero/a de Farmacia — RedSalud Casa Matriz
+
+- **Estado:** pendiente
+- **URL:** https://redsalud.trabajando.cl/trabajo/6098630-enfermero-a-de-farmacia-redsalud-casa-matriz
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / RedSalud
+- **Renta:** no publicada (mixta teletrabajo + presencial)
+- **Encaje:** Medio-bajo — más gestión de farmacia clínica que box APS. Publicado hace 56 días; aviso aún abierto.
+- **Detectada:** 2026-08-31
+
+
 ## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
 
 - **Estado:** postulada
