@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a de Farmacia — RedSalud Casa Matriz
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6098630-enfermero-a-de-farmacia-redsalud-casa-matriz
+- **Commit:** `29bbafe233961de1d7f8e14ac4c963f88f779a8d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** farmacia, medicación, calidad, registro, protocolos
+
+
 ## 2026-08-31 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
