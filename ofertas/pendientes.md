@@ -11,7 +11,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
 - **Comuna / zona:** RM (ruta domiciliaria)
 - **Fuente:** Indeed / Clínica Medical Home
@@ -19,11 +19,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — volante HOSDOM; el base acredita postrados, curaciones, Foley y muestras en domicilio. Mismo perfil que OF-20260825-02 (postulada en Computrabajo); canal Indeed vigente.
 - **Commit CV:** `5bf04f4bfdc6d8139ae14168c81b89483d4a19bd`
 - **Detectada:** 2026-08-31
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Indeed Easy Apply — «Postulación enviada» en Mis empleos. CV de la cuenta (`CV_Axel_Pfingsten.pdf`).
 
 
 ## OF-20260831-02 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
 - **Comuna / zona:** Santiago / RM (centros médicos RedSalud)
 - **Fuente:** Indeed / RedSalud
@@ -31,11 +33,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — gestión poblacional y seguimiento de cartera; calza con sector APS, crónicos y continuidad del base (CESFAM / RAYEN).
 - **Commit CV:** `f00aabacfa31fa317395003510aae0ac771a0101`
 - **Detectada:** 2026-08-31
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Indeed → Trabajando RedSalud (6116603) — «¡Has postulado al empleo!». Honestas: SIS vigente; APS/sector; renta $1.400.000; diplomado calidad 320 h + IAAS 80 h.
 
 
 ## OF-20260831-03 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
 - **Comuna / zona:** San Miguel, RM
 - **Fuente:** Indeed / RedSalud
@@ -43,6 +47,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Alto — box ambulatorio, procedimientos y protocolos; distinto de OF-20260825-29 (Independencia, ya postulada).
 - **Commit CV:** `ffbffa7772f612157f1b1db3345058a687a3051f`
 - **Detectada:** 2026-08-31
+- **Fecha postulación:** 2026-08-24
+- **Nota postulación:** 2026-08-31 — Indeed → Trabajando RedSalud (6098383). El portal muestra «Ya postulaste el 24/08/2026» (mismo aviso).
 
 
 ## OF-20260831-04 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
