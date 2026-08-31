@@ -246,7 +246,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-19 — Enfermero/a Esterilización — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6100049-enfemero-a-esterilizacion-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -254,11 +254,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — misma línea que OF-16, sede Providencia. IAAS del base aplica. Publicado hace 6 días.
 - **Commit CV:** `51ecfee12afc62f137404f7003b583a435a02bb9`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6100049 — «¡Has postulado al empleo!». Honestas: sin cargo esterilización; IAAS 80 h; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-20 — Enfermero(a) Supervisor UPC — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6110837-enfermero-a-supervisor-upc-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -266,11 +267,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Bajo-medio — jefatura de UPC; el base no acredita cargo de supervisor ni UPC. Publicado hace 6 días.
 - **Commit CV:** `9f6a1196b9348cb4a7ad770b0965a0db30cb9b8b`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6110837 — «¡Has postulado al empleo!». Honestas: sin jefatura/UPC; sin magíster ni diplomado paciente crítico; IAAS 80 h sí; Providencia sí; renta $1.400.000. Años UPC: portal sin opción 0 (quedó «menos 5 años»).
 
 ## OF-20260831-21 — Enfermero(a) Intensivo UCI — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -278,11 +280,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — UCI; el base es APS/SAR. IAAS/RCP sí aplican. Publicado hace 6 días.
 - **Commit CV:** `105f718d79dd14b114e405ee31f6e4bea7e60226`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6102374 — «¡Has postulado al empleo!». Honestas: 0 UCI/UTI/UPC; sin ACLS; IAAS 80 h sí; 4° turno sí; renta $1.400.000. Tiempo en críticas: «menos de 1 año» (opción más baja).
 
 ## OF-20260831-22 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -290,7 +293,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — supervisión de central; IAAS/calidad del base ayudan, sin jefatura acreditada. Publicado hace 6 días.
 - **Commit CV:** `6efa30781de54f05dd0ea01d358e4a4b6585f48c`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6117112 — «¡Has postulado al empleo!». Honestas: sin esterilización/pabellón ni diplomado del área; IAAS 80 h; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-23 — Enfermera/o Gestor de Camas — RedSalud Santiago
 
