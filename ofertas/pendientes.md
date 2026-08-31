@@ -83,12 +83,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-07 — Enfermera(o) CPA — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=c91e14da23a48e66
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Medio — unidad de procedimientos ambulatorios (CPA); curaciones y box del base aplican; pabellón no acreditado.
+- **Commit CV:** `7c63f77d3b6f4ccd34395afda1d52a32fbe55d7c`
 - **Detectada:** 2026-08-31
 
 
