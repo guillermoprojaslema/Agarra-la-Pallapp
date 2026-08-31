@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera(o) UTI — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6108913-enfermera-o-uti-redsalud-santiago
+- **Commit:** `4603f2bcd7fbff788660adace8e3e231d6b4e34d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTI, intermedio, IAAS, RCP, procedimientos
+
+
 ## 2026-08-31 — Enfermero(a) UPC Adulto — RedSalud Vitacura
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
