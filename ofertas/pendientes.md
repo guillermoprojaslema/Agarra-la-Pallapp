@@ -155,12 +155,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=b3dab9228e85c974
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada (reemplazo)
 - **Encaje:** Medio — pide rol IAAS/epidemiología; el base trae curso IAAS 80 h y diplomado de calidad, no el cargo de epidemiólogo. Distinto de OF-20260826-20 (MEDS, ya postulada).
+- **Commit CV:** `d1f6a27f68d2481baa10dd71434b99fb2192920e`
 - **Detectada:** 2026-08-31
 
 
