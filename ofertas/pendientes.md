@@ -35,12 +35,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-03 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
 - **Comuna / zona:** San Miguel, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Alto — box ambulatorio, procedimientos y protocolos; distinto de OF-20260825-29 (Independencia, ya postulada).
+- **Commit CV:** `ffbffa7772f612157f1b1db3345058a687a3051f`
 - **Detectada:** 2026-08-31
 
 
