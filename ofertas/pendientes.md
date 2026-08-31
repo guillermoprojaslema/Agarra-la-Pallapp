@@ -221,12 +221,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-18 — Enfermera(o) UTI — RedSalud Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6108913-enfermera-o-uti-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio-bajo — cuidados intermedios; piden UTI/UCI (no acreditado). IAAS 80 h del base es deseable. Publicado hoy (31-08).
+- **Commit CV:** `4603f2bcd7fbff788660adace8e3e231d6b4e34d`
 - **Detectada:** 2026-08-31
 
 
