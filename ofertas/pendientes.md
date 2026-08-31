@@ -245,12 +245,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-20 — Enfermero(a) Supervisor UPC — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6110837-enfermero-a-supervisor-upc-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Bajo-medio — jefatura de UPC; el base no acredita cargo de supervisor ni UPC. Publicado hace 6 días.
+- **Commit CV:** `9f6a1196b9348cb4a7ad770b0965a0db30cb9b8b`
 - **Detectada:** 2026-08-31
 
 
