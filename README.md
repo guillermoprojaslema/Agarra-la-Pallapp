@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
+- **Commit:** `05de3098dd294c0b6832479471af527200584a31`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** unidad coronaria, IAAS, RCP, procedimientos, continuidad
+
+
 ## 2026-08-31 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
