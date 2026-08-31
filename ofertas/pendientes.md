@@ -293,12 +293,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-24 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Medio-alto — diplomado de calidad 320 h e IAAS 80 h del base calzan con el cargo. Publicado hace 27 días; aviso aún abierto.
+- **Commit CV:** `873cf5404cebaf9ccb348831ec40c94f734064de`
 - **Detectada:** 2026-08-31
 
 
