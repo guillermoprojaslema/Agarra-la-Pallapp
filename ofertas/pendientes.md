@@ -95,12 +95,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-08 — Enfermero(a) Navegador(a) — RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada
 - **Encaje:** Medio — navegación/seguimiento de pacientes (más coordinación que box); continuidad y registro del base ayudan.
+- **Commit CV:** `98c6a1f454b5bcbd29f50331d3a271b948a66c1f`
 - **Detectada:** 2026-08-31
 
 
