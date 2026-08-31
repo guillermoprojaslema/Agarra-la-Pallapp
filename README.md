@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero(a) Intensivo UCI — RedSalud Providencia
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
+- **Commit:** `105f718d79dd14b114e405ee31f6e4bea7e60226`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UCI, intensivo, IAAS, RCP, procedimientos
+
+
 ## 2026-08-31 — Enfermero(a) Supervisor UPC — RedSalud Providencia
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6110837-enfermero-a-supervisor-upc-redsalud-providencia
