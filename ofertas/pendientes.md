@@ -257,12 +257,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-21 — Enfermero(a) Intensivo UCI — RedSalud Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (por turnos)
 - **Encaje:** Medio-bajo — UCI; el base es APS/SAR. IAAS/RCP sí aplican. Publicado hace 6 días.
+- **Commit CV:** `105f718d79dd14b114e405ee31f6e4bea7e60226`
 - **Detectada:** 2026-08-31
 
 
