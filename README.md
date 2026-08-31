@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
+- **Commit:** `6464deb03f23d6a047801f279b74fafbafd74283`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** jefatura, cardiovascular, calidad, coordinación, IAAS
+
+
 ## 2026-08-31 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
