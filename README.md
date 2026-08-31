@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
+
+- **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
+- **Commit:** `7adf05c8a81981a89b001f016eb5338cb0cd45cf`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, exámenes, centro médico, Las Condes, SIS
+
+
 ## 2026-08-31 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
 
 - **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
