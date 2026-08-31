@@ -4,14 +4,19 @@ Flujo del proyecto:
 
 1. **Buscar** → el agente encuentra vacantes ad-hoc (RM) y las agrega aquí (`pendiente`).
 2. **Postular** → por defecto el agente procesa **todas** las no postuladas; adapta el CV desde `CV_Base.docx`, registra hash en `README.md` y, con tu confirmación, postula vía navegador. Un `OF-…` concreto limita el lote a esa oferta.
+3. **Actualizar ofertas** → abre cada URL y marca si el aviso sigue `vigente` o ya está `no_disponible`.
 
 Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` · `bloqueada` · `cerrada`
+
+Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `sin_revisar`. Se actualiza con `/actualizar-ofertas`.
 
 ---
 
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
 - **Comuna / zona:** RM (ruta domiciliaria)
 - **Fuente:** Indeed / Clínica Medical Home
@@ -26,6 +31,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-02 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
 - **Comuna / zona:** Santiago / RM (centros médicos RedSalud)
 - **Fuente:** Indeed / RedSalud
@@ -40,6 +47,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-03 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
 - **Comuna / zona:** San Miguel, RM
 - **Fuente:** Indeed / RedSalud
@@ -54,6 +63,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-04 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
 
 - **Estado:** bloqueada
+- **Vigencia:** no_disponible
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
 - **Comuna / zona:** RM (centros médicos; turnos L–S 18 h)
 - **Fuente:** Indeed / RedSalud
@@ -67,6 +78,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-05 — Enfermera/o Asistencial — Centro Médico RedSalud Pedro de Valdivia
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=78b455c33adfdfa5
 - **Comuna / zona:** Providencia (Pedro de Valdivia), RM
 - **Fuente:** Indeed / RedSalud
@@ -80,6 +93,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-06 — Enfermera/o Asistencial — Centro Médico RedSalud Arauco (Las Condes)
 
 - **Estado:** bloqueada
+- **Vigencia:** no_disponible
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/q-enfermera-centro-medico-empleos.html
 - **Comuna / zona:** Las Condes (Parque Arauco), RM
 - **Fuente:** Indeed / RedSalud
@@ -93,6 +108,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-07 — Enfermera(o) CPA — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=c91e14da23a48e66
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -106,6 +123,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-08 — Enfermero(a) Navegador(a) — RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=6253107162be4f06
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Indeed / RedSalud
@@ -119,6 +138,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-09 — Enfermero/a Hospitalización Transitoria — RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=24b501d934d3eb82
 - **Comuna / zona:** Vitacura / Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -132,6 +153,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-10 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=967715457ca3ede8
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Indeed / RedSalud
@@ -145,6 +168,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-11 — Enfermera(o) Pool Volante — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=94564ee5ce0eec1b
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -158,6 +183,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-12 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
 
 - **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
 - **Comuna / zona:** RM (Santiago)
 - **Fuente:** Indeed / Clínica Medical Home
@@ -170,6 +197,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=b3dab9228e85c974
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -183,6 +212,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-14 — Gestor GES/CAEC — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -196,6 +227,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-15 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
 
 - **Estado:** bloqueada
+- **Vigencia:** no_disponible
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Indeed / Clínica Universidad de los Andes
@@ -208,6 +241,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-16 — Enfermero/a Esterilización — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6119579-enfemero-a-esterilizacion-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -221,6 +256,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-17 — Enfermero(a) UPC Adulto — RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101969-enfermero-a-upc-adulto-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -234,6 +271,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-18 — Enfermera(o) UTI — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6108913-enfermera-o-uti-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -247,6 +286,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-19 — Enfermero/a Esterilización — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6100049-enfemero-a-esterilizacion-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -260,6 +301,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-20 — Enfermero(a) Supervisor UPC — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6110837-enfermero-a-supervisor-upc-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -273,6 +316,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-21 — Enfermero(a) Intensivo UCI — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -286,6 +331,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-22 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -299,6 +346,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-23 — Enfermera/o Gestor de Camas — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -312,6 +361,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-24 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -325,6 +376,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-25 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -338,6 +391,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-26 — Enfermero/a Pool Volante — RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -351,6 +406,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-27 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
 - **Comuna / zona:** Santiago / RM (centros médicos)
 - **Fuente:** Trabajando / RedSalud
@@ -364,6 +421,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-28 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -377,6 +436,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-29 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
 - **Comuna / zona:** Santiago / Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -390,6 +451,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260831-30 — Enfermero/a de Farmacia — RedSalud Casa Matriz
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://redsalud.trabajando.cl/trabajo/6098630-enfermero-a-de-farmacia-redsalud-casa-matriz
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -403,6 +466,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/102066883/enfermera-santiago-metropolitan-area
 - **Comuna / zona:** RM (Clínica Oriente, unidad infanto-juvenil)
 - **Fuente:** Kit Empleo / Clínica Oriente
@@ -417,6 +482,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-02 — Enfermero(a) Urgencias / prehospitalaria — Clínica Dávila (La Florida)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/102096227/enfermero-a-urgencias-contrato-la-florida
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Kit Empleo / Clínica Dávila (también aparece como Vespucio)
@@ -431,6 +498,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-03 — Enfermera volante — atención domiciliaria (Step Therapy)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101914390/enfermera-volante-flexibilidad-y-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago / RM (asignaciones según demanda; el aviso menciona red nacional)
 - **Fuente:** Kit Empleo / Step Therapy
@@ -445,6 +514,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-04 — Enfermera educadora / inducción — Hospitalización domiciliaria (Medical Home)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101764797/enfermera-educadora-y-lider-de-atencion-domiciliaria-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / Clínica Medical Home
@@ -459,6 +530,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-05 — Enfermera atención domiciliaria (ventilados) — MEDIC HOME (Santiago)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101676308/enfermera-santiago
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** Kit Empleo / MEDIC HOME
@@ -473,6 +546,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-06 — Enfermera a domicilio — toma de muestras (People Management / Providencia)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101534875/enfermera-a-domicilio-para-toma-de-muestras-santiago
 - **Comuna / zona:** Providencia + domicilios RM
 - **Fuente:** Kit Empleo / People Management
@@ -487,6 +562,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-07 — Enfermero(a) Pediatría MQ — campaña invierno Independencia ($1.300.000)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101435560/enfermero-a-pediatria-mq-renta-liquida-1-300-000-campana-de-invierno-independencia
 - **Comuna / zona:** Independencia, RM
 - **Fuente:** Kit Empleo
@@ -501,6 +578,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-08 — Enfermero(a) clínico — toma de muestras y procedimientos (Instituto Nacional de Geriatría)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101280262/enfermeroa-clinicoa-toma-de-muestras-y-procedimientos-de-enfermeria-santiago
 - **Comuna / zona:** Santiago, RM (ING)
 - **Fuente:** Kit Empleo / Instituto Nacional de Geriatría
@@ -515,6 +594,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-09 — Enfermero(a) Curaciones — Centro Médico Clínica Dávila Recoleta
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/101227476/enfermero-a-curaciones-centro-medico-santiago
 - **Comuna / zona:** Recoleta, RM
 - **Fuente:** Kit Empleo / Clínica Dávila
@@ -529,6 +610,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-10 — Enfermera unidad adultos — salud mental (Clínica Esfera, Lo Barnechea)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/100760134/enfermera-salud-mental-santiago
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** Kit Empleo / Clínica Esfera Psiquiátrica
@@ -543,6 +626,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260827-11 — Enfermera/o MQ hospitalizados — reemplazo Estación Central (XinerLink)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Kit Empleo / XinerLink
@@ -557,6 +642,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-22 — Enfermero(a) Intermedio / UTI — Clínica San Carlos (UC CHRISTUS)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4456084153/
 - **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
 - **Fuente:** LinkedIn / UC CHRISTUS
@@ -571,6 +658,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-16 — Enfermera a domicilio — Novufy (Las Condes)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4454634602/
 - **Comuna / zona:** Las Condes, RM (traslado a distintos domicilios)
 - **Fuente:** LinkedIn / Novufy
@@ -585,6 +674,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-17 — Enfermera(o) Médico Quirúrgico — Hospital DIPRECA (Las Condes)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4459020923/
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** LinkedIn / Seniors Salud
@@ -599,6 +690,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-18 — Docente Enfermero MAIS — APS (Gran Santiago)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4458116846/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Corporación D
@@ -613,6 +706,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-19 — Enfermera/o universitaria — Reemplazo vacaciones Hospital del Trabajador (ACHS)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4454764634/
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** LinkedIn / FUCYT (ACHS Salud)
@@ -627,6 +722,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-20 — Enfermero/a IAAS / Epidemiología — Clínica MEDS (LinkedIn)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4457394974/
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** LinkedIn / Clínica MEDS
@@ -641,6 +738,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-21 — Enfermero(a) Pabellón — Clínica Oftalmológica Pasteur
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.linkedin.com/jobs/view/4453355510/
 - **Comuna / zona:** Gran Santiago, RM
 - **Fuente:** LinkedIn / Clínica Oftalmológica Pasteur
@@ -655,6 +754,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-01 — Enfermero/a Clínico Domiciliario — Care Partners (Las Condes)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-clinico-care-partners-1118410334.html
 - **Comuna / zona:** Las Condes, RM (visitas a domicilio, adultos mayores)
 - **Fuente:** Laborum / Care Partners
@@ -668,6 +769,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-02 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6097815-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -681,6 +784,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-03 — Enfermera(o) GES — Hospital del Salvador
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-para-ges-para-hospital-salvador-fundacion-profesor-anibal-ariztia-1118409068.html
 - **Comuna / zona:** Providencia (Hospital del Salvador), RM
 - **Fuente:** Laborum / Fundación Aníbal Ariztía
@@ -694,6 +799,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-04 — Enfermero/a Unidad GES — Providencia (ECR Salud)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--unidad-ges-providencia-ecr-salud-1118398240.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
@@ -707,6 +814,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-05 — Enfermera(o) Coordinador(a) de Estudios Clínicos — Saapa (Santiago)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/3887680
 - **Comuna / zona:** Santiago, RM
 - **Fuente:** ChileTrabajos / Saapa
@@ -720,6 +829,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-06 — Enfermero/a IAAS / Infecciones Intrahospitalarias — Clínica MEDS
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/3886098
 - **Comuna / zona:** Lo Barnechea, RM
 - **Fuente:** ChileTrabajos / Clínica MEDS
@@ -733,6 +844,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-07 — Jefatura Central de Esterilización — Enfermera (Providencia)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefatura-central-esterilizacion-enfermera-en-santiago-providencia-F72543ECF3813F7E61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -746,6 +859,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-08 — Enfermero/a Urgencias 4° turno — Providencia ($1.600.000)
 
 - **Estado:** cerrada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-urgencias-4to-turno-providencia-1600000-en-santiago-providencia-174064E53A96CFB461373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -759,6 +874,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-09 — Enfermero/a Continuidad cuidados medios — Providencia ($1.400.000)
 
 - **Estado:** cerrada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-continuidad-cuidados-medios-1400000-diurno-providencia-en-santiago-providencia-ED0C435846DCF8EC61373E686DCF3405
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Computrabajo
@@ -772,6 +889,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-10 — Enfermero(a) Centro médico / Calidad — La Florida ($1.200.000)
 
 - **Estado:** cerrada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermero-a-centro-medico-en-santiago-la-florida-50F88B6A81F07B9061373E686DCF3405
 - **Comuna / zona:** La Florida, RM
 - **Fuente:** Computrabajo
@@ -785,6 +904,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-11 — Enfermero/a Pabellón Central (reemplazo) — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6116119-enfermero-a-pabellon-central-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -798,6 +919,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-12 — Enfermero/a Volante Pabellón Central — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6116150-enfermero-a-volante-pabellon-central-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -811,6 +934,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-13 — Enfermero(a) Pabellón (honorarios) — Nueva Clínica Cordillera
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermero-a-pabellon-honorarios-nueva-clinica-cordillera-1118405360.html
 - **Comuna / zona:** Las Condes (Av. Alejandro Fleming), RM
 - **Fuente:** Laborum / Nueva Clínica Cordillera
@@ -824,6 +949,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-14 — Enfermera(o) Pabellón Cirugía (pre/post natal) — Clínica Alemana
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6106713-enfermera-o-pabellon-cirugia-pre-y-post-natal
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / Clínica Alemana
@@ -837,6 +964,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260826-15 — Enfermera/o Clínico — Estación Central (jornada completa)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-1118405130.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos (IntegraMédica)
@@ -850,6 +979,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-31 — Enfermero(a) Coordinador(a) UTM Marcoleta — UC CHRISTUS
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-coordinadora-unidad-toma-de-muestras-marcoleta-en-santiago-centro-07240B94ED023DE861373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Marcoleta), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
@@ -863,6 +994,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-32 — Enfermero(a) Programación Quirúrgica Pabellón — Clínica San Carlos (UC CHRISTUS)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-programacion-quirurgica-pabellon-clinica-san-carlos-en-santiago-las-condes-00072CFB674F515761373E686DCF3405
 - **Comuna / zona:** Las Condes (Clínica San Carlos de Apoquindo), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
@@ -876,6 +1009,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-33 — Enfermero(a) Clínico(a) Pabellón — Centro Médico Santa Lucía (reemplazo LM)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-centro-medico-santa-lucia-licencia-medica-en-santiago-centro-EE6ACFC2AD7A5ACA61373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Santa Lucía), RM
 - **Fuente:** Computrabajo / UC CHRISTUS
@@ -889,6 +1024,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-34 — Enfermero(a) Cardiología — Reemplazo licencia médica (UC CHRISTUS)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-cardiologia-reemplazo-licencia-medica-en-santiago-centro-39E5C12EC9F7F78361373E686DCF3405
 - **Comuna / zona:** Santiago Centro, RM
 - **Fuente:** Computrabajo / UC CHRISTUS
@@ -902,6 +1039,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-35 — Enfermera(o) Central Esterilización 4° turno — Peñalolén
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-central-esterilizacion-4-turno-penalolen-en-santiago-providencia-E85A942AC50D94CE61373E686DCF3405
 - **Comuna / zona:** Peñalolén (aviso Providencia), RM
 - **Fuente:** Computrabajo / Grupo Medical
@@ -915,6 +1054,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-36 — Enfermero/a Clínico/a Pabellón Quirúrgico — San Bernardo
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-pabellon-quirurgico-en-san-bernardo-99744BF9EE1A5D1961373E686DCF3405
 - **Comuna / zona:** San Bernardo, RM (cerca de metro)
 - **Fuente:** Computrabajo
@@ -928,6 +1069,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-37 — Enfermero/a Hospitalización Médico Quirúrgico — RedSalud Santiago
 
 - **Estado:** cerrada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6085985-enfermero-a-hospitalizacion-medico-quirurgico-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -940,6 +1083,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-38 — Enfermero(a) Jefe — residencia / cuidado de personas mayores (Las Condes)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-jefe-en-santiago-las-condes-535CAE04EBAF263361373E686DCF3405
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** Computrabajo
@@ -953,6 +1098,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-23 — Enfermera Residencia Clínica / Seguimiento Clínico (Santiago Centro)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-residencia-clinica-santiago-centro-en-santiago-centro-95A51E723E52D02261373E686DCF3405
 - **Comuna / zona:** Santiago Centro (Sta. Ana), RM
 - **Fuente:** Computrabajo / MYRASALUD SPA
@@ -967,6 +1114,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-24 — Enfermera(o) Lunes a Viernes — Quilicura (reemplazo)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-quilicura-en-santiago-quilicura-23E51FBF1C7167E161373E686DCF3405
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** Computrabajo / XinerLink
@@ -981,6 +1130,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-25 — Enfermera(o) Toma de Muestras — Clini (part-time FDS)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-toma-de-muestras-clini-santiago-en-santiago-providencia-56716BFB0055914C61373E686DCF3405
 - **Comuna / zona:** Providencia / Santiago / San Bernardo (Tobalaba, Alameda, etc.)
 - **Fuente:** Computrabajo / Clini
@@ -995,6 +1146,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-26 — Enfermera Cuidado Integral Domiciliario — Situ (RM)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/3885459
 - **Comuna / zona:** RM (100 % domicilio; movilización propia + bono)
 - **Fuente:** ChileTrabajos / Situ
@@ -1009,6 +1162,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-27 — Enfermera Coordinadora Atención Domiciliaria — Puente Alto
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-coordinadora-atencion-domiciliaria-1118388448.html
 - **Comuna / zona:** Puente Alto (oficina central), RM
 - **Fuente:** Laborum / Confidencial (operaciones domiciliaria)
@@ -1022,6 +1177,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-28 — Enfermero/a Procedimientos — Las Condes (aviso Ñuñoa)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-procedimientos-nunoa-3882923
 - **Comuna / zona:** Las Condes, RM (publicada como Ñuñoa)
 - **Fuente:** ChileTrabajos / XinerLink
@@ -1036,6 +1193,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-29 — Enfermera/o Asistencial — Centro Médico RedSalud Independencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6106648-enfermera-o-asistencial-centro-medico-redsalud-independencia
 - **Comuna / zona:** Independencia (Mall Barrio Independencia), RM
 - **Fuente:** Trabajando / RedSalud
@@ -1050,6 +1209,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-30 — Enfermeras/os Pabellón — Maipú (reemplazo licencia)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-con-experiencia-en-pabellon-comuna-maipu-reemplazo-licencia-medica-en-santiago-maipu-F9EB6CAE51A4FBC961373E686DCF3405
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** Computrabajo
@@ -1064,6 +1225,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-12 — Enfermera de Ruta — Hospitalización Domiciliaria (Sirak)
 
 - **Estado:** cerrada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-de-ruta-hospitalizacion-domiciliaria-en-santiago-nunoa-0EA9D4607A2A1BEB61373E686DCF3405
 - **Comuna / zona:** Ñuñoa / RM (ruta domiciliaria)
 - **Fuente:** Computrabajo / Sirak Ltda
@@ -1076,6 +1239,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-13 — Enfermera Clínica de Ruta — Hospitalización Domiciliaria (San Juan de Dios)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-clinica-de-ruta-hospitalizacion-domiciliaria-servicios-clinicos-domiciliarios-san-juan-de-dios-1118378807.html
 - **Comuna / zona:** Ñuñoa / RM
 - **Fuente:** Laborum / Servicios Clínicos Domiciliarios San Juan de Dios
@@ -1088,6 +1253,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-14 — Enfermeros/as (reemplazo) — Las Condes
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-las-condes-3876963
 - **Comuna / zona:** Las Condes, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -1100,6 +1267,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-15 — Enfermeros/as Urgencias (reemplazo) — Pudahuel
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/3860116
 - **Comuna / zona:** Pudahuel, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -1112,6 +1281,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-16 — Enfermeros/as (reemplazo) — Maipú
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeros-as-reemplazo-maipu-3850978
 - **Comuna / zona:** Maipú, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -1124,6 +1295,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-17 — Enfermero/a — Gestión de Pacientes (Providencia)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermero-a--gestion-de-pacientes-providencia-ecr-salud-1118398241.html
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Laborum / ECR Salud
@@ -1136,6 +1309,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-18 — Enfermera/o Clínico — Centro Médico Manquehue (IntegraMédica)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-integramedica-sa-1118399308.html
 - **Comuna / zona:** Las Condes (Manquehue), RM
 - **Fuente:** Laborum / IntegraMédica (Bupa)
@@ -1148,6 +1323,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-19 — Enfermera/o Clínico 30 hrs — Estación Central
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-clinico-30hrs-1118408608.html
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Laborum / Red centros médicos
@@ -1160,6 +1337,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-20 — Enfermera(o) Pre-Admisión (Reemplazo) — RedSalud Providencia
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.trabajando.cl/trabajo/6106477-enfermera-o-pre-admision-reemplazo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -1172,6 +1351,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-21 — ENFERMERO(A) — Programa PRAPS Chile Crece Contigo (Cerro Navia)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/convocatoria-abierta-enfermero-a-programa-praps-chile-crece-contigo-3877085
 - **Comuna / zona:** Cerro Navia, RM
 - **Fuente:** ChileTrabajos / Municipalidad de Cerro Navia
@@ -1184,6 +1365,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-22 — Enfermera Universitaria reemplazo — Quilicura (Mutual)
 
 - **Estado:** bloqueada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-universitaria-reemplazo-comuna-de-quilicura-3561893
 - **Comuna / zona:** Quilicura, RM
 - **Fuente:** ChileTrabajos / GO LTDA (Mutual)
@@ -1198,6 +1381,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-02 — Enfermeras/os Volantes — atención domiciliaria / RM (Medical Home)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-02E157BF9FC9490B61373E686DCF3405
 - **Comuna / zona:** Recoleta / RM (movilidad entre comunas)
 - **Fuente:** Computrabajo / Clínica Medical Home
@@ -1210,6 +1395,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-03 — Enfermera Paine (Home Medical Clinic)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-paine-en-paine-0E51164543D755AC61373E686DCF3405
 - **Comuna / zona:** Paine, RM
 - **Fuente:** Computrabajo / Home Medical Clinic
@@ -1222,6 +1409,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-04 — Enfermera(o) Urgencia 4to turno — $1.480.000 líquido
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1480000-institucion-de-salud-penalolen-en-santiago-penalolen-A7FAAF884F563BAC61373E686DCF3405
 - **Comuna / zona:** Peñalolén, RM
 - **Fuente:** Computrabajo / Grupo Medical
@@ -1234,6 +1423,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-05 — Enfermera/o MQ 4to turno — $1.400.000
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-mq-4to-turno-penalolen-1400000-en-santiago-penalolen-7822B4722A50A3DA61373E686DCF3405
 - **Comuna / zona:** Peñalolén, RM
 - **Fuente:** Computrabajo
@@ -1246,6 +1437,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-06 — Enfermera/o Volante RM (toma de muestras)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-E96A8FF1B76C4A8C61373E686DCF3405
 - **Comuna / zona:** Las Condes / RM
 - **Fuente:** Computrabajo / XinerLink
@@ -1258,6 +1451,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-07 — Enfermero/a UTM Volante, RM
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-volante-rm-en-santiago-providencia-830E107C0ED4435C61373E686DCF3405
 - **Comuna / zona:** Providencia / RM
 - **Fuente:** Computrabajo / XinerLink
@@ -1270,6 +1465,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-08 — Enfermera(o) Clínica(o) — Puente Alto (22 h)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-22-horas-en-puente-alto-D32D8317FF42245E61373E686DCF3405
 - **Comuna / zona:** Puente Alto, RM
 - **Fuente:** Computrabajo / Centro de Salud
@@ -1282,6 +1479,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-09 — Enfermera para toma de muestra — Puente Alto
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-para-toma-de-muestra-en-puente-alto-429D441A16AE028261373E686DCF3405
 - **Comuna / zona:** Puente Alto, RM
 - **Fuente:** Computrabajo / Centro Clínico Salud Plus
@@ -1294,6 +1493,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-10 — Enfermera/o Volante part time RM (toma de muestras)
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-volante-part-time-region-metropolitana-exp-en-toma-de-muestras-en-santiago-las-condes-74C59F581E12A89361373E686DCF3405
 - **Comuna / zona:** Las Condes / RM
 - **Fuente:** Computrabajo / XinerLink
@@ -1306,6 +1507,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-11 — Enfermera(o) Clínico / Atención domiciliaria / RM (ClinicalWork → Indeed)
 
 - **Estado:** bloqueada
+- **Vigencia:** no_disponible
+- **Revisada:** 2026-08-31
 - **URL:** https://clinicalwork.cl/jobs/enfermeria
 - **Comuna / zona:** RM
 - **Fuente:** ClinicalWork / Home Medical Clinic (Indeed)
@@ -1321,6 +1524,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 ## OF-20260825-01 — Enfermera/o Hospitalización Domiciliaria (HOSDOM), Peñalolén
 
 - **Estado:** postulada
+- **Vigencia:** vigente
+- **Revisada:** 2026-08-31
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-hospitalizacion-domiciliaria-renta-liquida-1300000-penalolen-en-santiago-penalolen-69DB87DCEC4EB8F761373E686DCF3405
 - **Comuna / zona:** Peñalolén, RM
 - **Fuente:** Computrabajo
