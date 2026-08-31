@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
+- **Commit:** `906ad10f16b0b3e3c8cf4504b2f4bb90f5fed462`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** MQ, hospitalización, IAAS, procedimientos, RCP
+
+
 ## 2026-08-31 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
