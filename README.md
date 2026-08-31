@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
+
+- **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
+- **Commit:** `97b3518d11e32862a1d8c628ee040372ef79d022`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** MQ, hospitalización, IAAS, procedimientos, RCP
+
+
 ## 2026-08-31 — Enfermera(o) Pool Volante — RedSalud Providencia
 
 - **URL:** https://cl.indeed.com/viewjob?jk=94564ee5ce0eec1b
