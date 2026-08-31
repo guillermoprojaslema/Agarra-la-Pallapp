@@ -143,12 +143,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-12 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
 - **Comuna / zona:** RM (Santiago)
 - **Fuente:** Indeed / Clínica Medical Home
 - **Renta:** no publicada
 - **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
+- **Commit CV:** `97b3518d11e32862a1d8c628ee040372ef79d022`
 - **Detectada:** 2026-08-31
 
 
