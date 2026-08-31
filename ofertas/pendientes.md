@@ -298,7 +298,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-23 — Enfermera/o Gestor de Camas — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -306,11 +306,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — coordinación y continuidad más que box; registro y derivación del base ayudan. Publicado hace 14 días.
 - **Commit CV:** `f0b7793f01ed1da4f2ff84012fe4f088fb8ab12f`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6114110 — «¡Has postulado al empleo!». Honestas: sin cargo gestor de camas; continuidad/derivación APS; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-24 — Enfermero/a de Calidad y Gestión de Riesgo — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102217-enfermero-a-de-calidad-y-gestion-de-riesgo-redsalud-providencia
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -318,11 +319,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-alto — diplomado de calidad 320 h e IAAS 80 h del base calzan con el cargo. Publicado hace 27 días; aviso aún abierto.
 - **Commit CV:** `873cf5404cebaf9ccb348831ec40c94f734064de`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6102217 — «¡Has postulado al empleo!». Honestas: 0 años UPC/pabellón/urgencia; diplomado calidad 320 h + IAAS 80 h; sin cargo formal de calidad; renta $1.400.000.
 
 ## OF-20260831-25 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -330,11 +332,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Bajo-medio — jefatura + unidad coronaria/cardiovascular; el base es APS/SAR. Publicado hace 35 días; aún listado.
 - **Commit CV:** `6464deb03f23d6a047801f279b74fafbafd74283`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6099738 — «¡Has postulado al empleo!». Honestas: 0 UPC/UCO; sin jefatura; IAAS 80 h + diplomado calidad; Estación Central sí; renta $1.400.000.
 
 ## OF-20260831-26 — Enfermero/a Pool Volante — RedSalud Vitacura
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6106314-enfermero-a-pool-volante-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -342,11 +345,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — volante hospitalario; suele pedir UTI/UCI. Distinto de OF-20260831-11 (pool Providencia). Publicado hace 35 días.
 - **Commit CV:** `dee52b952cb61904646dbaa25ccae0d3906e9f22`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6106314 — «¡Has postulado al empleo!». Honestas: 0 unidades críticas; 4° turno Vitacura sí; renta $1.400.000. Años en críticas: «menos de 1 año» (opción más baja).
 
 ## OF-20260831-27 — Enfermero/a Jefe Trainee — Centros Médicos RedSalud (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099065-enfermero-a-jefe-trainee-centros-medicos-redsalud-region-metropolitana
 - **Comuna / zona:** Santiago / RM (centros médicos)
 - **Fuente:** Trabajando / RedSalud
@@ -354,11 +358,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — trainee de jefatura ambulatoria; más cerca del perfil APS/centro médico que las UCI. Publicado hace 39 días; aún abierto.
 - **Commit CV:** `ed29233e5c000f02c87d1c8e7df9f7eaf9148f9f`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6099065 — «¡Has postulado al empleo!». Honestas: sin jefatura previa; IAAS 80 h + diplomado calidad 320 h; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-28 — Enfermero(a) Médico Quirúrgico — Clínica RedSalud Vitacura
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102509-enfermero-a-medico-quirurgico-clinica-redsalud-vitacura
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Trabajando / RedSalud
@@ -366,11 +371,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base ayudan. Distinto de OF-20260826-02 (MQ Providencia, ya postulada). Publicado hace 47 días.
 - **Commit CV:** `906ad10f16b0b3e3c8cf4504b2f4bb90f5fed462`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6102509 — «¡Has postulado al empleo!». Honestas: sin MQ hospitalario (perfil APS/SAR); Vitacura 4° turno sí; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-29 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
 - **Comuna / zona:** Santiago / Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
@@ -378,11 +384,12 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — unidad coronaria; el base no acredita UCI/cardio. IAAS y RCP sí. Publicado hace 49 días; aún listado.
 - **Commit CV:** `05de3098dd294c0b6832479471af527200584a31`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6101283 — «¡Has postulado al empleo!». Honestas: sin UCO/intermedio; IAAS 80 h + RCP/DEA; renta $1.400.000; SIS vigente.
 
 ## OF-20260831-30 — Enfermero/a de Farmacia — RedSalud Casa Matriz
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://redsalud.trabajando.cl/trabajo/6098630-enfermero-a-de-farmacia-redsalud-casa-matriz
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
@@ -390,7 +397,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — más gestión de farmacia clínica que box APS. Publicado hace 56 días; aviso aún abierto.
 - **Commit CV:** `29bbafe233961de1d7f8e14ac4c963f88f779a8d`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6098630 — «¡Has postulado al empleo!». Honestas: sin farmacia clínica ni SAP; sí administración de fármacos APS/SAR; proyecto 4 meses sí; renta $1.400.000 inmediata.
 
 ## OF-20260827-01 — Enfermera 4° turno Infanto-Juvenil — Clínica Oriente (salud mental)
 
