@@ -144,7 +144,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-11 — Enfermera(o) Pool Volante — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=94564ee5ce0eec1b
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -152,7 +152,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio-bajo — 1 año UTI/UCI excluyente; el base es APS/SAR. IAAS 80 h deseable sí coincide.
 - **Commit CV:** `35c4e627813da9462e693ef8c85cd6471e9f58be`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6116938 — «¡Has postulado al empleo!». Honestas: 0 años UTI/UCI; sin ACLS ni diplomado intensivo; 4° turno sí; renta $1.400.000.
 
 ## OF-20260831-12 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
 
