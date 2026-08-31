@@ -365,12 +365,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-30 — Enfermero/a de Farmacia — RedSalud Casa Matriz
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6098630-enfermero-a-de-farmacia-redsalud-casa-matriz
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (mixta teletrabajo + presencial)
 - **Encaje:** Medio-bajo — más gestión de farmacia clínica que box APS. Publicado hace 56 días; aviso aún abierto.
+- **Commit CV:** `29bbafe233961de1d7f8e14ac4c963f88f779a8d`
 - **Detectada:** 2026-08-31
 
 
