@@ -119,12 +119,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-10 — Enfermero(a) procedimientos gastroenterología — Clínica RedSalud Vitacura
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://cl.indeed.com/viewjob?jk=967715457ca3ede8
 - **Comuna / zona:** Vitacura, RM
 - **Fuente:** Indeed / RedSalud
 - **Renta:** no publicada (L–S rotativo)
 - **Encaje:** Medio — endoscopía/procedimientos; IAAS 80 h y RCP del base son deseables; piden 6 meses endoscopía (no acreditado).
+- **Commit CV:** `61f69b2425a745f726e631891a9df1a9caa325a7`
 - **Detectada:** 2026-08-31
 
 
