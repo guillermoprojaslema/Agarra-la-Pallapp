@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
+
+- **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
+- **Commit:** `5b6a6253a8cef18a8f9409ad2108d2cf84707890`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** apoyo clínico, IAAS, RCP, procedimientos, hospitalización
+
+
 ## 2026-08-31 — Gestor GES/CAEC — RedSalud Providencia
 
 - **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
