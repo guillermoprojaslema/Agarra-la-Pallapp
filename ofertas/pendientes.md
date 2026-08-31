@@ -353,12 +353,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-29 — Enfermera(o) Unidad Coronaria — RedSalud Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6101283-enfermera-o-unidad-coronaria-redsalud-santiago
 - **Comuna / zona:** Santiago / Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (por turnos)
 - **Encaje:** Medio-bajo — unidad coronaria; el base no acredita UCI/cardio. IAAS y RCP sí. Publicado hace 49 días; aún listado.
+- **Commit CV:** `05de3098dd294c0b6832479471af527200584a31`
 - **Detectada:** 2026-08-31
 
 
