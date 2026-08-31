@@ -305,12 +305,13 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-25 — Enfermera Jefe Unidad Cardiovascular — RedSalud Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **URL:** https://redsalud.trabajando.cl/trabajo/6099738-enfermera-jefe-unidad-cardiovascular-redsalud-santiago
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** Trabajando / RedSalud
 - **Renta:** no publicada (jornada completa)
 - **Encaje:** Bajo-medio — jefatura + unidad coronaria/cardiovascular; el base es APS/SAR. Publicado hace 35 días; aún listado.
+- **Commit CV:** `6464deb03f23d6a047801f279b74fafbafd74283`
 - **Detectada:** 2026-08-31
 
 
