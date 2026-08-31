@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermero/a Esterilización — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6119579-enfemero-a-esterilizacion-redsalud-santiago
+- **Commit:** `b058c531466cfc84b49be057229c7fe3d8b8c8fb`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** esterilización, IAAS, bioseguridad, calidad, protocolos
+
+
 ## 2026-08-31 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
 
 - **URL:** https://cl.indeed.com/q-universidad-de-los-andes-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
