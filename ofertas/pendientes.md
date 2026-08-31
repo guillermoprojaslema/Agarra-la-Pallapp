@@ -182,7 +182,7 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 
 ## OF-20260831-14 — Gestor GES/CAEC — RedSalud Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **URL:** https://cl.indeed.com/viewjob?jk=e6cfb8a4281a2301
 - **Comuna / zona:** Providencia, RM
 - **Fuente:** Indeed / RedSalud
@@ -190,7 +190,8 @@ Estados: `pendiente` · `en_adaptacion` · `lista_para_postular` · `postulada` 
 - **Encaje:** Medio — gestión GES más que box; SIGGES y derivación APS-secundaria del base aplican. Distinto de OF-20260826-03/04 (Laborum, bloqueadas).
 - **Commit CV:** `a1b6fd1fa0e7bfe40ebd5250231c1e4cb22f0490`
 - **Detectada:** 2026-08-31
-
+- **Fecha postulación:** 2026-08-31
+- **Nota postulación:** 2026-08-31 — Trabajando RedSalud 6106494 — «¡Has postulado al empleo!». Honestas: SIS sí; GES/CAEC solo SIGGES APS (sin cargo gestor); asistencial desde 2021; renta $1.400.000.
 
 ## OF-20260831-15 — Enfermera(o) Unidad Apoyo Clínico — Clínica Universidad de los Andes
 
