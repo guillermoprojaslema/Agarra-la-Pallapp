@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Asistencial PART TIME 18 h — Centros Médicos RedSalud (RM)
+
+- **URL:** https://cl.indeed.com/q-redsalud-enfermera-empleos.html
+- **Commit:** `62ab91cc0bcc39e7baefee382898e4db2c8f75ab`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** asistencial, part time, procedimientos, SIS, turnos
+
+
 ## 2026-08-31 — Enfermera/o Asistencial — Centro Médico y Dental RedSalud San Miguel
 
 - **URL:** https://cl.indeed.com/viewjob?jk=a61b3beded2f9c52
