@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o de Gestión Poblacional — USI Centros Médicos RedSalud
+
+- **URL:** https://cl.indeed.com/viewjob?jk=64f8f54bcc9f75e9
+- **Commit:** `f00aabacfa31fa317395003510aae0ac771a0101`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** gestión poblacional, APS, seguimiento, crónicos, RAYEN
+
+
 ## 2026-08-31 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
 - **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
