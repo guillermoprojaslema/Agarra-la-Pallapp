@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
+- **Commit:** `6efa30781de54f05dd0ea01d358e4a4b6585f48c`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** esterilización, supervisión, IAAS, calidad, bioseguridad
+
+
 ## 2026-08-31 — Enfermero(a) Intensivo UCI — RedSalud Providencia
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6102374-enfermero-a-intensivo-uci-redsalud-providencia
