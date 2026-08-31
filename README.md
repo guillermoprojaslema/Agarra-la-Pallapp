@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
+
+- **URL:** https://cl.indeed.com/viewjob?jk=40ba07ca562d5c27
+- **Commit:** `5bf04f4bfdc6d8139ae14168c81b89483d4a19bd`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, atención domiciliaria, curaciones, Foley, volante
+
+
 ## 2026-08-27 — Enfermera/o MQ hospitalizados — Estación Central (XinerLink)
 
 - **URL:** https://www.kitempleo.cl/empleo/100745976/enfermera-o-mq-estacion-central-reemplazo-chile
