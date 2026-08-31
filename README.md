@@ -19,6 +19,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-08-31 — Enfermera/o Gestor de Camas — RedSalud Santiago
+
+- **URL:** https://redsalud.trabajando.cl/trabajo/6114110-enfermera-o-gestor-de-camas-redsalud-santiago
+- **Commit:** `f0b7793f01ed1da4f2ff84012fe4f088fb8ab12f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** gestión de camas, continuidad, coordinación, RAYEN, calidad
+
+
 ## 2026-08-31 — Enfermera/o Supervisor Esterilización — RedSalud Santiago
 
 - **URL:** https://redsalud.trabajando.cl/trabajo/6117112-enfermera-o-supervisor-esterilizacion-redsalud-santiago
