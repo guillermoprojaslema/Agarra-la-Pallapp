@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890410
+- **Commit:** `60489e6b0a876d68fde14f557f77bce1e4a8461a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico quirúrgico, DIPRECA, IAAS, RCP, protocolos
+
+
 ## 2026-09-03 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidados-medios-en-santiago-penalolen-B7E786E1104985DD61373E686DCF3405
