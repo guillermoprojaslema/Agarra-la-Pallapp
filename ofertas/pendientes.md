@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-honorarios-en-santiago-centro-CD9FEE6FF2CB0DED61373E686DCF3405
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (honorarios, part-time; MQ, pediatría, coronaria, maternidad, urgencia)
 - **Encaje:** Medio-alto — procedimientos y box asistencial; urgencia calza con SAR del base. Varias unidades son hospitalarias (UCI/coronaria) sin acreditación en el base.
+- **Commit CV:** `a1c0f42dde470aee97f350984d85673e70bafacc`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-04 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
