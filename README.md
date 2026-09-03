@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
+
+- **URL:** https://www.trabajando.cl/trabajo/6107276-enfermero-gestor-vir-honorarios
+- **Commit:** `e3bdbfd0c9c49ad1f6d5d3e910d3ee77bffea07d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** prehospitalaria, urgencia, terreno, RCP, coordinación
+
+
 ## 2026-09-03 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3888929
