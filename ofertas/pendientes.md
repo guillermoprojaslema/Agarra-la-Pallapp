@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-07 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-en-area-medico-quirurgico-en-santiago-las-condes-25DB464458F6021661373E686DCF3405
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Siempre Chile
 - **Renta:** no publicada (publicada hace ~4 h)
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base aplican. El CV es más APS/SAR/domicilio que pabellón o sala MQ.
+- **Commit CV:** `a24538065c6be7282a077be00c5edd83e89565a1`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-08 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
