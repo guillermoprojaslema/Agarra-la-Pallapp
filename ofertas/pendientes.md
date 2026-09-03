@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-02 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.trabajando.cl/trabajo/6104358-enfermera-o-hospitalizacion-domiciliaria
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / Xinermed
 - **Renta:** no publicada (cierra en ~18 días)
 - **Encaje:** Alto — HOSDOM: planes de cuidado, procedimientos, medicación y supervisión de TENS. El base acredita domicilio, curaciones y continuidad. Piden 2 años clínicos (excluyente).
+- **Commit CV:** `8c515891bd53eec759f2c986f85b0d4ffe3d2f84`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
