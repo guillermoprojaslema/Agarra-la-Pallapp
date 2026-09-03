@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3888929
+- **Commit:** `9fbe44ebe347f69811712f943784ffb5716e7234`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** larga estadía, crónicos, dependencia, curaciones, 4to turno
+
+
 ## 2026-09-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-honorarios-en-santiago-centro-CD9FEE6FF2CB0DED61373E686DCF3405
