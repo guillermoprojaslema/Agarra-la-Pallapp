@@ -12,12 +12,22 @@ Cada postulación parte de ese archivo y genera una versión ad-hoc (prioridad: 
 
 1. **Buscar ofertas** → se listan y guardan en [`ofertas/pendientes.md`](ofertas/pendientes.md).
 2. **Postular** (ej. «postula a OF-…») → se adapta el CV, se registra en este README y, con confirmación, se postula con el navegador.
+3. **Actualizar ofertas** (`/actualizar-ofertas`) → revisa cada URL y marca **Vigencia** (`vigente` / `no_disponible`), sin cambiar el estado de postulación.
 
 Cada entrada del historial registra la **URL del aviso** y el **hash del commit** de esa versión adaptada.
 
 ---
 
 ## Historial de postulaciones
+
+## 2026-09-03 — Enfermera/o de Atención Directa (domicilio RM)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890607
+- **Commit:** `5f21838638568f06c58ad4f626808a89e7380b6a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, toma de muestras, curaciones, terreno, IAAS
+
 
 ## 2026-08-31 — Enfermero/a de Farmacia — RedSalud Casa Matriz
 
