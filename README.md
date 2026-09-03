@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
+
+- **URL:** https://www.trabajando.cl/trabajo/6104358-enfermera-o-hospitalizacion-domiciliaria
+- **Commit:** `8c515891bd53eec759f2c986f85b0d4ffe3d2f84`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, planes de cuidado, curaciones, Foley, TENS
+
+
 ## 2026-09-03 — Enfermera/o de Atención Directa (domicilio RM)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890607
