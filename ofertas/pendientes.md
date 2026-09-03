@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-08 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidados-medios-en-santiago-penalolen-B7E786E1104985DD61373E686DCF3405
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** $1.400.000 (4° turno; exp. medicina/cuidados medios excluyente)
 - **Encaje:** Medio — cuidados medios y 4° turno; SAR y procedimientos del base ayudan. Distinta ficha que OF-20260825 MQ Peñalolén.
+- **Commit CV:** `e5fd7a0beddad828088d516d62e21b03e6861ca8`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-09 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
