@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-06 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-de-ambulancias-turnos-rotativos-en-santiago-providencia-7216A7D2A6CEFC5B61373E686DCF3405
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Ambulancias Santa Lucia
 - **Renta:** a convenir (indefinido, 42 h)
 - **Encaje:** Medio — estabilización, medicación y procedimientos en traslado; SAR/SAC y RCP del base ayudan. Piden 2 años prehospitalario y rango etario 26–34.
+- **Commit CV:** `8ff0c7ed0be89e95101cf0d4c58ccf0a3dc56c2a`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-07 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
