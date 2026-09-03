@@ -12,6 +12,127 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
+## OF-20260902-01 — Enfermera/o de Atención Directa (domicilio RM)
+
+- **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890607
+- **Comuna / zona:** RM (domicilio) + base en Las Condes
+- **Fuente:** ChileTrabajos
+- **Renta:** $43.000 líquidos por jornada + $300/km (honorarios)
+- **Encaje:** Alto — visitas domiciliarias, procedimientos y toma de muestras; el base acredita HOSDOM, UTM y muestras. Piden ≥3 años y muestra pediátrica (el base es más adulto/APS).
+- **Commit CV:** `5f21838638568f06c58ad4f626808a89e7380b6a`
+- **Detectada:** 2026-09-02
+
+## OF-20260902-02 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.trabajando.cl/trabajo/6104358-enfermera-o-hospitalizacion-domiciliaria
+- **Comuna / zona:** Santiago / RM (en terreno)
+- **Fuente:** Trabajando / Xinermed
+- **Renta:** no publicada (cierra en ~18 días)
+- **Encaje:** Alto — HOSDOM: planes de cuidado, procedimientos, medicación y supervisión de TENS. El base acredita domicilio, curaciones y continuidad. Piden 2 años clínicos (excluyente).
+- **Detectada:** 2026-09-02
+
+## OF-20260902-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-honorarios-en-santiago-centro-CD9FEE6FF2CB0DED61373E686DCF3405
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (honorarios, part-time; MQ, pediatría, coronaria, maternidad, urgencia)
+- **Encaje:** Medio-alto — procedimientos y box asistencial; urgencia calza con SAR del base. Varias unidades son hospitalarias (UCI/coronaria) sin acreditación en el base.
+- **Detectada:** 2026-09-02
+
+## OF-20260902-04 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.chiletrabajos.cl/trabajo/3888929
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.300.000 bruta; 4° turno; reemplazo + colación
+- **Encaje:** Medio-alto — crónicos, dependencia y procedimientos; el base trae postrados, HOSDOM e IAAS. Deseable neurorrehabilitación (no acreditada).
+- **Detectada:** 2026-09-02
+
+## OF-20260902-05 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.trabajando.cl/trabajo/6107276-enfermero-gestor-vir-honorarios
+- **Comuna / zona:** RM (terreno / domicilio / vía pública)
+- **Fuente:** Trabajando / UCM
+- **Renta:** no publicada (honorarios)
+- **Encaje:** Medio — prehospitalario y SAR/SAC del base; piden PHTLS, ACLS y PALS (el base tiene RCP/DEA, no esos cursos). Portal: dejó de recibir el 28-08 (≤14 días; gracia de plazo).
+- **Detectada:** 2026-09-02
+
+## OF-20260902-06 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-de-ambulancias-turnos-rotativos-en-santiago-providencia-7216A7D2A6CEFC5B61373E686DCF3405
+- **Comuna / zona:** Providencia, RM (turnos rotativos)
+- **Fuente:** Computrabajo / Ambulancias Santa Lucia
+- **Renta:** a convenir (indefinido, 42 h)
+- **Encaje:** Medio — estabilización, medicación y procedimientos en traslado; SAR/SAC y RCP del base ayudan. Piden 2 años prehospitalario y rango etario 26–34.
+- **Detectada:** 2026-09-02
+
+## OF-20260902-07 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-en-area-medico-quirurgico-en-santiago-las-condes-25DB464458F6021661373E686DCF3405
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** Computrabajo / Siempre Chile
+- **Renta:** no publicada (publicada hace ~4 h)
+- **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base aplican. El CV es más APS/SAR/domicilio que pabellón o sala MQ.
+- **Detectada:** 2026-09-02
+
+## OF-20260902-08 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidados-medios-en-santiago-penalolen-B7E786E1104985DD61373E686DCF3405
+- **Comuna / zona:** Peñalolén, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.400.000 (4° turno; exp. medicina/cuidados medios excluyente)
+- **Encaje:** Medio — cuidados medios y 4° turno; SAR y procedimientos del base ayudan. Distinta ficha que OF-20260825 MQ Peñalolén.
+- **Detectada:** 2026-09-02
+
+## OF-20260902-09 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890410
+- **Comuna / zona:** Santiago / RM
+- **Fuente:** ChileTrabajos / Clínica Medical Home
+- **Renta:** no publicada (honorarios; vence 11-11-2026)
+- **Encaje:** Medio — piden ≥1 año pabellón y cirugías de alta complejidad (el base no acredita pabellón). Sí hay RCP e IAAS, que el aviso exige vigentes.
+- **Detectada:** 2026-09-02
+
+## OF-20260902-10 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-02
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890409
+- **Comuna / zona:** Santiago / RM
+- **Fuente:** ChileTrabajos / Clínica Medical Home
+- **Renta:** no publicada (honorarios; vence 11-11-2026)
+- **Encaje:** Medio-bajo — pabellón y recuperación ≥1 año (excluyente en la práctica). Distinto de las volantes HOSDOM ya postuladas en Medical Home.
+- **Detectada:** 2026-09-02
+
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
 - **Estado:** postulada
