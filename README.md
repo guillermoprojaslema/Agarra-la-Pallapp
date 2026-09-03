@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidados-medios-en-santiago-penalolen-B7E786E1104985DD61373E686DCF3405
+- **Commit:** `e5fd7a0beddad828088d516d62e21b03e6861ca8`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** medicina, cuidados medios, 4to turno, IAAS, RCP
+
+
 ## 2026-09-03 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-en-area-medico-quirurgico-en-santiago-las-condes-25DB464458F6021661373E686DCF3405
