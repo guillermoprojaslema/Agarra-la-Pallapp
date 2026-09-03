@@ -118,7 +118,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-09 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890410
@@ -126,6 +126,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Clínica Medical Home
 - **Renta:** no publicada (honorarios; vence 11-11-2026)
 - **Encaje:** Medio — piden ≥1 año pabellón y cirugías de alta complejidad (el base no acredita pabellón). Sí hay RCP e IAAS, que el aviso exige vigentes.
+- **Commit CV:** `60489e6b0a876d68fde14f557f77bce1e4a8461a`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-10 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
