@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-honorarios-en-santiago-centro-CD9FEE6FF2CB0DED61373E686DCF3405
+- **Commit:** `a1c0f42dde470aee97f350984d85673e70bafacc`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínico, honorarios, urgencia, hospitalización, procedimientos
+
+
 ## 2026-09-03 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
 
 - **URL:** https://www.trabajando.cl/trabajo/6104358-enfermera-o-hospitalizacion-domiciliaria
