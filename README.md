@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3890409
+- **Commit:** `a8229de7a16343c360922bd01eba62d757c27369`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, recuperación, IAAS, bioseguridad, RCP
+
+
 ## 2026-09-03 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890410
