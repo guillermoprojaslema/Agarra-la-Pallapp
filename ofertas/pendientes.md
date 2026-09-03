@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-05 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.trabajando.cl/trabajo/6107276-enfermero-gestor-vir-honorarios
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / UCM
 - **Renta:** no publicada (honorarios)
 - **Encaje:** Medio — prehospitalario y SAR/SAC del base; piden PHTLS, ACLS y PALS (el base tiene RCP/DEA, no esos cursos). Portal: dejó de recibir el 28-08 (≤14 días; gracia de plazo).
+- **Commit CV:** `e3bdbfd0c9c49ad1f6d5d3e910d3ee77bffea07d`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-06 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
