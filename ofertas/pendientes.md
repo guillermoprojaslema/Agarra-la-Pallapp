@@ -131,7 +131,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-10 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890409
@@ -139,6 +139,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Clínica Medical Home
 - **Renta:** no publicada (honorarios; vence 11-11-2026)
 - **Encaje:** Medio-bajo — pabellón y recuperación ≥1 año (excluyente en la práctica). Distinto de las volantes HOSDOM ya postuladas en Medical Home.
+- **Commit CV:** `a8229de7a16343c360922bd01eba62d757c27369`
 - **Detectada:** 2026-09-02
 
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
