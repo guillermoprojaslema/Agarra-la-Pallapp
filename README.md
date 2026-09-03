@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-en-area-medico-quirurgico-en-santiago-las-condes-25DB464458F6021661373E686DCF3405
+- **Commit:** `a24538065c6be7282a077be00c5edd83e89565a1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** médico quirúrgico, hospitalización, IAAS, procedimientos, RCP
+
+
 ## 2026-09-03 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-de-ambulancias-turnos-rotativos-en-santiago-providencia-7216A7D2A6CEFC5B61373E686DCF3405
