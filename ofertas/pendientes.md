@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-04 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.chiletrabajos.cl/trabajo/3888929
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.300.000 bruta; 4° turno; reemplazo + colación
 - **Encaje:** Medio-alto — crónicos, dependencia y procedimientos; el base trae postrados, HOSDOM e IAAS. Deseable neurorrehabilitación (no acreditada).
+- **Commit CV:** `9fbe44ebe347f69811712f943784ffb5716e7234`
 - **Detectada:** 2026-09-02
 
 ## OF-20260902-05 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
