@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-03 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-de-ambulancias-turnos-rotativos-en-santiago-providencia-7216A7D2A6CEFC5B61373E686DCF3405
+- **Commit:** `8ff0c7ed0be89e95101cf0d4c58ccf0a3dc56c2a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** ambulancias, prehospitalario, traslados, urgencia, RCP
+
+
 ## 2026-09-03 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
 
 - **URL:** https://www.trabajando.cl/trabajo/6107276-enfermero-gestor-vir-honorarios
