@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-04 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-urgencias-adultos-reemplazo-estacion-central-en-santiago-estacion-central-4C50F33AF6FDDA5B61373E686DCF3405
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** $1.300.000 bruta; reemplazo extendible; colación
 - **Encaje:** Medio-alto — urgencias adultos; SAR y procedimientos del base aplican. Experiencia en urgencia pedida.
+- **Commit CV:** `8d45f6424e49ac10fb4e85fbcf37ff3d3bf57736`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-05 — Enfermera/o toma de muestras volante — Santiago
