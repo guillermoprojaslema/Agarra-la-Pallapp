@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-as-con-experiencia-en-centros-m-dicos-las-condes-reemplazo-3890323
+- **Commit:** `724b1c3dd3438395b75e0fe7503377768a682ee3`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** centro médico, toma de muestras, exámenes, procedimientos, SIS
+
+
 ## 2026-09-07 — EU UTM volante part time RM (sábados y domingos)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/eu-utm-volante-part-time-rm-3877120
