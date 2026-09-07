@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-05 — Enfermera/o toma de muestras volante — Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-toma-muestras-volante-3877083
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos
 - **Renta:** $1.100.000
 - **Encaje:** Alto — volante de muestras y atención de enfermería; el base acredita UTM, antígeno/PCR y movilidad APS. Canal distinto de las volantes ya postuladas en Computrabajo.
+- **Commit CV:** `e5c2ea3427c360d81bbecd0d0e5d3d5e8e691e50`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-06 — EU UTM volante part time RM (sábados y domingos)
