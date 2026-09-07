@@ -12,6 +12,103 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
+## OF-20260907-01 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
+
+- **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-037DB951E316843861373E686DCF3405
+- **Comuna / zona:** Recoleta / RM (domicilios en toda la región)
+- **Fuente:** Computrabajo / Clínica Medical Home
+- **Renta:** a convenir
+- **Encaje:** Alto — HOSDOM volante: TQT, GTT, ostomías y cobertura en domicilio. El base acredita HOSDOM, postrados y procedimientos. Republicación distinta de OF-20260825-02 (hash nuevo, publicada 07-09).
+- **Commit CV:** `8babe7ab6d89f5c749e3239844d20718678171d3`
+- **Detectada:** 2026-09-07
+
+## OF-20260907-02 — Enfermera clínica por reemplazo — Centro médico Mall Plaza Norte (Huechuraba)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-por-reemplazo-centro-medico-mall-plaza-norte-en-santiago-providencia-92BAA473E40DF8D961373E686DCF3405
+- **Comuna / zona:** Huechuraba (Mall Plaza Norte); aviso en Providencia
+- **Fuente:** Computrabajo / Manpower
+- **Renta:** $1.140.000 líquidos; lun–sáb 40 h; contrato transitorio
+- **Encaje:** Alto — box, protocolos y supervisión de procesos clínicos en centro médico. El base acredita procedimientos APS y ambulatorio. Publicada 06-09.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-03 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1400000-institucion-de-salud-maipu-en-santiago-maipu-044936B6E510A72D61373E686DCF3405
+- **Comuna / zona:** Maipú, RM
+- **Fuente:** Computrabajo / Grupo Medical
+- **Renta:** $1.400.000 líquidos; 4° turno
+- **Encaje:** Medio-alto — urgencia adulto calza con SAR del base. Piden 2 años de urgencia y ACLS/PALS (el base tiene RCP/DEA, no esos cursos). Distinta de las de pabellón Maipú ya en cola.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-04 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-urgencias-adultos-reemplazo-estacion-central-en-santiago-estacion-central-4C50F33AF6FDDA5B61373E686DCF3405
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $1.300.000 bruta; reemplazo extendible; colación
+- **Encaje:** Medio-alto — urgencias adultos; SAR y procedimientos del base aplican. Experiencia en urgencia pedida.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-05 — Enfermera/o toma de muestras volante — Santiago
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-toma-muestras-volante-3877083
+- **Comuna / zona:** Santiago / RM (volante)
+- **Fuente:** ChileTrabajos
+- **Renta:** $1.100.000
+- **Encaje:** Alto — volante de muestras y atención de enfermería; el base acredita UTM, antígeno/PCR y movilidad APS. Canal distinto de las volantes ya postuladas en Computrabajo.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-06 — EU UTM volante part time RM (sábados y domingos)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://www.chiletrabajos.cl/trabajo/eu-utm-volante-part-time-rm-3877120
+- **Comuna / zona:** Santiago / RM
+- **Fuente:** ChileTrabajos
+- **Renta:** no publicada (plazo fijo; expira 18-10-2026)
+- **Encaje:** Alto — UTM volante fines de semana: consultas, exámenes y procedimientos. El base acredita toma de muestras y ambulatorio.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-as-con-experiencia-en-centros-m-dicos-las-condes-reemplazo-3890323
+- **Comuna / zona:** Las Condes, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.160.000 líquidos; turnos AM/PM, sábado por medio; expira 11-11-2026
+- **Encaje:** Alto — centro médico, exámenes y toma de muestras (≥1 año). El base acredita UTM y procedimientos ambulatorios.
+- **Detectada:** 2026-09-07
+
+## OF-20260907-08 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-07
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-de-urgencias-part-time-cl-nica-meds-la-dehesa-3874660
+- **Comuna / zona:** Lo Barnechea (La Dehesa), RM
+- **Fuente:** ChileTrabajos / Clínica MEDS
+- **Renta:** no publicada (part-time; expira 13-10-2026)
+- **Encaje:** Medio-alto — urgencias; SAR del base aplica. Publicada 30-07, plazo abierto hasta octubre.
+- **Detectada:** 2026-09-07
+
 ## OF-20260902-01 — Enfermera/o de Atención Directa (domicilio RM)
 
 - **Estado:** lista_para_postular
@@ -27,7 +124,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-02 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://www.trabajando.cl/trabajo/6104358-enfermera-o-hospitalizacion-domiciliaria
@@ -36,11 +133,13 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** no publicada (cierra en ~18 días)
 - **Encaje:** Alto — HOSDOM: planes de cuidado, procedimientos, medicación y supervisión de TENS. El base acredita domicilio, curaciones y continuidad. Piden 2 años clínicos (excluyente).
 - **Commit CV:** `8c515891bd53eec759f2c986f85b0d4ffe3d2f84`
+- **Fecha postulación:** 2026-09-04
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-04 — Trabajando.com 6104358 — «¡Has postulado al empleo!». Expectativa de renta $1.400.000.
 
 ## OF-20260902-03 — Enfermero(a) Clínico(a) honorarios — Hospital Clínico UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-honorarios-en-santiago-centro-CD9FEE6FF2CB0DED61373E686DCF3405
@@ -49,7 +148,9 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** a convenir (honorarios, part-time; MQ, pediatría, coronaria, maternidad, urgencia)
 - **Encaje:** Medio-alto — procedimientos y box asistencial; urgencia calza con SAR del base. Varias unidades son hospitalarias (UCI/coronaria) sin acreditación en el base.
 - **Commit CV:** `a1c0f42dde470aee97f350984d85673e70bafacc`
+- **Fecha postulación:** 2026-09-04
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-04 — Computrabajo UC CHRISTUS — «Te postulaste correctamente». Honestas: interés Urgencia/SAR; sin UCI/coronaria/maternidad hospitalaria; honorarios sí. CV de la cuenta.
 
 ## OF-20260902-04 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
 
@@ -79,7 +180,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-06 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-de-ambulancias-turnos-rotativos-en-santiago-providencia-7216A7D2A6CEFC5B61373E686DCF3405
@@ -88,11 +189,13 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** a convenir (indefinido, 42 h)
 - **Encaje:** Medio — estabilización, medicación y procedimientos en traslado; SAR/SAC y RCP del base ayudan. Piden 2 años prehospitalario y rango etario 26–34.
 - **Commit CV:** `8ff0c7ed0be89e95101cf0d4c58ccf0a3dc56c2a`
+- **Fecha postulación:** 2026-09-04
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-04 — Computrabajo Ambulancias Santa Lucía — «Te postulaste correctamente». CV de la cuenta.
 
 ## OF-20260902-07 — Enfermero/a área médico-quirúrgica — Siempre Chile (Las Condes)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-en-area-medico-quirurgico-en-santiago-las-condes-25DB464458F6021661373E686DCF3405
@@ -101,11 +204,13 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** no publicada (publicada hace ~4 h)
 - **Encaje:** Medio — hospitalización MQ; IAAS/RCP del base aplican. El CV es más APS/SAR/domicilio que pabellón o sala MQ.
 - **Commit CV:** `a24538065c6be7282a077be00c5edd83e89565a1`
+- **Fecha postulación:** 2026-09-04
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-04 — Computrabajo Siempre Chile MQ Las Condes — «Te postulaste correctamente». Honestas: comuna San Joaquín; sin experiencia MQ hospitalaria; IAAS+RCP sí; certificado/documentos sí.
 
 ## OF-20260902-08 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-02
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidados-medios-en-santiago-penalolen-B7E786E1104985DD61373E686DCF3405
@@ -114,7 +219,9 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** $1.400.000 (4° turno; exp. medicina/cuidados medios excluyente)
 - **Encaje:** Medio — cuidados medios y 4° turno; SAR y procedimientos del base ayudan. Distinta ficha que OF-20260825 MQ Peñalolén.
 - **Commit CV:** `e5fd7a0beddad828088d516d62e21b03e6861ca8`
+- **Fecha postulación:** 2026-09-04
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-04 — Computrabajo Medicina 4° turno Peñalolén — «Te postulaste correctamente». Honestas: IAAS y RCP sí; sin Medicina/cuidados medios ni MQ hospitalario; 4° turno e inmediata sí.
 
 ## OF-20260902-09 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
 
