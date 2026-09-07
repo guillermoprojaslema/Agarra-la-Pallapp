@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1400000-institucion-de-salud-maipu-en-santiago-maipu-044936B6E510A72D61373E686DCF3405
+- **Commit:** `821e96b7f68defa6cece1de8378f58c5765d9bd4`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencia, 4to turno, SAR, IAAS, RCP
+
+
 ## 2026-09-07 — Enfermera clínica por reemplazo — Centro médico Mall Plaza Norte (Huechuraba)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-por-reemplazo-centro-medico-mall-plaza-norte-en-santiago-providencia-92BAA473E40DF8D961373E686DCF3405
