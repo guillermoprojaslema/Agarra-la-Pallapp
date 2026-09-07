@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-02 — Enfermera clínica por reemplazo — Centro médico Mall Plaza Norte (Huechuraba)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-por-reemplazo-centro-medico-mall-plaza-norte-en-santiago-providencia-92BAA473E40DF8D961373E686DCF3405
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Manpower
 - **Renta:** $1.140.000 líquidos; lun–sáb 40 h; contrato transitorio
 - **Encaje:** Alto — box, protocolos y supervisión de procesos clínicos en centro médico. El base acredita procedimientos APS y ambulatorio. Publicada 06-09.
+- **Commit CV:** `73bf97b535b58519a628a62a93ff7d55eb3e16e1`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-03 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
