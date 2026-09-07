@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-037DB951E316843861373E686DCF3405
+- **Commit:** `8babe7ab6d89f5c749e3239844d20718678171d3`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, atención domiciliaria, curaciones, Foley, volante
+
+
 ## 2026-09-03 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890409
