@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-06 — EU UTM volante part time RM (sábados y domingos)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/eu-utm-volante-part-time-rm-3877120
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos
 - **Renta:** no publicada (plazo fijo; expira 18-10-2026)
 - **Encaje:** Alto — UTM volante fines de semana: consultas, exámenes y procedimientos. El base acredita toma de muestras y ambulatorio.
+- **Commit CV:** `5851744669101c7ac60d897e1e1e44c66030a761`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
