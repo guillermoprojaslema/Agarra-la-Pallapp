@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermera/o toma de muestras volante — Santiago
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-toma-muestras-volante-3877083
+- **Commit:** `e5c2ea3427c360d81bbecd0d0e5d3d5e8e691e50`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, volante, UTM, terreno, procedimientos
+
+
 ## 2026-09-07 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-urgencias-adultos-reemplazo-estacion-central-en-santiago-estacion-central-4C50F33AF6FDDA5B61373E686DCF3405
