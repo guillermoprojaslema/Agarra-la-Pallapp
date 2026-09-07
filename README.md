@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — EU UTM volante part time RM (sábados y domingos)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/eu-utm-volante-part-time-rm-3877120
+- **Commit:** `5851744669101c7ac60d897e1e1e44c66030a761`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTM, toma de muestras, volante, procedimientos, part time
+
+
 ## 2026-09-07 — Enfermera/o toma de muestras volante — Santiago
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-toma-muestras-volante-3877083
