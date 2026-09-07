@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-08 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-de-urgencias-part-time-cl-nica-meds-la-dehesa-3874660
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Clínica MEDS
 - **Renta:** no publicada (part-time; expira 13-10-2026)
 - **Encaje:** Medio-alto — urgencias; SAR del base aplica. Publicada 30-07, plazo abierto hasta octubre.
+- **Commit CV:** `bed0ccc15f2cd297eba004a75d31a1f0b6091dd7`
 - **Detectada:** 2026-09-07
 
 ## OF-20260902-01 — Enfermera/o de Atención Directa (domicilio RM)
