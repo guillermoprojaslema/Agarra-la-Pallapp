@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermera clínica por reemplazo — Centro médico Mall Plaza Norte (Huechuraba)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-por-reemplazo-centro-medico-mall-plaza-norte-en-santiago-providencia-92BAA473E40DF8D961373E686DCF3405
+- **Commit:** `73bf97b535b58519a628a62a93ff7d55eb3e16e1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** centro médico, procedimientos, box, protocolos, IAAS
+
+
 ## 2026-09-07 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-037DB951E316843861373E686DCF3405
