@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-urgencias-adultos-reemplazo-estacion-central-en-santiago-estacion-central-4C50F33AF6FDDA5B61373E686DCF3405
+- **Commit:** `8d45f6424e49ac10fb4e85fbcf37ff3d3bf57736`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, adultos, reemplazo, SAR, RCP
+
+
 ## 2026-09-07 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1400000-institucion-de-salud-maipu-en-santiago-maipu-044936B6E510A72D61373E686DCF3405
