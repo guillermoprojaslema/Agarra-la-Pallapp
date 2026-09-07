@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-07 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-de-urgencias-part-time-cl-nica-meds-la-dehesa-3874660
+- **Commit:** `bed0ccc15f2cd297eba004a75d31a1f0b6091dd7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, part time, SAR, RCP, procedimientos
+
+
 ## 2026-09-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-as-con-experiencia-en-centros-m-dicos-las-condes-reemplazo-3890323
