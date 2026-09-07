@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-03 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1400000-institucion-de-salud-maipu-en-santiago-maipu-044936B6E510A72D61373E686DCF3405
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Grupo Medical
 - **Renta:** $1.400.000 líquidos; 4° turno
 - **Encaje:** Medio-alto — urgencia adulto calza con SAR del base. Piden 2 años de urgencia y ACLS/PALS (el base tiene RCP/DEA, no esos cursos). Distinta de las de pabellón Maipú ya en cola.
+- **Commit CV:** `821e96b7f68defa6cece1de8378f58c5765d9bd4`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-04 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
