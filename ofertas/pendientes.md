@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260907-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-as-con-experiencia-en-centros-m-dicos-las-condes-reemplazo-3890323
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.160.000 líquidos; turnos AM/PM, sábado por medio; expira 11-11-2026
 - **Encaje:** Alto — centro médico, exámenes y toma de muestras (≥1 año). El base acredita UTM y procedimientos ambulatorios.
+- **Commit CV:** `724b1c3dd3438395b75e0fe7503377768a682ee3`
 - **Detectada:** 2026-09-07
 
 ## OF-20260907-08 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
