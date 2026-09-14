@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermero(a) GES — Interclínica Cordillera
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3896000
+- **Commit:** `85bb3eb74b091bd4f3ca8bcb0dc69f8f7294d489`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** GES, seguimiento, calidad, SIGGES, gestión clínica
+
+
 ## 2026-09-14 — Enfermeros/as reemplazo Urgencias — Puente Alto (XinerLink)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3897932
