@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermera volante — red nacional (Step Therapy)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-volante-para-red-nacional-3827614
+- **Commit:** `79645bf85e8fc7a38026e8a71c19ed2fcca242df`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** volante, atención domiciliaria, educación, procedimientos, SIS
+
+
 ## 2026-09-14 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-de-pabellon-clinica-meds-la-dehesa-3870080
