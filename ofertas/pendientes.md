@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-05 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-B669F5DA6573BC3161373E686DCF3405
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** a convenir; 44 h; plazo fijo; turno Día-Día-Libre-Libre
 - **Encaje:** Medio — clínico hospitalario/oriente, 2 años. Poco detalle de unidad; el base cubre procedimientos y 4° turno. Actualizada hace 7 días.
+- **Commit CV:** `d734b4e733855144e225c253282cc50427bad456`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-06 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
