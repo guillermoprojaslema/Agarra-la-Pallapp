@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-de-pabellon-clinica-meds-la-dehesa-3870080
+- **Commit:** `030f1dedced2cbe774d3174eba75a929457ae466`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, IAAS, procedimientos, SIS, RCP
+
+
 ## 2026-09-14 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-B669F5DA6573BC3161373E686DCF3405
