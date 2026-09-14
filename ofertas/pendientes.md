@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-08 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.trabajando.cl/trabajo/6122212-enfermero-a-volante-redsalud-santiago
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / RedSalud Santiago
 - **Renta:** no publicada (4° turno 08:00–20:00)
 - **Encaje:** Medio-bajo — pool hospitalario (UTI, Urgencia, Recuperación, MQ). Piden 5 años clínicos, 3 en UPC/urgencia, diplomado de crítico y ACLS; el base es APS/SAR. Distinto de OF-20260831-26 (Vitacura) y OF-20260831-11 (Providencia).
+- **Commit CV:** `d3cdce00c3115a5a66f0d8fcd8533f75ea1483d4`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-09 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
