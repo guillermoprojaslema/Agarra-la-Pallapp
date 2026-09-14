@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-pabellon-clinica-providencia-cargo-vacante-en-santiago-providencia-1670674301318DF361373E686DCF3405
+- **Commit:** `7037c96e5fbb7802b13099109a1a6acad80f641f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, procedimientos, IAAS, SIS, RCP
+
+
 ## 2026-09-14 — Enfermero(a) GES — Interclínica Cordillera
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3896000
