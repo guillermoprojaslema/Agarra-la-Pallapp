@@ -118,7 +118,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-09 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.trabajando.cl/trabajo/6118100-enfermera-o-clinico-upc-adulto
@@ -126,6 +126,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / Clínica Bupa Santiago
 - **Renta:** no publicada (4° turno; 6 vacantes; cierra ~28 días)
 - **Encaje:** Medio-bajo — UPC adulto; experiencia crítica y BLS/ACLS deseables (el base tiene RCP/DEA e IAAS, no UCI). Título + SIS. Publicada ~2 días.
+- **Commit CV:** `6a2f3b3b2ded99c06a8c71c6b1d5b0904e34480a`
 - **Detectada:** 2026-09-14
 
 ## OF-20260907-01 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
