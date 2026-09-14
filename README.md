@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-B669F5DA6573BC3161373E686DCF3405
+- **Commit:** `d734b4e733855144e225c253282cc50427bad456`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínico, turnos rotativos, procedimientos, IAAS, SIS
+
+
 ## 2026-09-14 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-pabellon-clinica-providencia-cargo-vacante-en-santiago-providencia-1670674301318DF361373E686DCF3405
