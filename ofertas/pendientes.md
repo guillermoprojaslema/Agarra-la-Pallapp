@@ -12,9 +12,118 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
-## OF-20260907-01 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
+## OF-20260914-01 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
 
 - **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.chiletrabajos.cl/trabajo/3896569
+- **Comuna / zona:** Santiago Centro (Metro Santa Ana)
+- **Fuente:** ChileTrabajos / Instituto Traumatológico
+- **Renta:** $1.462.172–$1.593.176 brutos (grado 15/14 EUS; 4° turno sin asignación)
+- **Encaje:** Medio-alto — no piden experiencia previa; IAAS y RCP del base calzan. Unidad de hospitalizados (trauma/ortopedia), no APS. Reemplazo desde 14-09, expira 23-11-2026.
+- **Commit CV:** `fe48dc1d39a41a9433c9e9634e08bdb6dc3b37a7`
+- **Detectada:** 2026-09-14
+
+## OF-20260914-02 — Enfermeros/as reemplazo Urgencias — Puente Alto (XinerLink)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.chiletrabajos.cl/trabajo/3897932
+- **Comuna / zona:** Puente Alto, RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** sueldo base $1.150.000; diurno L–V; colación
+- **Encaje:** Alto — urgencia / centros de atención; SAR y procedimientos del base aplican. Título + SIS + HB. Canal: yohanna.gonzalez@xinerlink.cl (asunto ENFERMEROS/AS PUENTE ALTO). Publicada 11-09, expira 25-11-2026.
+- **Detectada:** 2026-09-14
+
+## OF-20260914-03 — Enfermero(a) GES — Interclínica Cordillera
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.chiletrabajos.cl/trabajo/3896000
+- **Comuna / zona:** Santiago / RM (Interclínica Cordillera)
+- **Fuente:** ChileTrabajos / Interclínica Cordillera
+- **Renta:** no publicada (plazo fijo; expira 22-11-2026)
+- **Encaje:** Medio — gestión y seguimiento GES (≥6 meses); el base es más asistencial APS/SAR que coordinación de garantías. Título + SIS. Publicada 08-09.
+- **Detectada:** 2026-09-14
+
+## OF-20260914-04 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-pabellon-clinica-providencia-cargo-vacante-en-santiago-providencia-1670674301318DF361373E686DCF3405
+- **Comuna / zona:** Providencia, RM (oriente / metro Baquedano)
+- **Fuente:** Computrabajo
+- **Renta:** $1.560.000; 44 h diurno rotativo; temporada
+- **Encaje:** Medio-bajo — piden experiencia en pabellón y BLS; el base no acredita pabellón. SIS y carnet HB sí. Distinto de los pabellones Maipú/San Bernardo ya en cola.
+- **Detectada:** 2026-09-14
+
+## OF-20260914-05 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-B669F5DA6573BC3161373E686DCF3405
+- **Comuna / zona:** Las Condes, RM (oriente)
+- **Fuente:** Computrabajo
+- **Renta:** a convenir; 44 h; plazo fijo; turno Día-Día-Libre-Libre
+- **Encaje:** Medio — clínico hospitalario/oriente, 2 años. Poco detalle de unidad; el base cubre procedimientos y 4° turno. Actualizada hace 7 días.
+- **Detectada:** 2026-09-14
+
+## OF-20260914-06 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-de-pabellon-clinica-meds-la-dehesa-3870080
+- **Comuna / zona:** Lo Barnechea (La Dehesa), RM
+- **Fuente:** ChileTrabajos / Clínica MEDS
+- **Renta:** no publicada (diurno; plazo fijo; expira 04-10-2026)
+- **Encaje:** Medio-bajo — 2 años de pabellón excluyentes; IAAS 80 h sí. Distinto de OF-20260907-08 (urgencias MEDS, bloqueada). ACLS deseable (no acreditado).
+- **Detectada:** 2026-09-14
+
+## OF-20260914-07 — Enfermera volante — red nacional (Step Therapy)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-volante-para-red-nacional-3827614
+- **Comuna / zona:** Santiago / RM (red nacional, asignación según demanda)
+- **Fuente:** ChileTrabajos / Step Therapy
+- **Renta:** no publicada (part-time / por servicio; expira 23-09-2026)
+- **Encaje:** Alto — volante flexible de atenciones de enfermería y educación; domicilio/programas deseable, el base lo cubre. URL distinta de OF-20260827-03 (Kit Empleo). Plazo aún abierto (9 días).
+- **Detectada:** 2026-09-14
+
+## OF-20260914-08 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.trabajando.cl/trabajo/6122212-enfermero-a-volante-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud Santiago
+- **Renta:** no publicada (4° turno 08:00–20:00)
+- **Encaje:** Medio-bajo — pool hospitalario (UTI, Urgencia, Recuperación, MQ). Piden 5 años clínicos, 3 en UPC/urgencia, diplomado de crítico y ACLS; el base es APS/SAR. Distinto de OF-20260831-26 (Vitacura) y OF-20260831-11 (Providencia).
+- **Detectada:** 2026-09-14
+
+## OF-20260914-09 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-14
+- **URL:** https://www.trabajando.cl/trabajo/6118100-enfermera-o-clinico-upc-adulto
+- **Comuna / zona:** La Florida, RM
+- **Fuente:** Trabajando / Clínica Bupa Santiago
+- **Renta:** no publicada (4° turno; 6 vacantes; cierra ~28 días)
+- **Encaje:** Medio-bajo — UPC adulto; experiencia crítica y BLS/ACLS deseables (el base tiene RCP/DEA e IAAS, no UCI). Título + SIS. Publicada ~2 días.
+- **Detectada:** 2026-09-14
+
+## OF-20260907-01 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
+
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-037DB951E316843861373E686DCF3405
@@ -24,10 +133,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — HOSDOM volante: TQT, GTT, ostomías y cobertura en domicilio. El base acredita HOSDOM, postrados y procedimientos. Republicación distinta de OF-20260825-02 (hash nuevo, publicada 07-09).
 - **Commit CV:** `8babe7ab6d89f5c749e3239844d20718678171d3`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Computrabajo Medical Home volantes — «Te postulaste correctamente». Honestas: titulado SIS; sin UCI/UTI; domicilio postrados/Foley/curaciones/muestras; volante RM sí; San Joaquín +56 9 4203 5552. CV de la cuenta.
 
 ## OF-20260907-02 — Enfermera clínica por reemplazo — Centro médico Mall Plaza Norte (Huechuraba)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-por-reemplazo-centro-medico-mall-plaza-norte-en-santiago-providencia-92BAA473E40DF8D961373E686DCF3405
@@ -37,10 +148,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — box, protocolos y supervisión de procesos clínicos en centro médico. El base acredita procedimientos APS y ambulatorio. Publicada 06-09.
 - **Commit CV:** `73bf97b535b58519a628a62a93ff7d55eb3e16e1`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Computrabajo Mall Plaza Norte — «Ya te postulaste a esta oferta» / Aplicación enviada. Honestas: box APS y procedimientos; título U. Central 2021 + SIS; disponibilidad inmediata; San Joaquín +56 9 4203 5552. CV de la cuenta.
 
 ## OF-20260907-03 — Enfermera(o) Urgencia 4° turno — Maipú ($1.400.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-urgencia-4to-turno-renta-liquida-1400000-institucion-de-salud-maipu-en-santiago-maipu-044936B6E510A72D61373E686DCF3405
@@ -50,10 +163,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — urgencia adulto calza con SAR del base. Piden 2 años de urgencia y ACLS/PALS (el base tiene RCP/DEA, no esos cursos). Distinta de las de pabellón Maipú ya en cola.
 - **Commit CV:** `821e96b7f68defa6cece1de8378f58c5765d9bd4`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Computrabajo urgencia Maipú — «Te postulaste correctamente». Honestas: San Joaquín +56 9 4203 5552; título U. Central 2021 + IAAS/RCP; sin 2 años urgencia hospitalaria (SAR/APS sí); sin ACLS/PALS; 4° turno y renta $1.400.000 sí. CV de la cuenta.
 
 ## OF-20260907-04 — Enfermeras/os Urgencias adultos (reemplazo) — Estación Central
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-urgencias-adultos-reemplazo-estacion-central-en-santiago-estacion-central-4C50F33AF6FDDA5B61373E686DCF3405
@@ -63,10 +178,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — urgencias adultos; SAR y procedimientos del base aplican. Experiencia en urgencia pedida.
 - **Commit CV:** `8d45f6424e49ac10fb4e85fbcf37ff3d3bf57736`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Computrabajo urgencias Estación Central — «Te postulaste correctamente». Honestas: título + SIS sí; carnet HB no acreditado; SAR/APS sin urgencia hospitalaria; en búsqueda; San Joaquín +56 9 4203 5552 inmediata. CV de la cuenta.
 
 ## OF-20260907-05 — Enfermera/o toma de muestras volante — Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-toma-muestras-volante-3877083
@@ -76,10 +193,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — volante de muestras y atención de enfermería; el base acredita UTM, antígeno/PCR y movilidad APS. Canal distinto de las volantes ya postuladas en Computrabajo.
 - **Commit CV:** `e5c2ea3427c360d81bbecd0d0e5d3d5e8e691e50`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Postulación por correo a daniela.sanzana@xinerlink.cl (asunto ENFERMER@ UTM VOLANTE) con CV Harvard e5c2ea3. Origen Gmail de Guillermo; CC axel.pfingsten@gmail.com. ChileTrabajos sin cuenta.
 
 ## OF-20260907-06 — EU UTM volante part time RM (sábados y domingos)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/eu-utm-volante-part-time-rm-3877120
@@ -89,10 +208,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — UTM volante fines de semana: consultas, exámenes y procedimientos. El base acredita toma de muestras y ambulatorio.
 - **Commit CV:** `5851744669101c7ac60d897e1e1e44c66030a761`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Postulación por correo a ximena.meza@xinerlink.cl (EU UTM volante PT sáb/dom) con CV Harvard 5851744. Origen Gmail de Guillermo; CC axel.pfingsten@gmail.com. ChileTrabajos sin cuenta.
 
 ## OF-20260907-07 — Enfermero/as centros médicos — Las Condes (reemplazo, toma de muestras)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-as-con-experiencia-en-centros-m-dicos-las-condes-reemplazo-3890323
@@ -102,10 +223,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — centro médico, exámenes y toma de muestras (≥1 año). El base acredita UTM y procedimientos ambulatorios.
 - **Commit CV:** `724b1c3dd3438395b75e0fe7503377768a682ee3`
 - **Detectada:** 2026-09-07
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Aviso XinerLink sin email; postulación por correo a yohanna.gonzalez@xinerlink.cl (centros médicos Las Condes) con CV Harvard 724b1c3. Origen Gmail de Guillermo; CC axel.pfingsten@gmail.com. ChileTrabajos sin cuenta.
 
 ## OF-20260907-08 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-de-urgencias-part-time-cl-nica-meds-la-dehesa-3874660
@@ -115,12 +238,13 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — urgencias; SAR del base aplica. Publicada 30-07, plazo abierto hasta octubre.
 - **Commit CV:** `bed0ccc15f2cd297eba004a75d31a1f0b6091dd7`
 - **Detectada:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — ChileTrabajos sin cuenta; aviso MEDS La Dehesa sin correo ni canal alternativo para enviar el CV. No se crea cuenta (2FA al Gmail de Axel).
 
 ## OF-20260902-01 — Enfermera/o de Atención Directa (domicilio RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-02
+- **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890607
 - **Comuna / zona:** RM (domicilio) + base en Las Condes
 - **Fuente:** ChileTrabajos
@@ -128,6 +252,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — visitas domiciliarias, procedimientos y toma de muestras; el base acredita HOSDOM, UTM y muestras. Piden ≥3 años y muestra pediátrica (el base es más adulto/APS).
 - **Commit CV:** `5f21838638568f06c58ad4f626808a89e7380b6a`
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-07 — ChileTrabajos sin cuenta; aviso Atención Directa (3890607) sin correo ni canal alternativo para enviar el CV.
 
 ## OF-20260902-02 — Enfermera(o) Hospitalización Domiciliaria — Xinermed (RM)
 
@@ -161,9 +286,9 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-04 — Enfermera/o Larga Estadía — Estación Central (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-02
+- **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/3888929
 - **Comuna / zona:** Estación Central, RM
 - **Fuente:** ChileTrabajos / XinerLink
@@ -171,12 +296,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — crónicos, dependencia y procedimientos; el base trae postrados, HOSDOM e IAAS. Deseable neurorrehabilitación (no acreditada).
 - **Commit CV:** `9fbe44ebe347f69811712f943784ffb5716e7234`
 - **Detectada:** 2026-09-02
+- **Fecha postulación:** 2026-09-07
+- **Nota postulación:** 2026-09-07 — Aviso XinerLink sin email; postulación por correo a yohanna.gonzalez@xinerlink.cl (Larga Estadía Estación Central) con CV Harvard 9fbe44e. Origen Gmail de Guillermo; CC axel.pfingsten@gmail.com. ChileTrabajos sin cuenta.
 
 ## OF-20260902-05 — Enfermero Gestor VIR (honorarios) — Unidad Coronaria Móvil
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-02
+- **Revisada:** 2026-09-07
 - **URL:** https://www.trabajando.cl/trabajo/6107276-enfermero-gestor-vir-honorarios
 - **Comuna / zona:** RM (terreno / domicilio / vía pública)
 - **Fuente:** Trabajando / UCM
@@ -184,6 +311,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — prehospitalario y SAR/SAC del base; piden PHTLS, ACLS y PALS (el base tiene RCP/DEA, no esos cursos). Portal: dejó de recibir el 28-08 (≤14 días; gracia de plazo).
 - **Commit CV:** `e3bdbfd0c9c49ad1f6d5d3e910d3ee77bffea07d`
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-07 — Trabajando 6107276 dejó de recibir el 28-08-2026 (≤14 días; no cerrada). Sin Postula fácil usable y sin email en la ficha. No hay canal para enviar el CV.
 
 ## OF-20260902-06 — Enfermera/o de ambulancias (prehospitalario) — Santa Lucía
 
@@ -232,9 +360,9 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260902-09 — Enfermero/a Médico Quirúrgico — Medical Home (licitación DIPRECA)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-02
+- **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890410
 - **Comuna / zona:** Santiago / RM
 - **Fuente:** ChileTrabajos / Clínica Medical Home
@@ -242,12 +370,13 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — piden ≥1 año pabellón y cirugías de alta complejidad (el base no acredita pabellón). Sí hay RCP e IAAS, que el aviso exige vigentes.
 - **Commit CV:** `60489e6b0a876d68fde14f557f77bce1e4a8461a`
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-07 — ChileTrabajos sin cuenta; aviso MQ Medical Home DIPRECA (3890410) sin correo ni canal alternativo para enviar el CV.
 
 ## OF-20260902-10 — Enfermeras/os Pabellón y Recuperación — Medical Home (DIPRECA)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-02
+- **Revisada:** 2026-09-07
 - **URL:** https://www.chiletrabajos.cl/trabajo/3890409
 - **Comuna / zona:** Santiago / RM
 - **Fuente:** ChileTrabajos / Clínica Medical Home
@@ -255,6 +384,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — pabellón y recuperación ≥1 año (excluyente en la práctica). Distinto de las volantes HOSDOM ya postuladas en Medical Home.
 - **Commit CV:** `a8229de7a16343c360922bd01eba62d757c27369`
 - **Detectada:** 2026-09-02
+- **Nota postulación:** 2026-09-07 — ChileTrabajos sin cuenta; aviso Pabellón/Recuperación Medical Home DIPRECA (3890409) sin correo ni canal alternativo para enviar el CV.
 
 ## OF-20260831-01 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home (RM)
 
@@ -428,7 +558,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 - **Estado:** lista_para_postular
 - **Vigencia:** vigente
-- **Revisada:** 2026-08-31
+- **Revisada:** 2026-09-07
 - **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
 - **Comuna / zona:** RM (Santiago)
 - **Fuente:** Indeed / Clínica Medical Home
@@ -436,7 +566,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
 - **Commit CV:** `97b3518d11e32862a1d8c628ee040372ef79d022`
 - **Detectada:** 2026-08-31
-- **Nota postulación:** 2026-08-31 — Indeed Easy Apply abierto (contacto + CV cuenta + preguntas honestas). Bloqueado por reCAPTCHA «No soy un robot»; falta clic Continuar y envío.
+- **Nota postulación:** 2026-09-07 — Indeed Easy Apply sigue bloqueado: Cloudflare «Verificación adicional requerida» (Ray a37725cd9e14c732) + reCAPTCHA del 31-08. Falta que el usuario tome el control, resuelva el challenge e envíe. No se marca bloqueada: el aviso sigue vigente.
 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
