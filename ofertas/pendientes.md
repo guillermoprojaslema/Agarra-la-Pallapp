@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-06 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-de-pabellon-clinica-meds-la-dehesa-3870080
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Clínica MEDS
 - **Renta:** no publicada (diurno; plazo fijo; expira 04-10-2026)
 - **Encaje:** Medio-bajo — 2 años de pabellón excluyentes; IAAS 80 h sí. Distinto de OF-20260907-08 (urgencias MEDS, bloqueada). ACLS deseable (no acreditado).
+- **Commit CV:** `030f1dedced2cbe774d3174eba75a929457ae466`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-07 — Enfermera volante — red nacional (Step Therapy)
