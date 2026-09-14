@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-03 — Enfermero(a) GES — Interclínica Cordillera
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/3896000
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Interclínica Cordillera
 - **Renta:** no publicada (plazo fijo; expira 22-11-2026)
 - **Encaje:** Medio — gestión y seguimiento GES (≥6 meses); el base es más asistencial APS/SAR que coordinación de garantías. Título + SIS. Publicada 08-09.
+- **Commit CV:** `85bb3eb74b091bd4f3ca8bcb0dc69f8f7294d489`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-04 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
