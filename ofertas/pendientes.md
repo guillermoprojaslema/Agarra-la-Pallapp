@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-07 — Enfermera volante — red nacional (Step Therapy)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-volante-para-red-nacional-3827614
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Step Therapy
 - **Renta:** no publicada (part-time / por servicio; expira 23-09-2026)
 - **Encaje:** Alto — volante flexible de atenciones de enfermería y educación; domicilio/programas deseable, el base lo cubre. URL distinta de OF-20260827-03 (Kit Empleo). Plazo aún abierto (9 días).
+- **Commit CV:** `79645bf85e8fc7a38026e8a71c19ed2fcca242df`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-08 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
