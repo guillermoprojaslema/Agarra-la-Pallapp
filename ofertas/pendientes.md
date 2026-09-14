@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-04 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-pabellon-clinica-providencia-cargo-vacante-en-santiago-providencia-1670674301318DF361373E686DCF3405
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** $1.560.000; 44 h diurno rotativo; temporada
 - **Encaje:** Medio-bajo — piden experiencia en pabellón y BLS; el base no acredita pabellón. SIS y carnet HB sí. Distinto de los pabellones Maipú/San Bernardo ya en cola.
+- **Commit CV:** `7037c96e5fbb7802b13099109a1a6acad80f641f`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-05 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
