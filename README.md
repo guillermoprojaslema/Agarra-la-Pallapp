@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
+
+- **URL:** https://www.trabajando.cl/trabajo/6118100-enfermera-o-clinico-upc-adulto
+- **Commit:** `6a2f3b3b2ded99c06a8c71c6b1d5b0904e34480a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UPC, 4° turno, IAAS, RCP, procedimientos
+
+
 ## 2026-09-14 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
 
 - **URL:** https://www.trabajando.cl/trabajo/6122212-enfermero-a-volante-redsalud-santiago
