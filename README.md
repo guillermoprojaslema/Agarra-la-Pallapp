@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermeros/as reemplazo Urgencias — Puente Alto (XinerLink)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3897932
+- **Commit:** `f026e1cd24aae13b27b85695c915173433fb3e1c`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, SAR, procedimientos, SIS, reemplazo
+
+
 ## 2026-09-14 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3896569
