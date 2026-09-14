@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260914-02 — Enfermeros/as reemplazo Urgencias — Puente Alto (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/3897932
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** sueldo base $1.150.000; diurno L–V; colación
 - **Encaje:** Alto — urgencia / centros de atención; SAR y procedimientos del base aplican. Título + SIS + HB. Canal: yohanna.gonzalez@xinerlink.cl (asunto ENFERMEROS/AS PUENTE ALTO). Publicada 11-09, expira 25-11-2026.
+- **Commit CV:** `f026e1cd24aae13b27b85695c915173433fb3e1c`
 - **Detectada:** 2026-09-14
 
 ## OF-20260914-03 — Enfermero(a) GES — Interclínica Cordillera
