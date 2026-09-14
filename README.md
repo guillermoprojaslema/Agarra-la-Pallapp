@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3896569
+- **Commit:** `fe48dc1d39a41a9433c9e9634e08bdb6dc3b37a7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización, 4° turno, IAAS, RCP, SIS
+
+
 ## 2026-09-07 — Enfermera/o de Urgencias part time — Clínica MEDS La Dehesa
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-de-urgencias-part-time-cl-nica-meds-la-dehesa-3874660
