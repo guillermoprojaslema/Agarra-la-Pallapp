@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-14 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
+
+- **URL:** https://www.trabajando.cl/trabajo/6122212-enfermero-a-volante-redsalud-santiago
+- **Commit:** `d3cdce00c3115a5a66f0d8fcd8533f75ea1483d4`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** volante, 4° turno, SAR, IAAS, procedimientos
+
+
 ## 2026-09-14 — Enfermera volante — red nacional (Step Therapy)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-volante-para-red-nacional-3827614
