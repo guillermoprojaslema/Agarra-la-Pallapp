@@ -12,9 +12,142 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
-## OF-20260914-01 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
+## OF-20260929-01 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
 
 - **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-universitaria-o-part-time-fines-de-semana-y-festivos-3905646
+- **Comuna / zona:** RM (domicilio / guardia remota + salidas SOS)
+- **Fuente:** ChileTrabajos / TEVEUCI Homecare
+- **Renta:** $50.000 sáb o dom 12 h; $60.000 festivo irrenunciable; salidas presenciales extra
+- **Encaje:** Alto — hospitalización domiciliaria, orientación clínica y muestras; el base cubre HOSDOM/postrados y Foley. Piden TQT/GTT/VM (no acreditados) y auto propio. Publicada 29-09, expira 13-12-2026.
+- **Commit CV:** `48dc1a46ab47d29bf9c53d293f96951121dfdb03`
+- **Detectada:** 2026-09-29
+
+## OF-20260929-02 — Enfermero(a) clínico(a), pabellones y procedimientos (honorarios) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.trabajando.cl/trabajo/6128515-enfermero-a-clinico-a-pabellones-y-procedimientos-honorarios
+- **Comuna / zona:** Santiago / RM (red UC CHRISTUS)
+- **Fuente:** Trabajando / UC CHRISTUS
+- **Renta:** no publicada (honorarios; cierra ~54 días)
+- **Encaje:** Medio-alto — procedimientos y centros de salud del aviso calzan con box/IAAS del base; pabellón no acreditado. Título + SIS; ~6 meses afín deseable. Publicada ~6 días.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-03 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.trabajando.cl/trabajo/6124340-enfermero-a-urgencia-redsalud-santiago
+- **Comuna / zona:** Estación Central, RM
+- **Fuente:** Trabajando / RedSalud Santiago
+- **Renta:** no publicada (4° turno 08:00–20:00; 4 vacantes)
+- **Encaje:** Medio — SAR/APS del base ayuda en urgencia; piden 2 años urgencia + ACLS/PALS (no acreditados). Distinto de OF-20260914-08 (volante). Publicada ~18 días; aún recibe (~42 días).
+- **Detectada:** 2026-09-29
+
+## OF-20260929-04 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.laborum.cl/empleos/enfermeroa-en-pabellon-central-providencia-clinica-indisa-1118458370.html
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Laborum / Clínica INDISA
+- **Renta:** no publicada (plazo fijo; 40 h, L–V 14:00–22:00)
+- **Encaje:** Medio-bajo — 1 año pabellón/recuperación y HB 3 dosis; el base no acredita pabellón. Título + SIS. Publicada 28-09-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-05 — Enfermero/a de continuidad UCI — hospital Santiago Centro
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.chiletrabajos.cl/trabajo/3385077
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** ChileTrabajos
+- **Renta:** $1.850.000 brutos (honorarios; diurno L–J 08–17, V 08–16)
+- **Encaje:** Medio-bajo — piden 2 años continuidad/supervisión y diplomado de crítico (el base es APS/SAR). Título + SIS. Publicada 29-09, expira 13-12-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-06 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.chiletrabajos.cl/trabajo/3900348
+- **Comuna / zona:** Oriente de Santiago, RM
+- **Fuente:** ChileTrabajos
+- **Renta:** $2.000.000 líquidos (4° turno; plazo fijo)
+- **Encaje:** Medio-bajo — 1 año UTI/crítico excluyente; el base tiene RCP/IAAS, no UCI. SIS + HB. Publicada 17-09, expira 01-12-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-07 — Enfermeras/os unidad esterilización — XinerLink (Santiago)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeras-os-unidad-esterilizacion-full-time-3898437
+- **Comuna / zona:** Santiago / RM
+- **Fuente:** ChileTrabajos / XinerLink
+- **Renta:** $1.400.000 líquidos (4° turno; proporcional)
+- **Encaje:** Medio — IAAS del base aplica; 1–2 años de esterilización excluyentes (no acreditados). Título universitario. Publicada 14-09, expira 28-11-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-08 — Enfermera(o) UCI Adultos — Clínica Dávila Recoleta
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.trabajando.cl/trabajo/6125142-enfermera-o-uci
+- **Comuna / zona:** Recoleta, RM
+- **Fuente:** Trabajando / Clínica Dávila Recoleta
+- **Renta:** no publicada (4° turno; ~1 año UCI adultos)
+- **Encaje:** Medio-bajo — paciente crítico no acreditado; título + SIS sí. Distinto de OF-20260914-09 (Bupa UPC La Florida). Cierra ~45 días.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-09 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.chiletrabajos.cl/trabajo/3868312
+- **Comuna / zona:** Santiago / RM (hospital público)
+- **Fuente:** ChileTrabajos / Sosersa Ltda.
+- **Renta:** ~$1.593.000 brutos (proyecto; 4° turno)
+- **Encaje:** Medio-bajo — 1 año en pabellón similar; el base no acredita pabellón. Expira 08-11-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-10 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-uti-uci-honorarios-clinica-davila-vespucio-1118458988.html
+- **Comuna / zona:** La Florida / sur-oriente RM (Dávila Vespucio)
+- **Fuente:** Laborum / Clínica Dávila Vespucio
+- **Renta:** no publicada (honorarios; 4° turno)
+- **Encaje:** Medio-bajo — 1 año y cursos de crítico deseables (ACLS/IAAS); el base tiene IAAS 80 h y RCP, no UCI. Publicada 28-09-2026.
+- **Detectada:** 2026-09-29
+
+## OF-20260929-11 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-29
+- **URL:** https://www.laborum.cl/empleos/enfermeroa-unidad-de-rescate-urgencia-clinica-davila-vespucio-1118438511.html
+- **Comuna / zona:** La Florida / sur-oriente RM
+- **Fuente:** Laborum / Clínica Dávila Vespucio
+- **Renta:** no publicada
+- **Encaje:** Medio — urgencia/prehospitalario; SAR del base aplica. Piden 1 año urgencias y cursos tipo ACLS/PHTLS (no acreditados). Publicada 11-09-2026 (aún en ventana).
+- **Detectada:** 2026-09-29
+
+## OF-20260914-01 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
+
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/3896569
@@ -24,10 +157,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — no piden experiencia previa; IAAS y RCP del base calzan. Unidad de hospitalizados (trauma/ortopedia), no APS. Reemplazo desde 14-09, expira 23-11-2026.
 - **Commit CV:** `fe48dc1d39a41a9433c9e9634e08bdb6dc3b37a7`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — ChileTrabajos sin cuenta; aviso del Traumatológico sin correo ni espejo Computrabajo/Trabajando. No se crea cuenta (2FA al Gmail de Axel). No se usa el correo de Guillermo.
 
 ## OF-20260914-02 — Enfermeros/as reemplazo Urgencias — Puente Alto (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/3897932
@@ -37,10 +171,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — urgencia / centros de atención; SAR y procedimientos del base aplican. Título + SIS + HB. Canal: yohanna.gonzalez@xinerlink.cl (asunto ENFERMEROS/AS PUENTE ALTO). Publicada 11-09, expira 25-11-2026.
 - **Commit CV:** `f026e1cd24aae13b27b85695c915173433fb3e1c`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — Canal del aviso: yohanna.gonzalez@xinerlink.cl. No se envió: el usuario pidió no postular desde el correo de Guillermo. ChileTrabajos sin cuenta; en Computrabajo no hay espejo EU Puente Alto (solo TENS/técnicos). Pendiente que Axel envíe el CV desde axel.pfingsten@gmail.com.
 
 ## OF-20260914-03 — Enfermero(a) GES — Interclínica Cordillera
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/3896000
@@ -50,11 +185,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — gestión y seguimiento GES (≥6 meses); el base es más asistencial APS/SAR que coordinación de garantías. Título + SIS. Publicada 08-09.
 - **Commit CV:** `85bb3eb74b091bd4f3ca8bcb0dc69f8f7294d489`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — ChileTrabajos sin cuenta; aviso GES Interclínica sin correo ni canal Axel. No se crea cuenta (2FA al Gmail de Axel). No se usa el correo de Guillermo.
 
 ## OF-20260914-04 — Enfermero/a Pabellón — Clínica Providencia (metro Baquedano)
 
-- **Estado:** lista_para_postular
-- **Vigencia:** vigente
+- **Estado:** cerrada
+- **Vigencia:** no_disponible
 - **Revisada:** 2026-09-14
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-pabellon-clinica-providencia-cargo-vacante-en-santiago-providencia-1670674301318DF361373E686DCF3405
 - **Comuna / zona:** Providencia, RM (oriente / metro Baquedano)
@@ -63,11 +199,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — piden experiencia en pabellón y BLS; el base no acredita pabellón. SIS y carnet HB sí. Distinto de los pabellones Maipú/San Bernardo ya en cola.
 - **Commit CV:** `7037c96e5fbb7802b13099109a1a6acad80f641f`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — Computrabajo: «Esta oferta ya no está disponible». Retirada total, sin correo ni canal para enviar el CV.
 
 ## OF-20260914-05 — Enfermero(a) Clínico(a) — Las Condes (turnos 2×2)
 
-- **Estado:** lista_para_postular
-- **Vigencia:** vigente
+- **Estado:** cerrada
+- **Vigencia:** no_disponible
 - **Revisada:** 2026-09-14
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-B669F5DA6573BC3161373E686DCF3405
 - **Comuna / zona:** Las Condes, RM (oriente)
@@ -76,10 +213,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — clínico hospitalario/oriente, 2 años. Poco detalle de unidad; el base cubre procedimientos y 4° turno. Actualizada hace 7 días.
 - **Commit CV:** `d734b4e733855144e225c253282cc50427bad456`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — Computrabajo: «Esta oferta ya no está disponible». Retirada total, sin correo ni canal para enviar el CV.
 
 ## OF-20260914-06 — Enfermero/a de Pabellón — Clínica MEDS La Dehesa
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermero-a-de-pabellon-clinica-meds-la-dehesa-3870080
@@ -89,10 +227,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — 2 años de pabellón excluyentes; IAAS 80 h sí. Distinto de OF-20260907-08 (urgencias MEDS, bloqueada). ACLS deseable (no acreditado).
 - **Commit CV:** `030f1dedced2cbe774d3174eba75a929457ae466`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — ChileTrabajos sin cuenta; aviso MEDS pabellón La Dehesa sin correo ni canal Axel. No se crea cuenta (2FA al Gmail de Axel). No se usa el correo de Guillermo.
 
 ## OF-20260914-07 — Enfermera volante — red nacional (Step Therapy)
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-volante-para-red-nacional-3827614
@@ -102,10 +241,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — volante flexible de atenciones de enfermería y educación; domicilio/programas deseable, el base lo cubre. URL distinta de OF-20260827-03 (Kit Empleo). Plazo aún abierto (9 días).
 - **Commit CV:** `79645bf85e8fc7a38026e8a71c19ed2fcca242df`
 - **Detectada:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — ChileTrabajos sin cuenta; aviso Step Therapy sin correo. El espejo Kit Empleo (OF-20260827-03) ya estaba postulada el 27-08. No se usa el correo de Guillermo.
 
 ## OF-20260914-08 — Enfermero/a Volante — RedSalud Santiago (Estación Central)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.trabajando.cl/trabajo/6122212-enfermero-a-volante-redsalud-santiago
@@ -115,10 +255,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — pool hospitalario (UTI, Urgencia, Recuperación, MQ). Piden 5 años clínicos, 3 en UPC/urgencia, diplomado de crítico y ACLS; el base es APS/SAR. Distinto de OF-20260831-26 (Vitacura) y OF-20260831-11 (Providencia).
 - **Commit CV:** `d3cdce00c3115a5a66f0d8fcd8533f75ea1483d4`
 - **Detectada:** 2026-09-14
+- **Fecha postulación:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — Trabajando 6122212 — «¡Has postulado al empleo!». Cuenta Axel (AP). Honestas: sin UPC/UCI/MQ/recuperación hospitalaria (APS/SAC/SAR y domicilio 2021-2026); renta $1.400.000; contacto axel.pfingsten@gmail.com / +56 9 4203 5552. CV de la cuenta.
 
 ## OF-20260914-09 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-14
 - **URL:** https://www.trabajando.cl/trabajo/6118100-enfermera-o-clinico-upc-adulto
@@ -128,6 +270,8 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — UPC adulto; experiencia crítica y BLS/ACLS deseables (el base tiene RCP/DEA e IAAS, no UCI). Título + SIS. Publicada ~2 días.
 - **Commit CV:** `6a2f3b3b2ded99c06a8c71c6b1d5b0904e34480a`
 - **Detectada:** 2026-09-14
+- **Fecha postulación:** 2026-09-14
+- **Nota postulación:** 2026-09-14 — Trabajando 6118100 — «¡Has postulado al empleo!». Cuenta Axel (AP). Honestas: renta $1.400.000; 4° turno sí; sin UPC/UCI ni ACLS (APS/SAR/domicilio + IAAS y RCP/DEA); contacto axel.pfingsten@gmail.com / +56 9 4203 5552. CV de la cuenta.
 
 ## OF-20260907-01 — Enfermeras/os Volantes atención domiciliaria / RM (Medical Home)
 
@@ -574,7 +718,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
 - **Commit CV:** `97b3518d11e32862a1d8c628ee040372ef79d022`
 - **Detectada:** 2026-08-31
-- **Nota postulación:** 2026-09-07 — Indeed Easy Apply sigue bloqueado: Cloudflare «Verificación adicional requerida» (Ray a37725cd9e14c732) + reCAPTCHA del 31-08. Falta que el usuario tome el control, resuelva el challenge e envíe. No se marca bloqueada: el aviso sigue vigente.
+- **Nota postulación:** 2026-09-14 — Indeed Easy Apply sigue bloqueado: Cloudflare «Verificación adicional requerida» (Ray a3b093ed7b25b602). Falta que el usuario tome el control, resuelva el challenge e envíe. No se marca bloqueada: el aviso sigue vigente. No se usa el correo de Guillermo.
 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
