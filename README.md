@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-universitaria-o-part-time-fines-de-semana-y-festivos-3905646
+- **Commit:** `48dc1a46ab47d29bf9c53d293f96951121dfdb03`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, fines de semana, Foley, toma de muestras, TENS
+
+
 ## 2026-09-14 — Enfermera/o Clínico UPC Adulto — Clínica Bupa Santiago
 
 - **URL:** https://www.trabajando.cl/trabajo/6118100-enfermera-o-clinico-upc-adulto
