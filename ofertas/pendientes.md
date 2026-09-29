@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-05 — Enfermero/a de continuidad UCI — hospital Santiago Centro
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3385077
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos
 - **Renta:** $1.850.000 brutos (honorarios; diurno L–J 08–17, V 08–16)
 - **Encaje:** Medio-bajo — piden 2 años continuidad/supervisión y diplomado de crítico (el base es APS/SAR). Título + SIS. Publicada 29-09, expira 13-12-2026.
+- **Commit CV:** `a3853c052a831145bb434347c24611d9fc71f87d`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-06 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
