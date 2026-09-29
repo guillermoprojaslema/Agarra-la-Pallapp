@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3900348
+- **Commit:** `c67f26537bc4303dc6976ebd72bcdcc408f3ebb3`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTI, 4to turno, IAAS, RCP, procedimientos
+
+
 ## 2026-09-29 — Enfermero/a de continuidad UCI — hospital Santiago Centro
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3385077
