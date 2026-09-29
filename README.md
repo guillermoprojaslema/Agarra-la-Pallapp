@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermeras/os unidad esterilización — XinerLink (Santiago)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermeras-os-unidad-esterilizacion-full-time-3898437
+- **Commit:** `0fb15c20e8f727caea9b02d8130bd6effb7fe3f1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** esterilización, IAAS, bioseguridad, calidad, 4to turno
+
+
 ## 2026-09-29 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3900348
