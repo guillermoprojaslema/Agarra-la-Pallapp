@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
+
+- **URL:** https://www.laborum.cl/empleos/enfermera-o-uti-uci-honorarios-clinica-davila-vespucio-1118458988.html
+- **Commit:** `670d1cc8542e115eaba39a27411261ba43661084`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTI, UCI, honorarios, IAAS, RCP
+
+
 ## 2026-09-29 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/3868312
