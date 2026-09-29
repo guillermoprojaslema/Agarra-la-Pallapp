@@ -14,7 +14,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-01 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-universitaria-o-part-time-fines-de-semana-y-festivos-3905646
@@ -24,10 +24,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — hospitalización domiciliaria, orientación clínica y muestras; el base cubre HOSDOM/postrados y Foley. Piden TQT/GTT/VM (no acreditados) y auto propio. Publicada 29-09, expira 13-12-2026.
 - **Commit CV:** `48dc1a46ab47d29bf9c53d293f96951121dfdb03`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — ChileTrabajos vía LinkedIn SSO de Axel («Postulacion exitosa»). El portal usó el CV del perfil almacenado (subida de PDF bloqueada por CDP).
 
 ## OF-20260929-02 — Enfermero(a) clínico(a), pabellones y procedimientos (honorarios) — UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6128515-enfermero-a-clinico-a-pabellones-y-procedimientos-honorarios
@@ -37,10 +39,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-alto — procedimientos y centros de salud del aviso calzan con box/IAAS del base; pabellón no acreditado. Título + SIS; ~6 meses afín deseable. Publicada ~6 días.
 - **Commit CV:** `8b73220d5a35bde169d2e7591f2fc398486e7db2`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Trabajando UC CHRISTUS; «¡Has postulado!». Honestas: sin pabellón; título U. Central 2021 + SIS; contacto Axel; honorarios sí.
 
 ## OF-20260929-03 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6124340-enfermero-a-urgencia-redsalud-santiago
@@ -50,10 +54,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — SAR/APS del base ayuda en urgencia; piden 2 años urgencia + ACLS/PALS (no acreditados). Distinto de OF-20260914-08 (volante). Publicada ~18 días; aún recibe (~42 días).
 - **Commit CV:** `5f3f4f5d76369ef6ec784092084a73c19a6bd14f`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Trabajando RedSalud Urgencia; «¡Has postulado!». Honestas: SAR/APS no 2 años urgencia hospitalaria; ACLS NO; PALS NO; renta $1.400.000; contacto Axel.
 
 ## OF-20260929-04 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-en-pabellon-central-providencia-clinica-indisa-1118458370.html
@@ -63,10 +69,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — 1 año pabellón/recuperación y HB 3 dosis; el base no acredita pabellón. Título + SIS. Publicada 28-09-2026.
 - **Commit CV:** `cc6b7b128d5e1ecf779cb8f4d6e70139593081a0`
 - **Detectada:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Laborum: SSO LinkedIn no dejó sesión estable; login nativo rechazó la clave de job_credentials; 2FA iría al Gmail de Axel. No se crea cuenta nueva ni se usa el correo de Guillermo. Falta que Axel ingrese el código o complete el login.
 
 ## OF-20260929-05 — Enfermero/a de continuidad UCI — hospital Santiago Centro
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3385077
@@ -76,10 +83,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — piden 2 años continuidad/supervisión y diplomado de crítico (el base es APS/SAR). Título + SIS. Publicada 29-09, expira 13-12-2026.
 - **Commit CV:** `a3853c052a831145bb434347c24611d9fc71f87d`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — ChileTrabajos vía LinkedIn SSO («Postulacion exitosa»). CV del perfil almacenado.
 
 ## OF-20260929-06 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3900348
@@ -89,10 +98,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — 1 año UTI/crítico excluyente; el base tiene RCP/IAAS, no UCI. SIS + HB. Publicada 17-09, expira 01-12-2026.
 - **Commit CV:** `c67f26537bc4303dc6976ebd72bcdcc408f3ebb3`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — ChileTrabajos vía LinkedIn SSO («Postulacion exitosa»). CV del perfil almacenado.
 
 ## OF-20260929-07 — Enfermeras/os unidad esterilización — XinerLink (Santiago)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeras-os-unidad-esterilizacion-full-time-3898437
@@ -102,10 +113,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — IAAS del base aplica; 1–2 años de esterilización excluyentes (no acreditados). Título universitario. Publicada 14-09, expira 28-11-2026.
 - **Commit CV:** `0fb15c20e8f727caea9b02d8130bd6effb7fe3f1`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — ChileTrabajos vía LinkedIn SSO («Postulacion exitosa»). CV del perfil almacenado.
 
 ## OF-20260929-08 — Enfermera(o) UCI Adultos — Clínica Dávila Recoleta
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6125142-enfermera-o-uci
@@ -115,10 +128,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — paciente crítico no acreditado; título + SIS sí. Distinto de OF-20260914-09 (Bupa UPC La Florida). Cierra ~45 días.
 - **Commit CV:** `cfb8b8a83e7a8d3b87c206dc3b21ecf6cbae37bf`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Trabajando Dávila UCI; «¡Has postulado!». Honestas: sin UCI adultos; APS/SAR 2021-2026; renta $1.400.000; contacto Axel. Queda evaluación en línea al correo de Axel.
 
 ## OF-20260929-09 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3868312
@@ -128,10 +143,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — 1 año en pabellón similar; el base no acredita pabellón. Expira 08-11-2026.
 - **Commit CV:** `b1d13e9118c08851cd549f9989f3b44499add78e`
 - **Detectada:** 2026-09-29
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — ChileTrabajos vía LinkedIn SSO («Postulacion exitosa»). CV del perfil almacenado.
 
 ## OF-20260929-10 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-uti-uci-honorarios-clinica-davila-vespucio-1118458988.html
@@ -141,10 +158,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio-bajo — 1 año y cursos de crítico deseables (ACLS/IAAS); el base tiene IAAS 80 h y RCP, no UCI. Publicada 28-09-2026.
 - **Commit CV:** `670d1cc8542e115eaba39a27411261ba43661084`
 - **Detectada:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Laborum: misma barrera que OF-20260929-04 (sesión SSO inestable + 2FA al Gmail de Axel). No se usa el correo de Guillermo.
 
 ## OF-20260929-11 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
 
-- **Estado:** lista_para_postular
+- **Estado:** bloqueada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-unidad-de-rescate-urgencia-clinica-davila-vespucio-1118438511.html
@@ -154,6 +172,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — urgencia/prehospitalario; SAR del base aplica. Piden 1 año urgencias y cursos tipo ACLS/PHTLS (no acreditados). Publicada 11-09-2026 (aún en ventana).
 - **Commit CV:** `8b25dcdbb9be11b8c921154329eab9d027f461d7`
 - **Detectada:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Laborum: misma barrera que OF-20260929-04 (sesión SSO inestable + 2FA al Gmail de Axel). No se usa el correo de Guillermo.
 
 ## OF-20260914-01 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
 
@@ -718,9 +737,9 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260831-12 — Enfermero/a Médico Quirúrgico — Clínica Medical Home (RM)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
-- **Revisada:** 2026-09-07
+- **Revisada:** 2026-09-29
 - **URL:** https://cl.indeed.com/viewjob?jk=897622d088e5f082
 - **Comuna / zona:** RM (Santiago)
 - **Fuente:** Indeed / Clínica Medical Home
@@ -728,7 +747,8 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — MQ hospitalario; IAAS y procedimientos del base ayudan. Distinto de OF-20260826-02 (RedSalud Providencia, ya postulada).
 - **Commit CV:** `97b3518d11e32862a1d8c628ee040372ef79d022`
 - **Detectada:** 2026-08-31
-- **Nota postulación:** 2026-09-14 — Indeed Easy Apply sigue bloqueado: Cloudflare «Verificación adicional requerida» (Ray a3b093ed7b25b602). Falta que el usuario tome el control, resuelva el challenge e envíe. No se marca bloqueada: el aviso sigue vigente. No se usa el correo de Guillermo.
+- **Fecha postulación:** 2026-09-29
+- **Nota postulación:** 2026-09-29 — Indeed muestra botón Applied (deshabilitado) en la ficha; sesión Indeed ya logueada. Antes (14-09) Easy Apply estaba en Cloudflare; hoy el portal registra postulación.
 
 ## OF-20260831-13 — Enfermera IAAS / Epidemiología (reemplazo) — RedSalud Providencia
 
