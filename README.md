@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
+
+- **URL:** https://www.laborum.cl/empleos/enfermeroa-en-pabellon-central-providencia-clinica-indisa-1118458370.html
+- **Commit:** `cc6b7b128d5e1ecf779cb8f4d6e70139593081a0`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, procedimientos, IAAS, SIS, Providencia
+
+
 ## 2026-09-29 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
 
 - **URL:** https://www.trabajando.cl/trabajo/6124340-enfermero-a-urgencia-redsalud-santiago
