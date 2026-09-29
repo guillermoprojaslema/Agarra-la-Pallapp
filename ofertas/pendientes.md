@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-06 — Enfermera UTI (reemplazo licencia materna) — clínica oriente
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3900348
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos
 - **Renta:** $2.000.000 líquidos (4° turno; plazo fijo)
 - **Encaje:** Medio-bajo — 1 año UTI/crítico excluyente; el base tiene RCP/IAAS, no UCI. SIS + HB. Publicada 17-09, expira 01-12-2026.
+- **Commit CV:** `c67f26537bc4303dc6976ebd72bcdcc408f3ebb3`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-07 — Enfermeras/os unidad esterilización — XinerLink (Santiago)
