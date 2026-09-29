@@ -131,7 +131,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-10 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-uti-uci-honorarios-clinica-davila-vespucio-1118458988.html
@@ -139,6 +139,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Laborum / Clínica Dávila Vespucio
 - **Renta:** no publicada (honorarios; 4° turno)
 - **Encaje:** Medio-bajo — 1 año y cursos de crítico deseables (ACLS/IAAS); el base tiene IAAS 80 h y RCP, no UCI. Publicada 28-09-2026.
+- **Commit CV:** `670d1cc8542e115eaba39a27411261ba43661084`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-11 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
