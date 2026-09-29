@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-04 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-en-pabellon-central-providencia-clinica-indisa-1118458370.html
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Laborum / Clínica INDISA
 - **Renta:** no publicada (plazo fijo; 40 h, L–V 14:00–22:00)
 - **Encaje:** Medio-bajo — 1 año pabellón/recuperación y HB 3 dosis; el base no acredita pabellón. Título + SIS. Publicada 28-09-2026.
+- **Commit CV:** `cc6b7b128d5e1ecf779cb8f4d6e70139593081a0`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-05 — Enfermero/a de continuidad UCI — hospital Santiago Centro
