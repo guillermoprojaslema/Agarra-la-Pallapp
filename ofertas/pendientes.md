@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-08 — Enfermera(o) UCI Adultos — Clínica Dávila Recoleta
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6125142-enfermera-o-uci
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / Clínica Dávila Recoleta
 - **Renta:** no publicada (4° turno; ~1 año UCI adultos)
 - **Encaje:** Medio-bajo — paciente crítico no acreditado; título + SIS sí. Distinto de OF-20260914-09 (Bupa UPC La Florida). Cierra ~45 días.
+- **Commit CV:** `cfb8b8a83e7a8d3b87c206dc3b21ecf6cbae37bf`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-09 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
