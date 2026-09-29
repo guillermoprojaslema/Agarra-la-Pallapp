@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3868312
+- **Commit:** `b1d13e9118c08851cd549f9989f3b44499add78e`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** pabellón, 4to turno, IAAS, SIS, procedimientos
+
+
 ## 2026-09-29 — Enfermera(o) UCI Adultos — Clínica Dávila Recoleta
 
 - **URL:** https://www.trabajando.cl/trabajo/6125142-enfermera-o-uci
