@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
+
+- **URL:** https://www.laborum.cl/empleos/enfermeroa-unidad-de-rescate-urgencia-clinica-davila-vespucio-1118438511.html
+- **Commit:** `8b25dcdbb9be11b8c921154329eab9d027f461d7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencia, rescate, SAR, RCP, procedimientos
+
+
 ## 2026-09-29 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
 
 - **URL:** https://www.laborum.cl/empleos/enfermera-o-uti-uci-honorarios-clinica-davila-vespucio-1118458988.html
