@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-02 — Enfermero(a) clínico(a), pabellones y procedimientos (honorarios) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6128515-enfermero-a-clinico-a-pabellones-y-procedimientos-honorarios
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / UC CHRISTUS
 - **Renta:** no publicada (honorarios; cierra ~54 días)
 - **Encaje:** Medio-alto — procedimientos y centros de salud del aviso calzan con box/IAAS del base; pabellón no acreditado. Título + SIS; ~6 meses afín deseable. Publicada ~6 días.
+- **Commit CV:** `8b73220d5a35bde169d2e7591f2fc398486e7db2`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-03 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
