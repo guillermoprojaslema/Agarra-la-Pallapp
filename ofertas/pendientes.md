@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-07 — Enfermeras/os unidad esterilización — XinerLink (Santiago)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermeras-os-unidad-esterilizacion-full-time-3898437
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / XinerLink
 - **Renta:** $1.400.000 líquidos (4° turno; proporcional)
 - **Encaje:** Medio — IAAS del base aplica; 1–2 años de esterilización excluyentes (no acreditados). Título universitario. Publicada 14-09, expira 28-11-2026.
+- **Commit CV:** `0fb15c20e8f727caea9b02d8130bd6effb7fe3f1`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-08 — Enfermera(o) UCI Adultos — Clínica Dávila Recoleta
