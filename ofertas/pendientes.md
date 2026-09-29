@@ -144,7 +144,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-11 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-unidad-de-rescate-urgencia-clinica-davila-vespucio-1118438511.html
@@ -152,6 +152,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Laborum / Clínica Dávila Vespucio
 - **Renta:** no publicada
 - **Encaje:** Medio — urgencia/prehospitalario; SAR del base aplica. Piden 1 año urgencias y cursos tipo ACLS/PHTLS (no acreditados). Publicada 11-09-2026 (aún en ventana).
+- **Commit CV:** `8b25dcdbb9be11b8c921154329eab9d027f461d7`
 - **Detectada:** 2026-09-29
 
 ## OF-20260914-01 — Reemplazo Enfermera(o) 4° turno — Instituto Traumatológico (hospitalizados)
