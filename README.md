@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermero/a de continuidad UCI — hospital Santiago Centro
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/3385077
+- **Commit:** `a3853c052a831145bb434347c24611d9fc71f87d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** continuidad, UCI, coordinación, calidad, IAAS
+
+
 ## 2026-09-29 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
 
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-en-pabellon-central-providencia-clinica-indisa-1118458370.html
