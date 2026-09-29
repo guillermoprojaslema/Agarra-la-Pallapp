@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
+
+- **URL:** https://www.trabajando.cl/trabajo/6124340-enfermero-a-urgencia-redsalud-santiago
+- **Commit:** `5f3f4f5d76369ef6ec784092084a73c19a6bd14f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencia, 4to turno, SAR, IAAS, RCP
+
+
 ## 2026-09-29 — Enfermero(a) clínico(a), pabellones y procedimientos (honorarios) — UC CHRISTUS
 
 - **URL:** https://www.trabajando.cl/trabajo/6128515-enfermero-a-clinico-a-pabellones-y-procedimientos-honorarios
