@@ -118,7 +118,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-09 — Enfermeras/os pabellón 4° turno — hospital público (Sosersa)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.chiletrabajos.cl/trabajo/3868312
@@ -126,6 +126,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** ChileTrabajos / Sosersa Ltda.
 - **Renta:** ~$1.593.000 brutos (proyecto; 4° turno)
 - **Encaje:** Medio-bajo — 1 año en pabellón similar; el base no acredita pabellón. Expira 08-11-2026.
+- **Commit CV:** `b1d13e9118c08851cd549f9989f3b44499add78e`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-10 — Enfermera(o) UTI-UCI honorarios — Clínica Dávila Vespucio
