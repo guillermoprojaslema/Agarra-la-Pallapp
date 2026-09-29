@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260929-03 — Enfermero/a Urgencia — RedSalud Santiago (Estación Central)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-29
 - **URL:** https://www.trabajando.cl/trabajo/6124340-enfermero-a-urgencia-redsalud-santiago
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / RedSalud Santiago
 - **Renta:** no publicada (4° turno 08:00–20:00; 4 vacantes)
 - **Encaje:** Medio — SAR/APS del base ayuda en urgencia; piden 2 años urgencia + ACLS/PALS (no acreditados). Distinto de OF-20260914-08 (volante). Publicada ~18 días; aún recibe (~42 días).
+- **Commit CV:** `5f3f4f5d76369ef6ec784092084a73c19a6bd14f`
 - **Detectada:** 2026-09-29
 
 ## OF-20260929-04 — Enfermero(a) Pabellón Central — Clínica INDISA Providencia
