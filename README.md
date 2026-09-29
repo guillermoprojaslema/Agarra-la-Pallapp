@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-29 — Enfermero(a) clínico(a), pabellones y procedimientos (honorarios) — UC CHRISTUS
+
+- **URL:** https://www.trabajando.cl/trabajo/6128515-enfermero-a-clinico-a-pabellones-y-procedimientos-honorarios
+- **Commit:** `8b73220d5a35bde169d2e7591f2fc398486e7db2`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, honorarios, IAAS, SIS, centros de salud
+
+
 ## 2026-09-29 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-universitaria-o-part-time-fines-de-semana-y-festivos-3905646
