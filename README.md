@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios)
+
+- **URL:** https://www.trabajando.cl/trabajo/6127465-enfermero-a-cma-clinica-providencia-honorarios
+- **Commit:** `8989b3ba597a5f24eec3de2fa176ff1948d51a64`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** CMA, ambulatorio, procedimientos, SIS, part time
+
+
 ## 2026-09-30 — Enfermera Policlínico Sector Norte RM (salud ocupacional)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-policlinico-sector-norte-rm-en-santiago-quilicura-ECD87C1BC968DF8561373E686DCF3405
