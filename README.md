@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermera/o Clínica/o — centro médico ambulatorio Providencia
+
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-clinica-o-3723681
+- **Commit:** `a4387ad039163f4c2dea663f8c39e53cef25199e`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, ambulatorio, toma de muestras, calidad, SIS
+
+
 ## 2026-09-29 — Enfermero(a) unidad de rescate / urgencia — Clínica Dávila Vespucio
 
 - **URL:** https://www.laborum.cl/empleos/enfermeroa-unidad-de-rescate-urgencia-clinica-davila-vespucio-1118438511.html
