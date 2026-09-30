@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260930-02 — Enfermera Policlínico Sector Norte RM (salud ocupacional)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-policlinico-sector-norte-rm-en-santiago-quilicura-ECD87C1BC968DF8561373E686DCF3405
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** $1.599.999 mensual (4° turno; 42 h; plazo fijo)
 - **Encaje:** Medio — policlínico con procedimientos, atención inicial y seguimiento; cercano a APS ambulatoria. Experiencia ocupacional/policlínico laboral (3 años) no acreditada en el base. Actualizada hace horas.
+- **Commit CV:** `6dba0ae514f32f9382d512a527fc840942c49a34`
 - **Detectada:** 2026-09-30
 
 ## OF-20260930-03 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios, part time)
