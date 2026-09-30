@@ -12,6 +12,79 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
+## OF-20260930-01 — Enfermera/o Clínica/o — centro médico ambulatorio (procedimientos) Providencia
+
+- **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-clinica-o-3723681
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** ChileTrabajos
+- **Renta:** no publicada (plazo fijo; L–S jornada completa)
+- **Encaje:** Alto — supervisión y ejecución de procedimientos ambulatorios, toma de muestras y calidad; calza con box/APS/IAAS del base. Piden ≥3 años ambulatorio/UTM y formación en calidad (parcial vs base). Publicada ~28-09; expira ~12-12-2026.
+- **Commit CV:** `a4387ad039163f4c2dea663f8c39e53cef25199e`
+- **Detectada:** 2026-09-30
+
+## OF-20260930-02 — Enfermera Policlínico Sector Norte RM (salud ocupacional)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-policlinico-sector-norte-rm-en-santiago-quilicura-ECD87C1BC968DF8561373E686DCF3405
+- **Comuna / zona:** Quilicura / sector norte RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.599.999 mensual (4° turno; 42 h; plazo fijo)
+- **Encaje:** Medio — policlínico con procedimientos, atención inicial y seguimiento; cercano a APS ambulatoria. Experiencia ocupacional/policlínico laboral (3 años) no acreditada en el base. Actualizada hace horas.
+- **Detectada:** 2026-09-30
+
+## OF-20260930-03 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios, part time)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://www.trabajando.cl/trabajo/6127465-enfermero-a-cma-clinica-providencia-honorarios
+- **Comuna / zona:** Providencia, RM
+- **Fuente:** Trabajando / Clínica Santa María
+- **Renta:** no publicada (part time / honorarios; 2 vacantes; cierra ~52 días)
+- **Encaje:** Alto — enfermería ambulatoria en centro médico adulto: atención directa, educación, solicitudes de exámenes/procedimientos. SIS + HB; deseable ambulatorio (base APS/box). Publicada hace ~8 días.
+- **Detectada:** 2026-09-30
+
+## OF-20260930-04 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7F98B785C8FC4B0661373E686DCF3405
+- **Comuna / zona:** RM (base Recoleta; cobertura multicomuna)
+- **Fuente:** Computrabajo / Clínica Medical Home
+- **Renta:** a convenir (jornada extraordinaria / volante)
+- **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación reciente (ayer); distinta URL a OF-20260907-01 / OF-20260831-01.
+- **Detectada:** 2026-09-30
+
+## OF-20260930-05 — Enfermera(o) Clínica(o) Gastroenterología (reemplazo LM) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-gastroenterologia-reemplazo-licencia-medica-en-santiago-centro-3E2801EB5D43CFBC61373E686DCF3405
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** Computrabajo / UC CHRISTUS ambulatorio
+- **Renta:** a convenir (plazo fijo; 42 h diurna rotativa L–V / L–S)
+- **Encaje:** Medio — procedimientos y actividad asistencial ambulatoria; el base no acredita gastro (excluyente). Título + SIS; ~2 años. Actualizada hace ~2 días.
+- **Detectada:** 2026-09-30
+
+## OF-20260930-06 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-09-30
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-cardiologia-reemplazo-licencia-medica-en-santiago-centro-0F95679E7E13EB8761373E686DCF3405
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** Computrabajo / UC CHRISTUS ambulatorio
+- **Renta:** a convenir (plazo fijo; 42 h diurna rotativa L–V / L–S)
+- **Encaje:** Medio — procedimientos cardiológicos ambulatorios; distinto de OF-20260825-34 (otra URL/reemplazo). Experiencia cardio excluyente (gap vs base). Actualizada hace ~2 días.
+- **Detectada:** 2026-09-30
+
 ## OF-20260929-01 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
 
 - **Estado:** postulada
