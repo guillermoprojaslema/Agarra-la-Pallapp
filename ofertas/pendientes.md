@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260930-05 — Enfermera(o) Clínica(o) Gastroenterología (reemplazo LM) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-gastroenterologia-reemplazo-licencia-medica-en-santiago-centro-3E2801EB5D43CFBC61373E686DCF3405
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS ambulatorio
 - **Renta:** a convenir (plazo fijo; 42 h diurna rotativa L–V / L–S)
 - **Encaje:** Medio — procedimientos y actividad asistencial ambulatoria; el base no acredita gastro (excluyente). Título + SIS; ~2 años. Actualizada hace ~2 días.
+- **Commit CV:** `23ae4d968d173c0047a276b979ecf042aa546d2f`
 - **Detectada:** 2026-09-30
 
 ## OF-20260930-06 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
