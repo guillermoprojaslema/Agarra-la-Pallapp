@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermera Policlínico Sector Norte RM (salud ocupacional)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-policlinico-sector-norte-rm-en-santiago-quilicura-ECD87C1BC968DF8561373E686DCF3405
+- **Commit:** `6dba0ae514f32f9382d512a527fc840942c49a34`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** policlínico, salud ocupacional, procedimientos, IAAS, 4to turno
+
+
 ## 2026-09-30 — Enfermera/o Clínica/o — centro médico ambulatorio Providencia
 
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-clinica-o-3723681
