@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260930-03 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios, part time)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://www.trabajando.cl/trabajo/6127465-enfermero-a-cma-clinica-providencia-honorarios
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Trabajando / Clínica Santa María
 - **Renta:** no publicada (part time / honorarios; 2 vacantes; cierra ~52 días)
 - **Encaje:** Alto — enfermería ambulatoria en centro médico adulto: atención directa, educación, solicitudes de exámenes/procedimientos. SIS + HB; deseable ambulatorio (base APS/box). Publicada hace ~8 días.
+- **Commit CV:** `8989b3ba597a5f24eec3de2fa176ff1948d51a64`
 - **Detectada:** 2026-09-30
 
 ## OF-20260930-04 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
