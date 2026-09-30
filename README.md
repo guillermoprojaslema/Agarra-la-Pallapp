@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermera(o) Clínica(o) Gastroenterología (reemplazo LM) — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-gastroenterologia-reemplazo-licencia-medica-en-santiago-centro-3E2801EB5D43CFBC61373E686DCF3405
+- **Commit:** `23ae4d968d173c0047a276b979ecf042aa546d2f`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** gastroenterología, procedimientos, ambulatorio, IAAS, SIS
+
+
 ## 2026-09-30 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7F98B785C8FC4B0661373E686DCF3405
