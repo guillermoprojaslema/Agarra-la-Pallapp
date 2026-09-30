@@ -14,7 +14,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260930-01 — Enfermera/o Clínica/o — centro médico ambulatorio (procedimientos) Providencia
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://www.chiletrabajos.cl/trabajo/enfermera-o-clinica-o-3723681
@@ -24,10 +24,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — supervisión y ejecución de procedimientos ambulatorios, toma de muestras y calidad; calza con box/APS/IAAS del base. Piden ≥3 años ambulatorio/UTM y formación en calidad (parcial vs base). Publicada ~28-09; expira ~12-12-2026.
 - **Commit CV:** `a4387ad039163f4c2dea663f8c39e53cef25199e`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — ChileTrabajos («Postulacion exitosa»). CV del perfil almacenado (subida PDF bloqueada por CDP).
 
 ## OF-20260930-02 — Enfermera Policlínico Sector Norte RM (salud ocupacional)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-policlinico-sector-norte-rm-en-santiago-quilicura-ECD87C1BC968DF8561373E686DCF3405
@@ -37,10 +39,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — policlínico con procedimientos, atención inicial y seguimiento; cercano a APS ambulatoria. Experiencia ocupacional/policlínico laboral (3 años) no acreditada en el base. Actualizada hace horas.
 - **Commit CV:** `6dba0ae514f32f9382d512a527fc840942c49a34`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — Computrabajo; «Postulado» (Ahora) en Mis postulaciones. Honestas: sin 3 años policlínico laboral; APS/procedimientos; renta ~$1.600.000; contacto Axel.
 
 ## OF-20260930-03 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios, part time)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://www.trabajando.cl/trabajo/6127465-enfermero-a-cma-clinica-providencia-honorarios
@@ -50,10 +54,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — enfermería ambulatoria en centro médico adulto: atención directa, educación, solicitudes de exámenes/procedimientos. SIS + HB; deseable ambulatorio (base APS/box). Publicada hace ~8 días.
 - **Commit CV:** `8989b3ba597a5f24eec3de2fa176ff1948d51a64`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — Trabajando («¡Has postulado!»). Respuestas: ambulatorio APS; part-time/honorarios sí; renta por turno acorde mercado.
 
 ## OF-20260930-04 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7F98B785C8FC4B0661373E686DCF3405
@@ -63,10 +69,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación reciente (ayer); distinta URL a OF-20260907-01 / OF-20260831-01.
 - **Commit CV:** `262b972d852a68472778738247e014a04b0f91c3`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — Computrabajo («Te postulaste correctamente»). Honestas: sin UCI/UTI ni TQT/VM; sí volante RM, TENS, titulado SIS; La Florida + contacto Axel.
 
 ## OF-20260930-05 — Enfermera(o) Clínica(o) Gastroenterología (reemplazo LM) — UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-gastroenterologia-reemplazo-licencia-medica-en-santiago-centro-3E2801EB5D43CFBC61373E686DCF3405
@@ -76,10 +84,12 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — procedimientos y actividad asistencial ambulatoria; el base no acredita gastro (excluyente). Título + SIS; ~2 años. Actualizada hace ~2 días.
 - **Commit CV:** `23ae4d968d173c0047a276b979ecf042aa546d2f`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — Computrabajo («Te postulaste correctamente»). Honestas: sin experiencia gastro; sí reemplazo LM; renta $1.400.000; U. Central + contacto Axel.
 
 ## OF-20260930-06 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-cardiologia-reemplazo-licencia-medica-en-santiago-centro-0F95679E7E13EB8761373E686DCF3405
@@ -89,6 +99,8 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — procedimientos cardiológicos ambulatorios; distinto de OF-20260825-34 (otra URL/reemplazo). Experiencia cardio excluyente (gap vs base). Actualizada hace ~2 días.
 - **Commit CV:** `a137c3b604045bb1ff7e0cebe572694c3815dce7`
 - **Detectada:** 2026-09-30
+- **Fecha postulación:** 2026-09-30
+- **Nota postulación:** 2026-09-30 — Computrabajo («Te postulaste correctamente»). Honestas: sin experiencia/curso cardio; sí reemplazo LM; renta $1.400.000; U. Central + contacto Axel.
 
 ## OF-20260929-01 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
 
