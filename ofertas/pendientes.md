@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20260930-06 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-09-30
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-cardiologia-reemplazo-licencia-medica-en-santiago-centro-0F95679E7E13EB8761373E686DCF3405
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS ambulatorio
 - **Renta:** a convenir (plazo fijo; 42 h diurna rotativa L–V / L–S)
 - **Encaje:** Medio — procedimientos cardiológicos ambulatorios; distinto de OF-20260825-34 (otra URL/reemplazo). Experiencia cardio excluyente (gap vs base). Actualizada hace ~2 días.
+- **Commit CV:** `a137c3b604045bb1ff7e0cebe572694c3815dce7`
 - **Detectada:** 2026-09-30
 
 ## OF-20260929-01 — Enfermera/o universitaria/o part-time (fines de semana y festivos) — TEVEUCI Homecare
