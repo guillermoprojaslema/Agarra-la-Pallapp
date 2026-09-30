@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermeras/os Volantes atención domiciliaria — Clínica Medical Home
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7F98B785C8FC4B0661373E686DCF3405
+- **Commit:** `262b972d852a68472778738247e014a04b0f91c3`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** hospitalización domiciliaria, volante, curaciones, Foley, APS
+
+
 ## 2026-09-30 — Enfermero/a CMA — Clínica Providencia / Santa María (honorarios)
 
 - **URL:** https://www.trabajando.cl/trabajo/6127465-enfermero-a-cma-clinica-providencia-honorarios
