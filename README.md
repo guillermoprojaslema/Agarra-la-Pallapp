@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-09-30 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-cardiologia-reemplazo-licencia-medica-en-santiago-centro-0F95679E7E13EB8761373E686DCF3405
+- **Commit:** `a137c3b604045bb1ff7e0cebe572694c3815dce7`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** cardiología, procedimientos, ambulatorio, IAAS, SIS
+
+
 ## 2026-09-30 — Enfermera(o) Clínica(o) Gastroenterología (reemplazo LM) — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-gastroenterologia-reemplazo-licencia-medica-en-santiago-centro-3E2801EB5D43CFBC61373E686DCF3405
