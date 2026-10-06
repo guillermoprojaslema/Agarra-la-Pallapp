@@ -131,7 +131,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-10 — Enfermer@ Clínica — Macul ($1.000.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-enfermeria-en-santiago-macul-F282D29F9FC8458661373E686DCF3405
@@ -139,6 +139,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** $1.000.000 mensual (plazo fijo; 40 h)
 - **Encaje:** Medio — clínica multidisciplinaria en Macul; el base aporta box/APS. Piden ~5 años de experiencia (gap vs trayectoria del base). Actualizado 28-09 / vigente en listado.
+- **Commit CV:** `7dff8c52c173a82dffeb7351a3e6879a2fd89f29`
 - **Detectada:** 2026-10-06
 
 ## OF-20260930-01 — Enfermera/o Clínica/o — centro médico ambulatorio (procedimientos) Providencia
