@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-08 — Enfermero(a) Clínico(a) — Las Condes / oriente
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-86926FE1E1410F8461373E686DCF3405
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink (listado)
 - **Renta:** ~$1.300.000 mensual (turno rotativo Día-Día-Libre-Libre; ≥2 años)
 - **Encaje:** Medio — rol clínico hospitalario/residencial oriente; SAR y procedimientos del base ayudan; sin UCI/MQ acreditado. Actualizado hoy.
+- **Commit CV:** `f480252dcc788f539647d17c9cbf73aba7615473`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-09 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
