@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-talagante-en-talagante-8B8BC02C67961E9C61373E686DCF3405
+- **Commit:** `ad1ec24681ee81453f0ab79528562bb70befd6b5`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** Talagante, procedimientos, APS, box, SIS
+
+
 ## 2026-10-06 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-toma-de-muestras-reemplazo-de-verano-clinica-san-carlos-59153EDBCA5E442861373E686DCF3405
