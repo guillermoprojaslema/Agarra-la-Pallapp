@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-toma-de-muestras-reemplazo-de-verano-clinica-san-carlos-59153EDBCA5E442861373E686DCF3405
+- **Commit:** `fbd068e1d2564082d4cae6cbf606783c70eb6390`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTM, toma de muestras, diurno, IAAS, San Carlos
+
+
 ## 2026-10-06 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-en-santiago-estacion-central-C60DDA6E4A6BACAA61373E686DCF3405
