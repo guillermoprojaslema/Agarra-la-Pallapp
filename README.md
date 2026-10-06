@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-unidad-ambulatoria-melipilla-en-melipilla-24ABC2EABFC640ED61373E686DCF3405
+- **Commit:** `280e26d5d920e94d9685fbbb357a75a4c322d7f1`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** ambulatorio, Melipilla, APS, procedimientos, gestión del cuidado
+
+
 ## 2026-10-06 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-talagante-en-talagante-8B8BC02C67961E9C61373E686DCF3405
