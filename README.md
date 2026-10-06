@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-diurno-horario-pm-las-condes-en-santiago-penalolen-D70373257B30160D61373E686DCF3405
+- **Commit:** `656070da4134329c4b02379321409f5c81f7557d`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** coordinación, diurno, Las Condes, calidad, APS
+
+
 ## 2026-10-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-unidad-ambulatoria-melipilla-en-melipilla-24ABC2EABFC640ED61373E686DCF3405
