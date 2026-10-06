@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-en-santiago-estacion-central-C60DDA6E4A6BACAA61373E686DCF3405
+- **Commit:** `f707e0891b112a50d37d4b1c3c8a738a075f19eb`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** UTM, toma de muestras, volante, ambulatorio, UC CHRISTUS
+
+
 ## 2026-10-06 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7E0291D6D09C7AEF61373E686DCF3405
