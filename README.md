@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-volantes-experiencia-toma-de-muestra-reemplazo-en-santiago-estacion-central-564D5E6C0867A34E61373E686DCF3405
+- **Commit:** `e1b4eca580df96b25110c8b48b87fad56459bf52`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, UTM, volante, APS, IAAS
+
+
 ## 2026-09-30 — Enfermera(o) Clínica(o) Cardiología (reemplazo LM) — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-clinicao-cardiologia-reemplazo-licencia-medica-en-santiago-centro-0F95679E7E13EB8761373E686DCF3405
