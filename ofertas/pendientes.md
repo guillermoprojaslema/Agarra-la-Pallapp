@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-unidad-ambulatoria-melipilla-en-melipilla-24ABC2EABFC640ED61373E686DCF3405
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** no confiable en listado (placeholder); proyecto/reemplazo
 - **Encaje:** Alto — unidad ambulatoria / gestión del cuidado; calza con APS y procedimientos del base. Publicado ayer.
+- **Commit CV:** `280e26d5d920e94d9685fbbb357a75a4c322d7f1`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-07 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
