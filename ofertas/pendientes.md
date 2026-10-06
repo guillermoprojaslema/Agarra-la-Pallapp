@@ -118,7 +118,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-09 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidado-584F4C5A0CC1DED861373E686DCF3405
@@ -126,6 +126,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** $1.400.000 líquido (4° turno; experiencia Medicina cuidados medios excluyente)
 - **Encaje:** Medio — cuidados medios hospitalarios; SAR/procedimientos del base ayudan. Republicación con URL distinta a OF-20260902-08 (ya postulada).
+- **Commit CV:** `a779f51f86dd7201ea4229204a99c1673458164c`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-10 — Enfermer@ Clínica — Macul ($1.000.000)
