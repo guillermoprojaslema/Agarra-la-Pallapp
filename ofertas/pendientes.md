@@ -12,6 +12,127 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
+## OF-20261006-01 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
+
+- **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-volantes-experiencia-toma-de-muestra-reemplazo-en-santiago-estacion-central-564D5E6C0867A34E61373E686DCF3405
+- **Comuna / zona:** Estación Central / cobertura RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $1.100.000 mensual (volante; reemplazo)
+- **Encaje:** Alto — UTM/volante de muestras; el base acredita toma de muestras, antígeno/PCR y movilidad APS. Publicado ayer.
+- **Commit CV:** `e1b4eca580df96b25110c8b48b87fad56459bf52`
+- **Detectada:** 2026-10-06
+
+## OF-20261006-02 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7E0291D6D09C7AEF61373E686DCF3405
+- **Comuna / zona:** RM (base Recoleta; cobertura multicomuna)
+- **Fuente:** Computrabajo / Clínica Medical Home
+- **Renta:** a convenir (jornada extraordinaria / volante; listado muestra ~$1.300.000)
+- **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación con URL nueva vs OF-20260930-04 / OF-20260907-01.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-03 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-en-santiago-estacion-central-C60DDA6E4A6BACAA61373E686DCF3405
+- **Comuna / zona:** Estación Central / UTM RM (listado UC CHRISTUS ambulatorio)
+- **Fuente:** Computrabajo / Red salud UC CHRISTUS
+- **Renta:** $1.100.000 mensual (42 h; otro tipo de contrato)
+- **Encaje:** Alto — UTM volante pre/post natal; el base acredita muestras y box/APS. Publicado ayer.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-04 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-toma-de-muestras-reemplazo-de-verano-clinica-san-carlos-59153EDBCA5E442861373E686DCF3405
+- **Comuna / zona:** Las Condes / Clínica San Carlos (UC CHRISTUS)
+- **Fuente:** Computrabajo / Red salud UC CHRISTUS
+- **Renta:** ~$1.160.000 mensual (diurno; plazo fijo; 42 h)
+- **Encaje:** Alto — UTM diurna de reemplazo estival; calza con muestras y ambulatorio del base. Publicado hace ~2 días / actualizado ayer.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-05 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-talagante-en-talagante-8B8BC02C67961E9C61373E686DCF3405
+- **Comuna / zona:** Talagante, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $75.000 (según aviso; reemplazo con posible extensión)
+- **Encaje:** Medio-alto — atención directa y supervisión de procedimientos en institución de salud; cercano a APS/box. Publicado ayer.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-unidad-ambulatoria-melipilla-en-melipilla-24ABC2EABFC640ED61373E686DCF3405
+- **Comuna / zona:** Melipilla, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** no confiable en listado (placeholder); proyecto/reemplazo
+- **Encaje:** Alto — unidad ambulatoria / gestión del cuidado; calza con APS y procedimientos del base. Publicado ayer.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-07 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-diurno-horario-pm-las-condes-en-santiago-penalolen-D70373257B30160D61373E686DCF3405
+- **Comuna / zona:** Las Condes, RM (ficha indexada Peñalolén)
+- **Fuente:** Computrabajo
+- **Renta:** no publicada (plazo fijo; 44 h; ≥1 año)
+- **Encaje:** Medio — diurno PM en coordinación de institución de salud; el base aporta box/APS más que coordinación formal. Publicado ayer.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-08 — Enfermero(a) Clínico(a) — Las Condes / oriente
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-86926FE1E1410F8461373E686DCF3405
+- **Comuna / zona:** Las Condes / sector oriente, RM
+- **Fuente:** Computrabajo / XinerLink (listado)
+- **Renta:** ~$1.300.000 mensual (turno rotativo Día-Día-Libre-Libre; ≥2 años)
+- **Encaje:** Medio — rol clínico hospitalario/residencial oriente; SAR y procedimientos del base ayudan; sin UCI/MQ acreditado. Actualizado hoy.
+- **Detectada:** 2026-10-06
+
+## OF-20261006-09 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidado-584F4C5A0CC1DED861373E686DCF3405
+- **Comuna / zona:** Peñalolén, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.400.000 líquido (4° turno; experiencia Medicina cuidados medios excluyente)
+- **Encaje:** Medio — cuidados medios hospitalarios; SAR/procedimientos del base ayudan. Republicación con URL distinta a OF-20260902-08 (ya postulada).
+- **Detectada:** 2026-10-06
+
+## OF-20261006-10 — Enfermer@ Clínica — Macul ($1.000.000)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-06
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-enfermeria-en-santiago-macul-F282D29F9FC8458661373E686DCF3405
+- **Comuna / zona:** Macul, RM
+- **Fuente:** Computrabajo
+- **Renta:** $1.000.000 mensual (plazo fijo; 40 h)
+- **Encaje:** Medio — clínica multidisciplinaria en Macul; el base aporta box/APS. Piden ~5 años de experiencia (gap vs trayectoria del base). Actualizado 28-09 / vigente en listado.
+- **Detectada:** 2026-10-06
+
 ## OF-20260930-01 — Enfermera/o Clínica/o — centro médico ambulatorio (procedimientos) Providencia
 
 - **Estado:** postulada
