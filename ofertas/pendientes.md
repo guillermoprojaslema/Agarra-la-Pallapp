@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-07 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-diurno-horario-pm-las-condes-en-santiago-penalolen-D70373257B30160D61373E686DCF3405
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo
 - **Renta:** no publicada (plazo fijo; 44 h; ≥1 año)
 - **Encaje:** Medio — diurno PM en coordinación de institución de salud; el base aporta box/APS más que coordinación formal. Publicado ayer.
+- **Commit CV:** `656070da4134329c4b02379321409f5c81f7557d`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-08 — Enfermero(a) Clínico(a) — Las Condes / oriente
