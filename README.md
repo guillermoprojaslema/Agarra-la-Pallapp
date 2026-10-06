@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermer@ Clínica — Macul ($1.000.000)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-enfermeria-en-santiago-macul-F282D29F9FC8458661373E686DCF3405
+- **Commit:** `7dff8c52c173a82dffeb7351a3e6879a2fd89f29`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínica, Macul, procedimientos, APS, IAAS
+
+
 ## 2026-10-06 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidado-584F4C5A0CC1DED861373E686DCF3405
