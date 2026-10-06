@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-03 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-en-santiago-estacion-central-C60DDA6E4A6BACAA61373E686DCF3405
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Red salud UC CHRISTUS
 - **Renta:** $1.100.000 mensual (42 h; otro tipo de contrato)
 - **Encaje:** Alto — UTM volante pre/post natal; el base acredita muestras y box/APS. Publicado ayer.
+- **Commit CV:** `f707e0891b112a50d37d4b1c3c8a738a075f19eb`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-04 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
