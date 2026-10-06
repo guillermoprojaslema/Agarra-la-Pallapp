@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-04 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-toma-de-muestras-reemplazo-de-verano-clinica-san-carlos-59153EDBCA5E442861373E686DCF3405
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Red salud UC CHRISTUS
 - **Renta:** ~$1.160.000 mensual (diurno; plazo fijo; 42 h)
 - **Encaje:** Alto — UTM diurna de reemplazo estival; calza con muestras y ambulatorio del base. Publicado hace ~2 días / actualizado ayer.
+- **Commit CV:** `fbd068e1d2564082d4cae6cbf606783c70eb6390`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-05 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
