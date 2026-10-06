@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-02 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7E0291D6D09C7AEF61373E686DCF3405
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Clínica Medical Home
 - **Renta:** a convenir (jornada extraordinaria / volante; listado muestra ~$1.300.000)
 - **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación con URL nueva vs OF-20260930-04 / OF-20260907-01.
+- **Commit CV:** `10f35e6904d5d810281c12b9881c152d422616b5`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-03 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
