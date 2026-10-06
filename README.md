@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-06 — Enfermero(a) Clínico(a) — Las Condes / oriente
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-86926FE1E1410F8461373E686DCF3405
+- **Commit:** `f480252dcc788f539647d17c9cbf73aba7615473`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínico, turnos, Las Condes, procedimientos, IAAS
+
+
 ## 2026-10-06 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-diurno-horario-pm-las-condes-en-santiago-penalolen-D70373257B30160D61373E686DCF3405
