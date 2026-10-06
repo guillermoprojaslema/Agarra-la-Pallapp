@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261006-05 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-talagante-en-talagante-8B8BC02C67961E9C61373E686DCF3405
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** $75.000 (según aviso; reemplazo con posible extensión)
 - **Encaje:** Medio-alto — atención directa y supervisión de procedimientos en institución de salud; cercano a APS/box. Publicado ayer.
+- **Commit CV:** `ad1ec24681ee81453f0ab79528562bb70befd6b5`
 - **Detectada:** 2026-10-06
 
 ## OF-20261006-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
