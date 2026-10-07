@@ -12,9 +12,82 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
-## OF-20261006-01 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
+## OF-20261007-01 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
 
 - **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-procedimientos-reemplazos-centros-medicos-santiago-en-santiago-providencia-A2465B618A30B60261373E686DCF3405
+- **Comuna / zona:** Providencia / sucursales centros médicos, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $1.160.000 líquido (reemplazo; 42 h)
+- **Encaje:** Alto — gestión de procedimientos y supervisión TENS; calza con box/procedimientos/IAAS del base. Publicado ~hace 6 días.
+- **Commit CV:** `85f2c9279cc608cec3095cc5e1543ae2314608a8`
+- **Detectada:** 2026-10-07
+
+## OF-20261007-02 — Enfermero/a centro médico (reemplazo) — Santiago Centro (XinerLink)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-centro-medico-santiago-centro-en-santiago-centro-9FAA521AA315632861373E686DCF3405
+- **Comuna / zona:** Santiago Centro, RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** $1.160.000 líquido (reemplazo; 42 h; turnos diurnos L–V + sábado)
+- **Encaje:** Alto — procedimientos y supervisión TENS en centro médico ambulatorio; alineado a APS/box del base. Publicado ~hace 6 días.
+- **Detectada:** 2026-10-07
+
+## OF-20261007-03 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-santiago-de-manera-volante-en-santiago-providencia-4E7E9CC86192855461373E686DCF3405
+- **Comuna / zona:** Providencia / Santiago (volante), RM
+- **Fuente:** Computrabajo / XinerLink
+- **Renta:** ~$1.100.000 mensual
+- **Encaje:** Alto — atención de enfermería volante en centro médico (planificar, controlar y evaluar cuidados); el base acredita volante/APS/procedimientos. Publicado ~hace 5 días.
+- **Detectada:** 2026-10-07
+
+## OF-20261007-04 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeras-coordinador-clinico-en-santiago-nunoa-9AC963E4E27D562461373E686DCF3405
+- **Comuna / zona:** Ñuñoa, RM
+- **Fuente:** Computrabajo / Progestion Chile
+- **Renta:** no publicada (proyecto hasta septiembre con posible extensión)
+- **Encaje:** Medio — asesoramiento técnico/clínico a profesionales y uso seguro de productos médicos (más comercial/clínico que APS); el título EU del base habilita, sin experiencia de coordinación de dispositivos. Actualizado hoy (~hace 3 h).
+- **Detectada:** 2026-10-07
+
+## OF-20261007-05 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-eu-urgencias-4to-turno-institucion-de-salud-privada-maipu-en-santiago-maipu-6F1D51FB234B0C3261373E686DCF3405
+- **Comuna / zona:** Maipú / Cerro Navia, RM
+- **Fuente:** Computrabajo / Grupo Medical
+- **Renta:** no publicada (honorarios; 4° turno)
+- **Encaje:** Medio — urgencias con procedimientos y valoración; SAR/procedimientos del base ayudan; sin experiencia formal de urgencia hospitalaria acreditada. Publicado ~hace 2 días.
+- **Detectada:** 2026-10-07
+
+## OF-20261007-06 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-10-07
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-honorario-recinto-penitenciario-santiago-1-en-santiago-centro-919ADE70198BA3C261373E686DCF3405
+- **Comuna / zona:** Santiago Centro (Santiago 1), RM
+- **Fuente:** Computrabajo / Achs Servicios
+- **Renta:** no publicada (honorarios)
+- **Encaje:** Medio — cuidado y atención en consulta a internos; el base aporta procedimientos/consulta APS más que contexto penitenciario. Publicado ~hace 5 días.
+- **Detectada:** 2026-10-07
+
+## OF-20261006-01 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
+
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-volantes-experiencia-toma-de-muestra-reemplazo-en-santiago-estacion-central-564D5E6C0867A34E61373E686DCF3405
@@ -23,11 +96,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** $1.100.000 mensual (volante; reemplazo)
 - **Encaje:** Alto — UTM/volante de muestras; el base acredita toma de muestras, antígeno/PCR y movilidad APS. Publicado ayer.
 - **Commit CV:** `e1b4eca580df96b25110c8b48b87fad56459bf52`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Postulado» / home candidato). Killer Q: título+SIS+HB; UTM APS/domicilio; San Joaquín +56 9 4203 5552; referencias; volante RM sí. CV de la cuenta.
+
 
 ## OF-20261006-02 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-7E0291D6D09C7AEF61373E686DCF3405
@@ -36,11 +112,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** a convenir (jornada extraordinaria / volante; listado muestra ~$1.300.000)
 - **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación con URL nueva vs OF-20260930-04 / OF-20260907-01.
 - **Commit CV:** `10f35e6904d5d810281c12b9881c152d422616b5`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Te postulaste correctamente»). Honestas: volante RM sí; sin UCI/UTI ni TQT/VM; titulado SIS; San Joaquín + contacto; apoyo TENS sí. CV de la cuenta.
+
 
 ## OF-20261006-03 — Enfermero(a) Toma de Muestras Volante (pre y post natal) — UC CHRISTUS
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-en-santiago-estacion-central-C60DDA6E4A6BACAA61373E686DCF3405
@@ -49,11 +128,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** $1.100.000 mensual (42 h; otro tipo de contrato)
 - **Encaje:** Alto — UTM volante pre/post natal; el base acredita muestras y box/APS. Publicado ayer.
 - **Commit CV:** `f707e0891b112a50d37d4b1c3c8a738a075f19eb`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Te postulaste correctamente»). Killer Q: 42 h sí; licencia materna sí; UTM APS; San Joaquín; contacto/correo Axel; título U. Central 2021; disponibilidad inmediata. CV de la cuenta.
+
 
 ## OF-20261006-04 — Enfermero(a) UTM (Toma de Muestras), Reemplazo de Verano — Clínica San Carlos
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-utm-toma-de-muestras-reemplazo-de-verano-clinica-san-carlos-59153EDBCA5E442861373E686DCF3405
@@ -62,11 +144,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** ~$1.160.000 mensual (diurno; plazo fijo; 42 h)
 - **Encaje:** Alto — UTM diurna de reemplazo estival; calza con muestras y ambulatorio del base. Publicado hace ~2 días / actualizado ayer.
 - **Commit CV:** `fbd068e1d2564082d4cae6cbf606783c70eb6390`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Te postulaste correctamente»). Killer Q: Las Condes sí; título U. Central; renta mercado; sábados sí; reemplazo verano sí; UTM APS; ~4 años APS; uniforme sí. CV de la cuenta.
+
 
 ## OF-20261006-05 — Enfermera(o) Lunes a Viernes — Talagante (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-lunes-a-viernes-talagante-en-talagante-8B8BC02C67961E9C61373E686DCF3405
@@ -75,11 +160,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** $75.000 (según aviso; reemplazo con posible extensión)
 - **Encaje:** Medio-alto — atención directa y supervisión de procedimientos en institución de salud; cercano a APS/box. Publicado ayer.
 - **Commit CV:** `ad1ec24681ee81453f0ab79528562bb70befd6b5`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Te postulaste correctamente»). Killer Q: HB+SIS; correo/teléfono Axel; San Joaquín + disponibilidad. CV de la cuenta.
+
 
 ## OF-20261006-06 — Enfermera/o unidad ambulatoria — Melipilla (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-unidad-ambulatoria-melipilla-en-melipilla-24ABC2EABFC640ED61373E686DCF3405
@@ -88,11 +176,14 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Renta:** no confiable en listado (placeholder); proyecto/reemplazo
 - **Encaje:** Alto — unidad ambulatoria / gestión del cuidado; calza con APS y procedimientos del base. Publicado ayer.
 - **Commit CV:** `280e26d5d920e94d9685fbbb357a75a4c322d7f1`
+- **Fecha postulación:** 2026-10-06
 - **Detectada:** 2026-10-06
+- **Nota postulación:** 2026-10-06 — Computrabajo («Te postulaste correctamente»). Killer Q respondidas; CV de la cuenta.
+
 
 ## OF-20261006-07 — Enfermeras/os Diurno, Horario PM — Las Condes (coordinación)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-diurno-horario-pm-las-condes-en-santiago-penalolen-D70373257B30160D61373E686DCF3405
@@ -103,9 +194,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Commit CV:** `656070da4134329c4b02379321409f5c81f7557d`
 - **Detectada:** 2026-10-06
 
+- **Fecha postulación:** 2026-10-06
+
 ## OF-20261006-08 — Enfermero(a) Clínico(a) — Las Condes / oriente
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-clinicoa-en-santiago-las-condes-86926FE1E1410F8461373E686DCF3405
@@ -115,10 +208,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — rol clínico hospitalario/residencial oriente; SAR y procedimientos del base ayudan; sin UCI/MQ acreditado. Actualizado hoy.
 - **Commit CV:** `f480252dcc788f539647d17c9cbf73aba7615473`
 - **Detectada:** 2026-10-06
+- **Fecha postulación:** 2026-10-06
 
 ## OF-20261006-09 — Enfermera/o Medicina 4° turno — Peñalolén ($1.400.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-medicina-4to-turno-penalolen-1400000-experiencia-excluyente-en-medicina-cuidado-584F4C5A0CC1DED861373E686DCF3405
@@ -128,10 +222,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — cuidados medios hospitalarios; SAR/procedimientos del base ayudan. Republicación con URL distinta a OF-20260902-08 (ya postulada).
 - **Commit CV:** `a779f51f86dd7201ea4229204a99c1673458164c`
 - **Detectada:** 2026-10-06
+- **Fecha postulación:** 2026-10-06
 
 ## OF-20261006-10 — Enfermer@ Clínica — Macul ($1.000.000)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-06
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-enfermeria-en-santiago-macul-F282D29F9FC8458661373E686DCF3405
@@ -141,6 +236,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — clínica multidisciplinaria en Macul; el base aporta box/APS. Piden ~5 años de experiencia (gap vs trayectoria del base). Actualizado 28-09 / vigente en listado.
 - **Commit CV:** `7dff8c52c173a82dffeb7351a3e6879a2fd89f29`
 - **Detectada:** 2026-10-06
+- **Fecha postulación:** 2026-10-06
 
 ## OF-20260930-01 — Enfermera/o Clínica/o — centro médico ambulatorio (procedimientos) Providencia
 
