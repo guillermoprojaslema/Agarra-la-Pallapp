@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-eu-urgencias-4to-turno-institucion-de-salud-privada-maipu-en-santiago-maipu-6F1D51FB234B0C3261373E686DCF3405
+- **Commit:** `817ed572c0c45df5bdb29a724a85a33450fa5abb`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** urgencias, 4to turno, Maipú, procedimientos, RCP
+
+
 ## 2026-10-07 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeras-coordinador-clinico-en-santiago-nunoa-9AC963E4E27D562461373E686DCF3405
