@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-procedimientos-reemplazos-centros-medicos-santiago-en-santiago-providencia-A2465B618A30B60261373E686DCF3405
+- **Commit:** `85f2c9279cc608cec3095cc5e1543ae2314608a8`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** procedimientos, centros médicos, TENS, IAAS, reemplazo
+
+
 ## 2026-10-06 — Enfermer@ Clínica — Macul ($1.000.000)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermera-clinica-enfermeria-en-santiago-macul-F282D29F9FC8458661373E686DCF3405
