@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261007-04 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeras-coordinador-clinico-en-santiago-nunoa-9AC963E4E27D562461373E686DCF3405
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Progestion Chile
 - **Renta:** no publicada (proyecto hasta septiembre con posible extensión)
 - **Encaje:** Medio — asesoramiento técnico/clínico a profesionales y uso seguro de productos médicos (más comercial/clínico que APS); el título EU del base habilita, sin experiencia de coordinación de dispositivos. Actualizado hoy (~hace 3 h).
+- **Commit CV:** `040def7a2aa5cebfb58fd65c7054eb97d0f3003a`
 - **Detectada:** 2026-10-07
 
 ## OF-20261007-05 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
