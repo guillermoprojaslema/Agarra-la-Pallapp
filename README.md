@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeras-coordinador-clinico-en-santiago-nunoa-9AC963E4E27D562461373E686DCF3405
+- **Commit:** `040def7a2aa5cebfb58fd65c7054eb97d0f3003a`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** coordinación clínica, asesoría, productos médicos, calidad, IAAS
+
+
 ## 2026-10-07 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-santiago-de-manera-volante-en-santiago-providencia-4E7E9CC86192855461373E686DCF3405
