@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — Enfermero/a centro médico (reemplazo) — Santiago Centro (XinerLink)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-centro-medico-santiago-centro-en-santiago-centro-9FAA521AA315632861373E686DCF3405
+- **Commit:** `fa7368fa0de8a6c23787c3a40f79186615a049c5`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** centro médico, procedimientos, Santiago Centro, TENS, IAAS
+
+
 ## 2026-10-07 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-procedimientos-reemplazos-centros-medicos-santiago-en-santiago-providencia-A2465B618A30B60261373E686DCF3405
