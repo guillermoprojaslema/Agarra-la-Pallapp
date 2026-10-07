@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-santiago-de-manera-volante-en-santiago-providencia-4E7E9CC86192855461373E686DCF3405
+- **Commit:** `e4356b677b8dd7bec5d197d62cbc8a322903efd5`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** volante, centros médicos, procedimientos, APS, IAAS
+
+
 ## 2026-10-07 — Enfermero/a centro médico (reemplazo) — Santiago Centro (XinerLink)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-centro-medico-santiago-centro-en-santiago-centro-9FAA521AA315632861373E686DCF3405
