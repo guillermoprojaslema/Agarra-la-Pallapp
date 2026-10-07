@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261007-06 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-honorario-recinto-penitenciario-santiago-1-en-santiago-centro-919ADE70198BA3C261373E686DCF3405
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Achs Servicios
 - **Renta:** no publicada (honorarios)
 - **Encaje:** Medio — cuidado y atención en consulta a internos; el base aporta procedimientos/consulta APS más que contexto penitenciario. Publicado ~hace 5 días.
+- **Commit CV:** `4056f70bb8a9e007c4e827328b37abdf1220f155`
 - **Detectada:** 2026-10-07
 
 ## OF-20261006-01 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
