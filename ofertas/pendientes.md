@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261007-02 — Enfermero/a centro médico (reemplazo) — Santiago Centro (XinerLink)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-centro-medico-santiago-centro-en-santiago-centro-9FAA521AA315632861373E686DCF3405
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** $1.160.000 líquido (reemplazo; 42 h; turnos diurnos L–V + sábado)
 - **Encaje:** Alto — procedimientos y supervisión TENS en centro médico ambulatorio; alineado a APS/box del base. Publicado ~hace 6 días.
+- **Commit CV:** `fa7368fa0de8a6c23787c3a40f79186615a049c5`
 - **Detectada:** 2026-10-07
 
 ## OF-20261007-03 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
