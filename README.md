@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-10-07 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-honorario-recinto-penitenciario-santiago-1-en-santiago-centro-919ADE70198BA3C261373E686DCF3405
+- **Commit:** `4056f70bb8a9e007c4e827328b37abdf1220f155`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** consulta, honorarios, ACHS, procedimientos, IAAS
+
+
 ## 2026-10-07 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-eu-urgencias-4to-turno-institucion-de-salud-privada-maipu-en-santiago-maipu-6F1D51FB234B0C3261373E686DCF3405
