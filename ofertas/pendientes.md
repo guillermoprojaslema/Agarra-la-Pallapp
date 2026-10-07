@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261007-05 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-eu-urgencias-4to-turno-institucion-de-salud-privada-maipu-en-santiago-maipu-6F1D51FB234B0C3261373E686DCF3405
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Grupo Medical
 - **Renta:** no publicada (honorarios; 4° turno)
 - **Encaje:** Medio — urgencias con procedimientos y valoración; SAR/procedimientos del base ayudan; sin experiencia formal de urgencia hospitalaria acreditada. Publicado ~hace 2 días.
+- **Commit CV:** `817ed572c0c45df5bdb29a724a85a33450fa5abb`
 - **Detectada:** 2026-10-07
 
 ## OF-20261007-06 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
