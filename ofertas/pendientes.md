@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261007-03 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-santiago-de-manera-volante-en-santiago-providencia-4E7E9CC86192855461373E686DCF3405
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / XinerLink
 - **Renta:** ~$1.100.000 mensual
 - **Encaje:** Alto — atención de enfermería volante en centro médico (planificar, controlar y evaluar cuidados); el base acredita volante/APS/procedimientos. Publicado ~hace 5 días.
+- **Commit CV:** `e4356b677b8dd7bec5d197d62cbc8a322903efd5`
 - **Detectada:** 2026-10-07
 
 ## OF-20261007-04 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
