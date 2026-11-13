@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Jefe(a) de atención domiciliaria — Enfermero(a) CESFAM / CORMUP
+
+- **URL:** https://www.laborum.cl/empleos/jefea-de-atencion-domiciliaria-enfermeroa-cormup-1118512241.html
+- **Commit:** `50f7b9856f097de79cd9bfa0ffaf915f5fcfbb93`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, APS, jefatura, postrados, CESFAM
+
+
 ## 2026-10-07 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-honorario-recinto-penitenciario-santiago-1-en-santiago-centro-919ADE70198BA3C261373E686DCF3405
