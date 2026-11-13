@@ -27,7 +27,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-02 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-8700619FB51FB99361373E686DCF3405
@@ -35,6 +35,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Clínica Medical Home
 - **Renta:** a convenir (jornada extraordinaria / volante)
 - **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación con hash nuevo vs OF-20261006-02 / OF-20260930-04. Actualizada ayer.
+- **Commit CV:** `88a281f82a994fdb4f87fc472b0d403dc58518d6`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-03 — Enfermero/a Part Time Curacaví / Atención domiciliaria — Home Medical Clinic
