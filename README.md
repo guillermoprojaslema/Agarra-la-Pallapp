@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermeras/os — Clínica Alemana (pool servicios)
+
+- **URL:** https://www.laborum.cl/empleos/enfermeras-os-clinica-alemana-global-consulting-sa-1118514902.html
+- **Commit:** `bc14946bec13e06e78ac35c400c7f89bc71f9bcc`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínica, pool, turnos, procedimientos, Clínica Alemana
+
+
 ## 2026-11-13 — Enfermero(a) de Imágenes Zona Centro (verano) — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-de-imagenes-zona-centro-periodo-de-verano-42hrs-en-santiago-centro-529A742E688C9D3D61373E686DCF3405
