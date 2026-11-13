@@ -105,7 +105,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-08 — Enfermeras/os — Clínica Alemana (pool servicios)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://www.laborum.cl/empleos/enfermeras-os-clinica-alemana-global-consulting-sa-1118514902.html
@@ -113,6 +113,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Laborum / Clínica Alemana
 - **Renta:** a convenir (full-time; turnos según unidad; ~50 vacantes)
 - **Encaje:** Medio — pool clínico hospitalario/ambulatorio; el base es más APS/HOSDOM que clínica privada de alta complejidad. Publicado 09-11-2026.
+- **Commit CV:** `bc14946bec13e06e78ac35c400c7f89bc71f9bcc`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-09 — Enfermera(os) Universitaria(os) atención domiciliaria RM (part time)
