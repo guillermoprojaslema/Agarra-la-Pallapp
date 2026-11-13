@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermera(os) Universitaria(os) atención domiciliaria RM (part time)
+
+- **URL:** https://www.laborum.cl/empleos/buscamos-enfermeraos-universitariaos-1118484598.html
+- **Commit:** `1487b4726896604ddf68bb32f7221396ce2b3564`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, part time, RM, Foley, curaciones
+
+
 ## 2026-11-13 — Enfermeras/os — Clínica Alemana (pool servicios)
 
 - **URL:** https://www.laborum.cl/empleos/enfermeras-os-clinica-alemana-global-consulting-sa-1118514902.html
