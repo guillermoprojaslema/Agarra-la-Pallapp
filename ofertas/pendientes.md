@@ -40,7 +40,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-03 — Enfermero/a Part Time Curacaví / Atención domiciliaria — Home Medical Clinic
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-part-time-curacavi-atencion-domiciliaria-en-curacavi-31E1049B24E27A1261373E686DCF3405
@@ -48,6 +48,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / Home Medical Clinic
 - **Renta:** a convenir (part time / 44 h listado)
 - **Encaje:** Alto — atención domiciliaria part time; calza con HOSDOM/postrados del base. Publicado hace ~7 días.
+- **Commit CV:** `fd5c24cd4f8423c1d74153770ac5f562e32f78c4`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-04 — Enfermera(o)s Clínica(o)s Temporada Verano — UC CHRISTUS (zona oriente)
