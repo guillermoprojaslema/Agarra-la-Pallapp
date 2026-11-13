@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermeros(as) Quimioterapia Temporada de verano — UC CHRISTUS Centro del Cáncer
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-quimioterapia-temporada-de-verano-centro-del-cancer-en-santiago-centro-4D7C7716BA624BFE61373E686DCF3405
+- **Commit:** `f96f86edca08421aa914e6a9db25e996ae0337de`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** quimioterapia, temporada verano, IAAS, ambulatorio, UC CHRISTUS
+
+
 ## 2026-11-13 — Enfermera(o)s Clínica(o)s Temporada Verano — UC CHRISTUS (zona oriente)
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeraos-clinicaos-temporada-verano-en-santiago-las-condes-9FD014C013AB9FD161373E686DCF3405
