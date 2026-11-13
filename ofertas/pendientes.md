@@ -66,7 +66,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-05 — Enfermeros(as) Quimioterapia Temporada de verano — UC CHRISTUS Centro del Cáncer
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-quimioterapia-temporada-de-verano-centro-del-cancer-en-santiago-centro-4D7C7716BA624BFE61373E686DCF3405
@@ -74,6 +74,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (plazo fijo; 44 h; temporada verano)
 - **Encaje:** Medio — cuidados de enfermería en quimioterapia; piden ideal oncología (gap). Título + IIAS del perfil ayudan. Actualizada ayer.
+- **Commit CV:** `f96f86edca08421aa914e6a9db25e996ae0337de`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-06 — Enfermero(a) Toma de Muestras Volante (reemplazo vacaciones) — UC CHRISTUS
