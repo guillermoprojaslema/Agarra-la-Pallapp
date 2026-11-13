@@ -12,9 +12,118 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ---
 
-## OF-20261007-01 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
+## OF-20261113-01 — Jefe(a) de atención domiciliaria — Enfermero(a) CESFAM / CORMUP
 
 - **Estado:** lista_para_postular
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://www.laborum.cl/empleos/jefea-de-atencion-domiciliaria-enfermeroa-cormup-1118512241.html
+- **Comuna / zona:** Santiago / CESFAM (RM)
+- **Fuente:** Laborum / Municipal-CESFAM
+- **Renta:** $1.627.838 + $258.863 art. 45 (bruto; 44 h; APS cat. B; 3 meses renovable)
+- **Encaje:** Alto — jefatura de programas de atención domiciliaria APS (frágiles, dependencia); el base acredita APS/HOSDOM/postrados. Exige ≥2 años APS; jefatura deseable (gap parcial). Publicado 06-11-2026.
+- **Commit CV:** `50f7b9856f097de79cd9bfa0ffaf915f5fcfbb93`
+- **Detectada:** 2026-11-13
+
+## OF-20261113-02 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-8700619FB51FB99361373E686DCF3405
+- **Comuna / zona:** Recoleta / cobertura RM
+- **Fuente:** Computrabajo / Clínica Medical Home
+- **Renta:** a convenir (jornada extraordinaria / volante)
+- **Encaje:** Alto — HOSDOM volante; el base cubre domiciliaria/postrados. Piden TQT/GTT/VM comprobables (gap). Republicación con hash nuevo vs OF-20261006-02 / OF-20260930-04. Actualizada ayer.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-03 — Enfermero/a Part Time Curacaví / Atención domiciliaria — Home Medical Clinic
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-part-time-curacavi-atencion-domiciliaria-en-curacavi-31E1049B24E27A1261373E686DCF3405
+- **Comuna / zona:** Curacaví, RM
+- **Fuente:** Computrabajo / Home Medical Clinic
+- **Renta:** a convenir (part time / 44 h listado)
+- **Encaje:** Alto — atención domiciliaria part time; calza con HOSDOM/postrados del base. Publicado hace ~7 días.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-04 — Enfermera(o)s Clínica(o)s Temporada Verano — UC CHRISTUS (zona oriente)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeraos-clinicaos-temporada-verano-en-santiago-las-condes-9FD014C013AB9FD161373E686DCF3405
+- **Comuna / zona:** Las Condes / centros zona oriente, RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (plazo fijo; 44 h; temporada verano)
+- **Encaje:** Medio-alto — enfermería clínica ambulatoria en centros médicos; el base trae box/procedimientos/APS. Actualizada ayer.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-05 — Enfermeros(as) Quimioterapia Temporada de verano — UC CHRISTUS Centro del Cáncer
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-quimioterapia-temporada-de-verano-centro-del-cancer-en-santiago-centro-4D7C7716BA624BFE61373E686DCF3405
+- **Comuna / zona:** Santiago Centro (Diagonal Paraguay 319)
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (plazo fijo; 44 h; temporada verano)
+- **Encaje:** Medio — cuidados de enfermería en quimioterapia; piden ideal oncología (gap). Título + IIAS del perfil ayudan. Actualizada ayer.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-06 — Enfermero(a) Toma de Muestras Volante (reemplazo vacaciones) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-reemplazo-vacaciones-reemplazo-vacaciones-en-santiago-centro-C9397B31581B94AC61373E686DCF3405
+- **Comuna / zona:** Santiago Centro / volante RM
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (reemplazo vacaciones)
+- **Encaje:** Alto — UTM volante; el base acredita toma de muestras y movilidad. Hash nuevo vs OF-20261006-03. Publicado hace ~2 días.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-07 — Enfermero(a) de Imágenes Zona Centro (verano) — UC CHRISTUS
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-de-imagenes-zona-centro-periodo-de-verano-42hrs-en-santiago-centro-529A742E688C9D3D61373E686DCF3405
+- **Comuna / zona:** Santiago Centro / imágenes zona centro
+- **Fuente:** Computrabajo / UC CHRISTUS
+- **Renta:** a convenir (42 h; período verano)
+- **Encaje:** Medio — enfermería en servicio de imágenes ambulatorio; procedimientos/box del base ayudan; experiencia específica en imágenes no acreditada. Publicado hace ~2 días.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-08 — Enfermeras/os — Clínica Alemana (pool servicios)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://www.laborum.cl/empleos/enfermeras-os-clinica-alemana-global-consulting-sa-1118514902.html
+- **Comuna / zona:** Vitacura / sector oriente, RM
+- **Fuente:** Laborum / Clínica Alemana
+- **Renta:** a convenir (full-time; turnos según unidad; ~50 vacantes)
+- **Encaje:** Medio — pool clínico hospitalario/ambulatorio; el base es más APS/HOSDOM que clínica privada de alta complejidad. Publicado 09-11-2026.
+- **Detectada:** 2026-11-13
+
+## OF-20261113-09 — Enfermera(os) Universitaria(os) atención domiciliaria RM (part time)
+
+- **Estado:** pendiente
+- **Vigencia:** vigente
+- **Revisada:** 2026-11-13
+- **URL:** https://www.laborum.cl/empleos/buscamos-enfermeraos-universitariaos-1118484598.html
+- **Comuna / zona:** RM (oriente/centro/norte/poniente-sur según cobertura)
+- **Fuente:** Laborum
+- **Renta:** a convenir (part time; visitas según necesidad)
+- **Encaje:** Medio-alto — domicilio/HOSDOM; el base encaja en procedimientos en terreno. Piden ≥4 años HOSDOM + 4 años SIS (gap de antigüedad). Publicado 16-10; actualizado hace ~9 días (aún vigente).
+- **Detectada:** 2026-11-13
+
+## OF-20261007-01 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
+
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-procedimientos-reemplazos-centros-medicos-santiago-en-santiago-providencia-A2465B618A30B60261373E686DCF3405
@@ -24,10 +133,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — gestión de procedimientos y supervisión TENS; calza con box/procedimientos/IAAS del base. Publicado ~hace 6 días.
 - **Commit CV:** `85f2c9279cc608cec3095cc5e1543ae2314608a8`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261007-02 — Enfermero/a centro médico (reemplazo) — Santiago Centro (XinerLink)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-centro-medico-santiago-centro-en-santiago-centro-9FAA521AA315632861373E686DCF3405
@@ -37,10 +147,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — procedimientos y supervisión TENS en centro médico ambulatorio; alineado a APS/box del base. Publicado ~hace 6 días.
 - **Commit CV:** `fa7368fa0de8a6c23787c3a40f79186615a049c5`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261007-03 — Enfermeros/as volante — centros médicos Santiago (XinerLink / Providencia)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-santiago-de-manera-volante-en-santiago-providencia-4E7E9CC86192855461373E686DCF3405
@@ -50,10 +161,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Alto — atención de enfermería volante en centro médico (planificar, controlar y evaluar cuidados); el base acredita volante/APS/procedimientos. Publicado ~hace 5 días.
 - **Commit CV:** `e4356b677b8dd7bec5d197d62cbc8a322903efd5`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261007-04 — Enfermeras/ Coordinador clínico — Progestion (Ñuñoa)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeras-coordinador-clinico-en-santiago-nunoa-9AC963E4E27D562461373E686DCF3405
@@ -63,10 +175,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — asesoramiento técnico/clínico a profesionales y uso seguro de productos médicos (más comercial/clínico que APS); el título EU del base habilita, sin experiencia de coordinación de dispositivos. Actualizado hoy (~hace 3 h).
 - **Commit CV:** `040def7a2aa5cebfb58fd65c7054eb97d0f3003a`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261007-05 — EU Urgencias 4° turno — institución privada Maipú (Grupo Medical)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-eu-urgencias-4to-turno-institucion-de-salud-privada-maipu-en-santiago-maipu-6F1D51FB234B0C3261373E686DCF3405
@@ -76,10 +189,11 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — urgencias con procedimientos y valoración; SAR/procedimientos del base ayudan; sin experiencia formal de urgencia hospitalaria acreditada. Publicado ~hace 2 días.
 - **Commit CV:** `817ed572c0c45df5bdb29a724a85a33450fa5abb`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261007-06 — Enfermera/o Honorario — Recinto Penitenciario Santiago 1 (ACHS Servicios)
 
-- **Estado:** lista_para_postular
+- **Estado:** postulada
 - **Vigencia:** vigente
 - **Revisada:** 2026-10-07
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerao-honorario-recinto-penitenciario-santiago-1-en-santiago-centro-919ADE70198BA3C261373E686DCF3405
@@ -89,6 +203,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Encaje:** Medio — cuidado y atención en consulta a internos; el base aporta procedimientos/consulta APS más que contexto penitenciario. Publicado ~hace 5 días.
 - **Commit CV:** `4056f70bb8a9e007c4e827328b37abdf1220f155`
 - **Detectada:** 2026-10-07
+- **Fecha postulación:** 2026-10-07
 
 ## OF-20261006-01 — Enfermeros(as) Volantes toma de muestra (reemplazo) — XinerLink / RM
 
