@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermera(o)s Clínica(o)s Temporada Verano — UC CHRISTUS (zona oriente)
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeraos-clinicaos-temporada-verano-en-santiago-las-condes-9FD014C013AB9FD161373E686DCF3405
+- **Commit:** `631f05244c6eb99c024cdcd9e0cdb60357f01172`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** clínico, temporada verano, ambulatorio, APS, UC CHRISTUS
+
+
 ## 2026-11-13 — Enfermero/a Part Time Curacaví / Atención domiciliaria — Home Medical Clinic
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-part-time-curacavi-atencion-domiciliaria-en-curacavi-31E1049B24E27A1261373E686DCF3405
