@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermero(a) de Imágenes Zona Centro (verano) — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-de-imagenes-zona-centro-periodo-de-verano-42hrs-en-santiago-centro-529A742E688C9D3D61373E686DCF3405
+- **Commit:** `f07740ab72d15cfccada0b108df2617e1c319742`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** imágenes, ambulatorio, temporada verano, IAAS, UC CHRISTUS
+
+
 ## 2026-11-13 — Enfermero(a) Toma de Muestras Volante (reemplazo vacaciones) — UC CHRISTUS
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-reemplazo-vacaciones-reemplazo-vacaciones-en-santiago-centro-C9397B31581B94AC61373E686DCF3405
