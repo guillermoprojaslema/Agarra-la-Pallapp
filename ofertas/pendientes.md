@@ -53,7 +53,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-04 — Enfermera(o)s Clínica(o)s Temporada Verano — UC CHRISTUS (zona oriente)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeraos-clinicaos-temporada-verano-en-santiago-las-condes-9FD014C013AB9FD161373E686DCF3405
@@ -61,6 +61,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (plazo fijo; 44 h; temporada verano)
 - **Encaje:** Medio-alto — enfermería clínica ambulatoria en centros médicos; el base trae box/procedimientos/APS. Actualizada ayer.
+- **Commit CV:** `631f05244c6eb99c024cdcd9e0cdb60357f01172`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-05 — Enfermeros(as) Quimioterapia Temporada de verano — UC CHRISTUS Centro del Cáncer
