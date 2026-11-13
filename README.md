@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermero(a) Toma de Muestras Volante (reemplazo vacaciones) — UC CHRISTUS
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-reemplazo-vacaciones-reemplazo-vacaciones-en-santiago-centro-C9397B31581B94AC61373E686DCF3405
+- **Commit:** `49adf0f1c879f442f89964f6f164543637470330`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** toma de muestras, UTM, volante, vacaciones, UC CHRISTUS
+
+
 ## 2026-11-13 — Enfermeros(as) Quimioterapia Temporada de verano — UC CHRISTUS Centro del Cáncer
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerosas-quimioterapia-temporada-de-verano-centro-del-cancer-en-santiago-centro-4D7C7716BA624BFE61373E686DCF3405
