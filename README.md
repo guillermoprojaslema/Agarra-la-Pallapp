@@ -20,6 +20,15 @@ Cada entrada del historial registra la **URL del aviso** y el **hash del commit*
 
 ## Historial de postulaciones
 
+## 2026-11-13 — Enfermero/a Part Time Curacaví / Atención domiciliaria — Home Medical Clinic
+
+- **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-part-time-curacavi-atencion-domiciliaria-en-curacavi-31E1049B24E27A1261373E686DCF3405
+- **Commit:** `fd5c24cd4f8423c1d74153770ac5f562e32f78c4`
+- **Base:** `CV_Base.docx`
+- **PDF:** `CV_Axel_Pfingsten_Arpe.pdf`
+- **Keywords ATS:** atención domiciliaria, Curacaví, part time, Foley, IAAS
+
+
 ## 2026-11-13 — Enfermeras/os Volantes atención domiciliaria / RM — Clínica Medical Home
 
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermerasos-volantes-para-atencion-domiciliaria-region-metropolitana-en-santiago-recoleta-8700619FB51FB99361373E686DCF3405
