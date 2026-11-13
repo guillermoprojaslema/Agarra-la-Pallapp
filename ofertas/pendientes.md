@@ -79,7 +79,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-06 — Enfermero(a) Toma de Muestras Volante (reemplazo vacaciones) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-toma-de-muestras-volante-reemplazo-vacaciones-reemplazo-vacaciones-en-santiago-centro-C9397B31581B94AC61373E686DCF3405
@@ -87,6 +87,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (reemplazo vacaciones)
 - **Encaje:** Alto — UTM volante; el base acredita toma de muestras y movilidad. Hash nuevo vs OF-20261006-03. Publicado hace ~2 días.
+- **Commit CV:** `49adf0f1c879f442f89964f6f164543637470330`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-07 — Enfermero(a) de Imágenes Zona Centro (verano) — UC CHRISTUS
