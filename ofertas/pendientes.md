@@ -118,7 +118,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-09 — Enfermera(os) Universitaria(os) atención domiciliaria RM (part time)
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://www.laborum.cl/empleos/buscamos-enfermeraos-universitariaos-1118484598.html
@@ -126,6 +126,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Laborum
 - **Renta:** a convenir (part time; visitas según necesidad)
 - **Encaje:** Medio-alto — domicilio/HOSDOM; el base encaja en procedimientos en terreno. Piden ≥4 años HOSDOM + 4 años SIS (gap de antigüedad). Publicado 16-10; actualizado hace ~9 días (aún vigente).
+- **Commit CV:** `1487b4726896604ddf68bb32f7221396ce2b3564`
 - **Detectada:** 2026-11-13
 
 ## OF-20261007-01 — Enfermeros/as Procedimientos (reemplazos centros médicos) — XinerLink / Providencia
