@@ -92,7 +92,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 
 ## OF-20261113-07 — Enfermero(a) de Imágenes Zona Centro (verano) — UC CHRISTUS
 
-- **Estado:** pendiente
+- **Estado:** lista_para_postular
 - **Vigencia:** vigente
 - **Revisada:** 2026-11-13
 - **URL:** https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-enfermeroa-de-imagenes-zona-centro-periodo-de-verano-42hrs-en-santiago-centro-529A742E688C9D3D61373E686DCF3405
@@ -100,6 +100,7 @@ Vigencia del aviso (independiente del estado): `vigente` · `no_disponible` · `
 - **Fuente:** Computrabajo / UC CHRISTUS
 - **Renta:** a convenir (42 h; período verano)
 - **Encaje:** Medio — enfermería en servicio de imágenes ambulatorio; procedimientos/box del base ayudan; experiencia específica en imágenes no acreditada. Publicado hace ~2 días.
+- **Commit CV:** `f07740ab72d15cfccada0b108df2617e1c319742`
 - **Detectada:** 2026-11-13
 
 ## OF-20261113-08 — Enfermeras/os — Clínica Alemana (pool servicios)
